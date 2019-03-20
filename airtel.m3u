@@ -199,40 +199,27 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226409/index.m3u8
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226289/index.m3u8 	
 #EXTINF:-1, 	God TV 
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8 	
-#EXTINF:-1, 	Punjabi rel
+#EXTINF:-1, 	Sadhna
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8 	
 #EXTINF:-1, 	Home Shop 18
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8 	
 #EXTINF:-1, 	Lok Sabha
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226349/index.m3u8 	
 #EXTINF:-1, 	FTV
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8 	
-#EXTINF:-1, 	Kanak News 
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226224/index.m3u8 	
-#EXTINF:-1, 	Direct TV Monde
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226322/index.m3u8 	
-#EXTINF:-1, 	Pitaara
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226122/index.m3u8 	
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8 		
 #EXTINF:-1, 	India Voice
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226473/index.m3u8 	
-#EXTINF:-1, 	Zee Talkies
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225921/index.m3u8 	
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226473/index.m3u8 		
 #EXTINF:-1, 	Big Ganga
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8 	
-#EXTINF:-1, 	Sony Marathi 
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226568/index.m3u8 	
 #EXTINF:-1, 	IBC 24
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8 	
 #EXTINF:-1, 	OK India
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="PAKISTAN",92 News (Opt-1)
+#EXTINF:-1 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
+#EXTINF:-1 ARY News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News
+#EXTINF:-1 Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
