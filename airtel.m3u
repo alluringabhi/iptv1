@@ -224,4 +224,7 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1, 	IBC 24
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8 	
 #EXTINF:-1, 	OK India
-http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8 	
+http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8
+#EXTINF:-1, 	Epic
+http://212.8.253.141:7071:7071/induk60/epic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDE5IDEwOjMwOjAwIEFNJmhhc2hfdmFsdWU9TThmWU5Cb0V4WW9hT3JZRWQwR2prQT09JnZhbGlkbWludXRlcz0y 
+
