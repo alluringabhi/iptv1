@@ -225,6 +225,3 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226568/index.m3u8
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8 	
 #EXTINF:-1, 	OK India
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8
-#EXTINF:-1, 	Sony Pix HD
-http://212.8.253.141:7071:7071/induk60/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDE5IDEwOjMzOjA4IEFNJmhhc2hfdmFsdWU9cGQ5OEVKZGp6dE5ZcEdWb2tWNTBGdz09JnZhbGlkbWludXRlcz0y 
-
