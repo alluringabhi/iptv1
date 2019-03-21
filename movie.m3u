@@ -1,6 +1,8 @@
 #EXTM3U	
 #EXTINF:-1, Bumblebee
 http://psv5.fyvideo.info/drive//hls/47513b3222f5f1eb37510e13f770aecf/47513b3222f5f1eb37510e13f770aecf.m3u8
+#EXTINF:-1, Bumblebee
+http://dl9.f2m.io/film/Bum.ble.bee.2018.1080p.wb-dl.Film2Movie_WS.mkv	
 #EXTINF:-1, Robin Hood 2018
 http://vodo.janokoro.org/Movie-A8000/English/Robin-Hood-2018/Robin-Hood-2018.mp4 
 #EXTINF:-1, The Final Wish
