@@ -41,7 +41,7 @@ http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8 	
 #EXTINF:-1, 	Sony Ten1 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8 
-#EXTINF:-1 Sony Ten1 HD
+#EXTINF:-1, Sony Ten1 HD
 http://jioairtel.fsports.top/airtel/airstream.m3u8?c=sonyten1hd&e=.m3u8
 #EXTINF:-1, 	Sony TEN2
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8 		
@@ -219,13 +219,13 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8 
-#EXTINF:-1 92 News
+#EXTINF:-1, 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 ARY News
+#EXTINF:-1, ARY News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
-#EXTINF:-1 Geo News
+#EXTINF:-1, Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:-1 Watan HD
+#EXTINF:-1, Watan HD
 http://51.15.236.137/hls/stream.m3u8  
     	
 
