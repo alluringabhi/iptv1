@@ -37,20 +37,24 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8 	
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8 	
+#EXTINF:-1 Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8 	
 #EXTINF:-1, 	Sony Ten1 
-http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8 	
+http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8 
+#EXTINF:-1 Sony Ten1 HD
+http://jioairtel.fsports.top/airtel/airstream.m3u8?c=sonyten1hd&e=.m3u8
 #EXTINF:-1, 	Sony TEN2
-http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8 	
-#EXTINF:-1, 	ESPN HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8 	
+http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8 		
 #EXTINF:-1, 	Sony TEN2 HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8 	
-#EXTINF:-1, 	ESPN
-http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8 	
 #EXTINF:-1, 	Sony Ten 3 HD
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8 	
+#EXTINF:-1, 	ESPN
+http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8 	
+#EXTINF:-1, 	ESPN HD
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8 
 #EXTINF:-1, 	D Sport 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8 	
 #EXTINF:-1, 	Sony PIX
@@ -58,7 +62,9 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1, 	Sony Pix HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8 	
 #EXTINF:-1, 	AXN
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8 	
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8 
+#EXTINF:-1 HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8  
 #EXTINF:-1, 	NDTV India
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225777/index.m3u8 	
 #EXTINF:-1, 	ABP News
@@ -223,3 +229,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:-1 Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1 Watan HD
+http://51.15.236.137/hls/stream.m3u8  
+    	
+
