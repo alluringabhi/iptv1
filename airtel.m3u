@@ -37,8 +37,6 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8 	
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8 	
-#EXTINF:-1 Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8 	
 #EXTINF:-1, 	Sony Ten1 
@@ -63,8 +61,6 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8 	
 #EXTINF:-1, 	AXN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8 
-#EXTINF:-1 HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8  
 #EXTINF:-1, 	NDTV India
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225777/index.m3u8 	
 #EXTINF:-1, 	ABP News
