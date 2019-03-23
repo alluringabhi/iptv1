@@ -227,5 +227,7 @@ http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1, Watan HD
 http://51.15.236.137/hls/stream.m3u8  
+#EXTINF:-1, STAR SPORTS 1
+http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjM0OjE4IEFNJmhhc2hfdmFsdWU9RmJ1ZmxmL3JGWk8xd0FkbW95dElUUT09JnZhbGlkbWludXRlcz0y
     	
 
