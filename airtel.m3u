@@ -1,9 +1,8 @@
 #EXTM3U	
 #EXTINF:-1, Star Plus HD
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
-#EXTINF:-1, Sonyy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM" 	
+#EXTINF:-1, Sony TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8 	
 #EXTINF:-1, 	& TV HD
