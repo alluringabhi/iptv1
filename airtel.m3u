@@ -338,9 +338,9 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, Watan HD
 http://51.15.236.137/hls/stream.m3u8|user-agent="ua"  
 #EXTINF:-1, STAR SPORTS 1
-http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjM0OjE4IEFNJmhhc2hfdmFsdWU9RmJ1ZmxmL3JGWk8xd0FkbW95dElUUT09JnZhbGlkbWludXRlcz0y
+http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjM0OjE4IEFNJmhhc2hfdmFsdWU9RmJ1ZmxmL3JGWk8xd0FkbW95dElUUT09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 #EXTINF:-1, STAR SPORTS 1 hindi
-http://zerolive.ddns.net:5445/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ1OjUwIEFNJmhhc2hfdmFsdWU9ZEo4L0lLaVFCazFKSzhEckhEbE5KQT09JnZhbGlkbWludXRlcz0y
+http://zerolive.ddns.net:5445/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ1OjUwIEFNJmhhc2hfdmFsdWU9ZEo4L0lLaVFCazFKSzhEckhEbE5KQT09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 #EXTINF:-1, STAR SPORTS 1
 http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ2OjUyIEFNJmhhc2hfdmFsdWU9bW5vYk8raElHOWRzSFMvSU9SVlgwZz09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 
