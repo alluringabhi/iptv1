@@ -27,6 +27,12 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8 	
 #EXTINF:-1, 	Sony Max 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8 	
+#EXTINF:-1, Star Utsav
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+#EXTINF:-1, Star Gold
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
+#EXTINF:-1, Star Bharat
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 #EXTINF:-1,	Sab TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8 	
 #EXTINF:-1, 	SAB TV HD
@@ -44,6 +50,10 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1, Star Sports 1 HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports 1
+http://redflixiptv.xyz:81/StarSports1_4K/index.m3u8
+#EXTINF:-1, Star Sports 2
+http://redflixiptv.xyz:81/StarSports2_4K/index.m3u8
 #EXTINF:-1, Star Sports 2 HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
@@ -241,6 +251,4 @@ http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmV
 http://zerolive.ddns.net:5445/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ1OjUwIEFNJmhhc2hfdmFsdWU9ZEo4L0lLaVFCazFKSzhEckhEbE5KQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1, STAR SPORTS 1
 http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ2OjUyIEFNJmhhc2hfdmFsdWU9bW5vYk8raElHOWRzSFMvSU9SVlgwZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1, STAR SPORTS 1
-http://vps490147.ovh.net/hotstar.php?id=2001710503
 
