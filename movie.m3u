@@ -55,3 +55,9 @@ http://zerolive.ddns.net:5445/juno/starplususa/playlist.m3u8|user-agent="Mozilla
 
 #EXTINF:-1, Star Utsav HD (HS)
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",# Star Gold HD
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",# Star Bharat HD (HS)
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
