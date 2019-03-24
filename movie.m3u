@@ -23,10 +23,9 @@ http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/m
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 #EXTINF:-1, SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1, Colors_Infinity_HD
-#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, Star_Sports_2 hin (HS) (720p)
-#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
-http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindilivetv/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1 group-title="Hindi Entertainment",# Star Plus HD (HS)
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD (src2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.106 Safari/537.36
+http://zerolive.ddns.net:5445/juno/starplus/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36
 
