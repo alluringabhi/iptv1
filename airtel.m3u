@@ -175,6 +175,8 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221225836/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Good Times
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua" 
+#EXTINF:-1, Colors Infinity Jio
+http://jiocdn.in/JIOtv.php?c=Colors_Infinity_HD&q=800&e=.m3u8 
 
 #EXTINF:-1, Colors Infinity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
@@ -198,6 +200,9 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD
 #EXTINF:-1, HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
+
+#EXTINF:-1, MNX
+http://jiocdn.in/JIOtv.php?c=Movies_Now2&q=800&e=.m3u8 
 
 #EXTINF:-1, MNX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
@@ -354,5 +359,5 @@ http://zerolive.ddns.net:5445/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1, STAR SPORTS 1
 http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ2OjUyIEFNJmhhc2hfdmFsdWU9bW5vYk8raElHOWRzSFMvSU9SVlgwZz09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 
-#EXTINF:-1, Colors infinity Jio
-http://jiocdn.in/JIOtv.php?c=Colors_Infinity_HD&q=800&e=.m3u8 
+#EXTINF:-1, Movies Now
+http://jiocdn.in/JIOtv.php?c=Movies_Now_HD&q=800&e=.m3u8 
