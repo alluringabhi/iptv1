@@ -359,5 +359,5 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_600.m3u8?jct=hh8
 http://jiocdn.in/hs/hsplus.php?c=sshindi&e=.m3u8 
 
 #EXTINF:-1, andflix
-http://mhdtvworld.com/zee5/andflixhd.php 
+http://mhdtvworld.com/zee5/andflixhd.php|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
 
