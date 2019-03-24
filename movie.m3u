@@ -52,3 +52,6 @@ ExoPlayer@__gN2AjN2kjN0UTM"
 #EXTINF:-1, Star Plus HD (src3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.106 Safari/537.36
 http://zerolive.ddns.net:5445/juno/starplususa/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36
+
+#EXTINF:-1, Star Utsav HD (HS)
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
