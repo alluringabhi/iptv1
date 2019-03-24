@@ -28,4 +28,25 @@ http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 #EXTINF:-1, Star_Sports_1_Hindi 4K 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+#EXTINF:-1 group-title="Sports",Star_Sports_1_Hindi 4K 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+
+#EXTINF:-1 group-title="Sports",Star_Sports_1_Hindi 4K 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+
+#EXTINF:-1 group-title="Sports",Star_Sports_1_Hindi FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+
+#EXTINF:-1, Colors_Infinity_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+
+#EXTINF:-1, AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 
+ExoPlayer@__gN2AjN2kjN0UTM"
+
 
