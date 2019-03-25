@@ -377,10 +377,11 @@ http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmV
 http://zerolive.ddns.net:5445/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ1OjUwIEFNJmhhc2hfdmFsdWU9ZEo4L0lLaVFCazFKSzhEckhEbE5KQT09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 #EXTINF:-1, STAR SPORTS 1
 http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ2OjUyIEFNJmhhc2hfdmFsdWU9bW5vYk8raElHOWRzSFMvSU9SVlgwZz09JnZhbGlkbWludXRlcz0y|user-agent="ua"
-#EXTINF:-1,bloomberg HD
-http://zerolive.ddns.net:5445/mars/bloomberg/playlist.m3u8
-#EXTINF:-1,syfy
-http://zerolive.ddns.net:5445/mars/syfy/playlist.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://zerolive.ddns.net:5445/mars/starsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjQ2OjUyIEFNJmhhc2hfdmFsdWU9bW5vYk8raElHOWRzSFMvSU9SVlgwZz09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 
+#EXTINF:-1, Star Sports 1 HS
+#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
+http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+
+#EXTINF:-1, Star Sports hin HS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
