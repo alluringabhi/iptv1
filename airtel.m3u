@@ -26,7 +26,7 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_
 http://jiocdn.in/jiotV.php?c=Colors_HD&q=800&e=.m3u8 
 
 #EXTINF:-1, Epic HD Jio
-http://jiocdn.in/JIOtv.php?c=Epic_HD&q=800&e=.m3u8 
+http://jiocdn.in/jiotV.php?c=Epic_HD&q=800&e=.m3u8 
 
 #EXTINF:-1, Epic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
