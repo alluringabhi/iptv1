@@ -23,9 +23,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Colors Jio 
-http://malayalamtv.stream/jio/streamJIO.php?c=Colors_HD&q=800&e=.m3u8 
-
-#EXTINF:-1, Colors Jio 
 http://malayalamtv.stream/jio/streamJIO.php?c=Colors_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, Epic HD
@@ -33,7 +30,7 @@ http://malayalamtv.stream/jio/streamJIO.php?c=Colors_HD&q=1200&e=.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Epic HD Jio
-http://malayalamtv.stream/jio/streamJIO.php?c=Epic_HD&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=Epic_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua" 	
@@ -187,7 +184,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Good Times Hindi
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua" 
 #EXTINF:-1, Colors Infinity Jio
-http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, Colors Infinity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
@@ -205,35 +202,35 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8|user-agent="ua"
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Movies Now Jio
-http://malayalamtv.stream/jio/play.php?c=Movies_Now_HD 
+http://malayalamtv.stream/jio/streamJIO.php?c=Movies_Now_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, Movies Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, HBO Jio
-http://jiocdn.in/jiotV.php?c=HBO_HD&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=HBO_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, MNX Jio
-http://jiocdn.in/jiotV.php?c=Movies_Now2&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=Movies_Now2&q=1200&e=.m3u8 
 
 #EXTINF:-1, MNX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_JSRV12_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, MNPLUS Jio
-http://jiocdn.in/jiotV.php?c=MNPLUS&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=MNPLUS&q=1200&e=.m3u8 
 
 #EXTINF:-1, MNPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Romedy Now Jio
-http://jiocdn.in/jiotV.php?c=Romedy_Now_HD&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=Romedy_Now_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, Romedy Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
@@ -241,6 +238,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD
 
 #EXTINF:-1, WB Jio
 http://jiocdn.in/jiotV.php?c=WB&q=800&e=.m3u8 
+http://malayalamtv.stream/jio/streamJIO.php?c=WB&q=1200&e=.m3u8 
 
 #EXTINF:-1, WB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
@@ -385,5 +383,3 @@ http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
-#EXTINF:-1, Colors Infinity Jio
-http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=800&e=.m3u8
