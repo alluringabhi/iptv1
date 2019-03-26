@@ -384,3 +384,5 @@ http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
+#EXTINF:-1, Star Sports Hindi HS
+http://mhdtvworld.com/delta/hotstar/hotplus.php?c=sshindi&e=.m3u8 
