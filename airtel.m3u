@@ -208,6 +208,8 @@ http://malayalamtv.stream/jio/streamJIO.php?c=Movies_Now_HD&q=1200&e=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
+#EXTINF:-1, HBO
+http://onelive.ddns.net:5445/minerva/hbopak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE5IDEyOjAyOjMzIFBNJmhhc2hfdmFsdWU9R0toaEtzVUxDZUZDWFRuekNWQUY2QT09JnZhbGlkbWludXRlcz0|user-agent="ua"
 #EXTINF:-1, HBO Jio
 http://malayalamtv.stream/jio/streamJIO.php?c=HBO_HD&q=1200&e=.m3u8 
 
