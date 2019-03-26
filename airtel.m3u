@@ -63,15 +63,15 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua" 
- 	
+#EXTINF:-1, 	Sony Wah 
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, 	Sony YAY
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Disovery Kids Hindi
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Disovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Sony Wah 
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua" 
 
 #EXTINF:-1, Nickelodeon Jr English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
@@ -381,15 +381,6 @@ http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1, Star Sports Hindi HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, movies now
-http://103.77.252.58:8081:8081/live/foxmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE5IDY6NTQ6MTAgQU0maGFzaF92YWx1ZT1oMWd5bzFiSUc4VkhHdFlnOEc0NGNnPT0mdmFsaWRtaW51dGVzPTEw|user-agent="ua" 
 
-#EXTINF:-1, movies now 1
-http://103.77.252.58:8081/live/foxmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE5IDY6NTQ6MTAgQU0maGFzaF92YWx1ZT1oMWd5bzFiSUc4VkhHdFlnOEc0NGNnPT0mdmFsaWRtaW51dGVzPTEw|user-agent="ua Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
-
-#EXTINF:-1, movies now 2
-http://103.77.252.58:8081/live/foxmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE5IDY6NTQ6MTAgQU0maGFzaF92YWx1ZT1oMWd5bzFiSUc4VkhHdFlnOEc0NGNnPT0mdmFsaWRtaW51dGVzPTEw|user-agent="ua" 
-
-#EXTINF:-1, Colors
-#EXTVLCOPT:http-user-agent="JioTV Adobe Primetime"
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Colors Infinity Jio
+http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=800&e=.m3u8
