@@ -390,3 +390,6 @@ http://103.77.252.58:8081/live/foxmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1, movies now 2
 http://103.77.252.58:8081/live/foxmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE5IDY6NTQ6MTAgQU0maGFzaF92YWx1ZT1oMWd5bzFiSUc4VkhHdFlnOEc0NGNnPT0mdmFsaWRtaW51dGVzPTEw|user-agent="ua" 
 
+#EXTINF:-1, Colors
+#EXTVLCOPT:http-user-agent="JioTV Adobe Primetime"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
