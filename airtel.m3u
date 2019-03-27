@@ -22,15 +22,9 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Colors Jio 
-http://malayalamtv.stream/jio/streamJIO.php?c=Colors_HD&q=1200&e=.m3u8 
-
 #EXTINF:-1, Epic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
-#EXTINF:-1, Epic HD Jio
-http://malayalamtv.stream/jio/streamJIO.php?c=Epic_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua" 	
@@ -183,18 +177,13 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221225836/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Good Times Hindi
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua" 
-#EXTINF:-1, Colors Infinity Jio
-http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=1200&e=.m3u8 
 
 #EXTINF:-1, Colors Infinity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Star Movies
+#EXTINF:-1, Star Movies HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
-
-#EXTINF:-1, Star Movies4
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
 #EXTINF:-1, Star Movies4
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
