@@ -135,7 +135,7 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226570/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	DD News
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226377/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Discovery Hindi
+#EXTINF:-1, 	Discovery English
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226478/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Discovery Hindi
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8|user-agent="ua" 	
@@ -190,6 +190,8 @@ http://malayalamtv.stream/jio/streamJIO.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
+#EXTINF:-1, Star Movies
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
 #EXTINF:-1, 	Sony PIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sony Pix HD
@@ -373,6 +375,7 @@ http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8|user-agent="ua"
 http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, Watan HD
 http://51.15.236.137/hls/stream.m3u8|user-agent="ua"  
+
 #EXTINF:-1, STAR SPORTS 1
 http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDE5IDEwOjM0OjE4IEFNJmhhc2hfdmFsdWU9RmJ1ZmxmL3JGWk8xd0FkbW95dElUUT09JnZhbGlkbWludXRlcz0y|user-agent="ua"
 #EXTINF:-1, STAR SPORTS 1 hindi
@@ -384,8 +387,3 @@ http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
-#EXTINF:-1, Star Sports Hindi HS
-http://mhdtvworld.com/delta/hotstar/hotplus.php?c=sshindi&e=.m3u8 
-
-#EXTINF:-1, Star Movies
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
