@@ -377,3 +377,5 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_800.m3u8?jct=hh8CPmP3o_Wsr0yfkXOQGw&pxe=1558731624&st=2rABpyTLSDzkoYSlKcWJhg|user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" 
 
+#EXTINF:-1, Star Movies HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287|user-agent="ua"
