@@ -192,6 +192,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_I
 
 #EXTINF:-1, Star Movies
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
+#EXTINF:0, & Prive HD
+http://redflixiptv.xyz/zee.m3u8?c=andprivehd
 #EXTINF:-1, 	Sony PIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sony Pix HD
