@@ -56,10 +56,13 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	SAB TV HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua" 
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
+
+#EXTINF:-1, UTV HD
+http://13.234.153.48:81/utvhd/tracks-v1a1/mono.m3u8?token=RedflixTV|user-agent="redflixtv.online/9.6 (Linux;Android 4.4.4) ExoPlayerLib/2.8.4"
+
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
-
 #EXTINF:-1, 	Sony YAY
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Disovery Kids Hindi
@@ -369,10 +372,3 @@ http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/
 
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-
-#EXTINF:-1, UTV HD
-http://13.234.153.48:81/utvhd/tracks-v1a1/stereo.m3u8?token=RedflixTV|user-agent="redflixtv.online/9.6 (Linux;Android 4.4.4) ExoPlayerLib/2.8.4"
-
-#EXTINF:-1, Epic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM redflixtv.online/9.6 (Linux;Android 4.4.4) ExoPlayerLib/2.8.4
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM redflixtv.online/9.6 (Linux;Android 4.4.4) ExoPlayerLib/2.8.4 ua"
