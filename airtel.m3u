@@ -192,6 +192,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_I
 
 #EXTINF:-1, Star Movies
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
+
+#EXTINF:-1, Star Movies4
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+#EXTINF:-1, Star Movies4
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+
 #EXTINF:0, & Prive HD
 http://redflixiptv.xyz/zee.m3u8?c=andprivehd
 
