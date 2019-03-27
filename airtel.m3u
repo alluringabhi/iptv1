@@ -374,5 +374,6 @@ http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
 #EXTINF:-1, colors
-#EXTVLCOPT:http-user-agent=" Linux;Android 8.1.0 ExoPlayerLib/2.8.1"
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_800.m3u8?jct=hh8CPmP3o_Wsr0yfkXOQGw&pxe=1558731624&st=2rABpyTLSDzkoYSlKcWJhg|user-agent=Linux;Android 8.1.0 ExoPlayerLib/2.8.1" 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_800.m3u8?jct=hh8CPmP3o_Wsr0yfkXOQGw&pxe=1558731624&st=2rABpyTLSDzkoYSlKcWJhg|user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" 
+
