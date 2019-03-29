@@ -61,9 +61,9 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony YAY
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Disovery Kids Hindi
+#EXTINF:-1, 	Discovery Kids Hindi
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Disovery Kids English
+#EXTINF:-1, 	Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, Nickelodeon Jr English
@@ -178,12 +178,6 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua"
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 #EXTINF:-1, Star Movies HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
-#EXTINF:0, & Prive HD
-http://redflixiptv.xyz/zee.m3u8?c=andprivehd
-
-#EXTINF:-1, &Flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.106 Safari/537.36
-http://redflixiptv.xyz/zee.m3u8?c=andflixhd|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36
 
 #EXTINF:-1, 	Sony PIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua" 	
@@ -210,7 +204,7 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Mo
 
 #EXTINF:-1, MNPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
-http://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8?jct=6dyJHe4IYyvcRn53IW4TVA&pxe=1553885941&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
+http://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_400.m3u8?jct=6dyJHe4IYyvcRn53IW4TVA&pxe=1553885941&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
 
 #EXTINF:-1, Romedy Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
