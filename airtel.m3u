@@ -79,9 +79,6 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
 #EXTINF:-1, Classic Movies
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m3u8|user-agent="ua"
 
-
-
-
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony YAY
@@ -123,7 +120,9 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226072/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Zee News
 http://mhms7.airtel.tv/PLTV/88888888/224/3221225922/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Aaj Tak  
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua" 	
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
+#EXTINF:-1, 	Delhi Aaj Tak  
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8|user-agent="ua"
 #EXTINF:-1, 	India News
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226085/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Aaj Tak Tej
@@ -220,12 +219,13 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Travel XP English
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Good Times English
-http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua" 	
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua" 
+#EXTINF:-1, Discovery ID
+http://80.80.160.168/live/5/live.m3u8|user-agent="ua"
 
 #EXTINF:-1, Jio Exclusive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
 
 #EXTINF:-1, Colors Infinity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
@@ -236,7 +236,6 @@ http://hindi.flussonic.cdnpro.me:80/StarWorldHD-Hin/index.m3u8|user-agent="hindi
 
 #EXTINF:-1, Star Movies HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
-
 
 
 #EXTINF:-1, 	Sony PIX
@@ -294,18 +293,6 @@ http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/m
 #EXTINF:-1, Star Sports Hindi HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-
-#EXTINF:-1, StarSports Hindi (HS)
-#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
-http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-
-#EXTINF:-1, StarSports Hindi (HS)
-#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
-http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-
-#EXTINF:-1, StarSports Hindi (HS)
-#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
-http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_2000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
 #EXTINF:-1, StarSports Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
