@@ -76,6 +76,9 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
+#EXTINF:-1, Classic Movies
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m3u8|user-agent="ua"
+
 
 
 
@@ -313,6 +316,9 @@ http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Sta
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, 	Sony Ten1 
+https://last2.bigmaxworld.com/jasmin/playyy.m3u8?c=Star_Sports_3
+
+#EXTINF:-1, 	Sony Ten1 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony Ten1 HD
 http://jioairtel.fsports.top/airtel/airstream.m3u8?c=sonyten1hd&e=.m3u8
@@ -321,7 +327,9 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony TEN2 HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sony Ten 3 HD
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua" 	
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua" 
+#EXTINF:-1, SONY SIX HD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/04.m3u8|user-agent="ua"
 #EXTINF:-1, 	ESPN
 http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	ESPN HD
@@ -378,6 +386,7 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226341/index.m3u8|user-agent="ua"
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	DD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226296/index.m3u8|user-agent="ua" 	
+
 #EXTINF:-1, 	Shraddha
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Divya
@@ -386,14 +395,17 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226211/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sanskaar
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8|user-agent="ua" 	
+#EXTINF:-1, 	Sadhna
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8|user-agent="ua" 
+
 #EXTINF:-1, 	Peace of Mind
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226409/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Paras
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226289/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	God TV 
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Sadhna
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8|user-agent="ua" 	
+	
+
 #EXTINF:-1, 	Home Shop 18
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Lok Sabha
@@ -430,15 +442,9 @@ http://zerolive.ddns.net:5445/juno/starsports2/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
-#EXTINF:-1, colors
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_800.m3u8?jct=hh8CPmP3o_Wsr0yfkXOQGw&pxe=1558731624&st=2rABpyTLSDzkoYSlKcWJhg|user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" 
-
 #EXTINF:-1, Star Movies1 HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287?sd=10&rebase=on|user-agent="ua"
 
-#EXTINF:-1, Star Movies1 HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287?sd=10&rebase=off|user-agent="ua"
 
 #EXTINF:-1, Star Sports 1 redflix
 http://redflixiptv.xyz:81/StarSports1_4K/index.m3u8|user-agent="ua"
