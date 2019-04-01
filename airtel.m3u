@@ -437,6 +437,9 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_80
 #EXTINF:-1, Star Movies1 HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287?sd=10&rebase=on|user-agent="ua"
 
+#EXTINF:-1, Star Movies1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287?sd=10&rebase=off|user-agent="ua"
+
 #EXTINF:-1, Star Sports 1 redflix
 http://redflixiptv.xyz:81/StarSports1_4K/index.m3u8|user-agent="ua"
 #EXTINF:-1, Star Sports 2 redflix
