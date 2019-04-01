@@ -296,6 +296,14 @@ http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
+#EXTINF:-1, StarSports Hindi (HS)
+#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+
+#EXTINF:-1, StarSports Hindi (HS)
+#EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_2000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+
 #EXTINF:-1, StarSports Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
