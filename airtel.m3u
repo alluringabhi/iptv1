@@ -461,7 +461,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1, Star Movies1 HD
 #EXTVLCOPT:network-caching=100
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287?codec=mpeg2
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287.m3u8?codec=mpeg2
 
 
 #EXTINF:-1, Sony Channel
