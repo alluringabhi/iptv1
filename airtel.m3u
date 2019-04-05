@@ -471,3 +471,7 @@ http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/824
 #EXTINF:-1,IN: &TV HD
 #EXTVLCOPT:network-caching=500
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64262?codec=mpeg4
+
+#EXTINF:0, HBO HD
+http://malayalamtv.stream/jio/xstreamx.php?c=HBO_HD&q=800&e=.m3u8
+
