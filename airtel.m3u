@@ -463,10 +463,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTVLCOPT:network-caching=500
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287.m3u?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi(हिन्दी)", Sony Channel
+#EXTINF:-1, Sony Channel
 #EXTVLCOPT:network-caching=500
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/824
 
 #EXTINF:-1,IN: &TV HD
 #EXTVLCOPT:network-caching=500
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64262
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64262?codec=mpeg4
