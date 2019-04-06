@@ -83,7 +83,7 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m
 #EXTINF:-1,BOLLYWOOD CLASIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END|user-agent="ua"
 #EXTINF:-1,BOLLYWOOD TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8
 
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
@@ -333,7 +333,7 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Selec
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
-#EXTINF:-1, StarSports Hindi
+#EXTINF:-1, StarSports Hindi 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
@@ -455,31 +455,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8|user-agent="ua"
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
-#EXTINF:-1, Watan HD
-http://51.15.236.137/hls/stream.m3u8|user-agent="ua"  
+
 
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-
-
-#EXTINF:-1, Sony Channel
-#EXTVLCOPT:network-caching=500
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/824
-
-#EXTINF:-1,IN: &TV HD
-#EXTVLCOPT:network-caching=500
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64262?codec=mpeg4
-
-#EXTINF:0, HBO HD
-http://malayalamtv.stream/jio/xstreamx.php?c=HBO_HD&q=800&e=.m3u8
-
-#EXTINF:-1, Star Movies HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
-
-#EXTINF:-1, Colors HD
-http://cdn.redflixtv.online:81/colors_hd/index.m3u8?token=RedflixTV
-
-#EXTVLCOPT:http-user-agent=fOOtyfreeapp
- #EXTINF:-1,OSN: Movies Premiere 2HD
- http://live1.livetvindia.co.in:8000/live/iosapp/freeapp/1229.ts
- 
