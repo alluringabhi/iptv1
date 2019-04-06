@@ -478,3 +478,8 @@ http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
 
 #EXTINF:-1, Colors HD
 http://cdn.redflixtv.online:81/colors_hd/index.m3u8?token=RedflixTV
+
+#EXTVLCOPT:http-user-agent=fOOtyfreeapp
+ #EXTINF:-1,OSN: Movies Premiere 2HD
+ http://live1.livetvindia.co.in:8000/live/iosapp/freeapp/1229.ts
+ 
