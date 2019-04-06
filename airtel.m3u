@@ -81,7 +81,7 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m3u8|user-agent="ua"
 
 #EXTINF:-1,BOLLYWOOD CLASIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END|user-agent="ua"
 #EXTINF:-1,BOLLYWOOD TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 
