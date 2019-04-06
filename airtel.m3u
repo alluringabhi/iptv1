@@ -54,7 +54,7 @@ http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="
 #EXTINF:-1, Star Bharat
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 
-#EXTINF:-1, Movies OK (HS)
+#EXTINF:-1 aspect-ratio="16:9", Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="ua"
 
 #EXTINF:-1, Colors Cineplex HD
