@@ -422,6 +422,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sadhna
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8|user-agent="ua" 
+#EXTINF:-1, Bhakti Sagar
+https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 
 #EXTINF:-1, 	Peace of Mind
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226409/index.m3u8|user-agent="ua" 	
@@ -472,7 +474,7 @@ http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/64262?codec=mpeg4
 http://malayalamtv.stream/jio/xstreamx.php?c=HBO_HD&q=800&e=.m3u8
 
 #EXTINF:-1, Star Movies HD
-#EXTVLCOPT:network-caching=1000
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287.ts
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/70287
 
-
+#EXTINF:-1, Colors HD
+http://cdn.redflixtv.online:81/colors_hd/index.m3u8?token=RedflixTV
