@@ -77,13 +77,6 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
-#EXTINF:-1, Classic Movies
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/index.m3u8|user-agent="ua"
-
-#EXTINF:-1,BOLLYWOOD CLASIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END|user-agent="ua"
-#EXTINF:-1,BOLLYWOOD TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8
 
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
@@ -348,7 +341,7 @@ https://last2.bigmaxworld.com/jasmin/playyy.m3u8?c=Star_Sports_3
 #EXTINF:-1, 	Sony Ten1 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony Ten1 HD
-http://jioairtel.fsports.top/airtel/airstream.m3u8?c=sonyten1hd&e=.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony TEN2
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8|user-agent="ua" 		
 #EXTINF:-1, 	Sony TEN2 HD
@@ -459,3 +452,7 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
+
+
+#EXTINF:-1, Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/hls2/chunklist_1.m3u8
