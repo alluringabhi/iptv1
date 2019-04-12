@@ -116,6 +116,9 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_250.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
+#EXTINF:1, DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
+
 #EXTINF:-1, 	ABP News
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226006/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	India TV
