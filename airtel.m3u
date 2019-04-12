@@ -1,53 +1,59 @@
 #EXTM3U	
 #EXTINF:-1, 	Star Plus HD
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="ua"
-#EXTINF:-1, 	Sony TV
+#EXTINF:-2, 	Sony TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Sony HD
+#EXTINF:-3, 	Sony HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"		
-#EXTINF:-1, 	And TV
+#EXTINF:-4, 	And TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	And TV HD
+#EXTINF:-5, 	And TV HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Zee TV
+#EXTINF:-6, 	Zee TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Zee TV HD
+#EXTINF:-7, 	Zee TV HD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8|user-agent="ua" 	
 
-#EXTINF:-1, Colors
+#EXTINF:-8, Colors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Colors HD
+#EXTINF:-9, Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Colors 4K
+#EXTINF:-10, Colors 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Epic HD
+#EXTINF:-11, Epic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, 	Sony Max
+#EXTINF:-12, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Sony Max HD
+#EXTINF:-13, 	Sony Max HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Zee Cinema
+#EXTINF:-14, 	Zee Cinema
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Zee Cinema HD
+#EXTINF:-15, 	Zee Cinema HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226083/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	And Pictures
+#EXTINF:-16, 	And Pictures
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	And Pictures HD
+#EXTINF:-17, 	And Pictures HD
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Sony Max 2
+#EXTINF:-18, 	Sony Max 2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, Star Utsav
+#EXTINF:-19, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
-#EXTINF:-1, Star Gold
+#EXTINF:-20, Star Gold
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
+
+
+
+#EXTINF:-21, Star Gold HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Star Gold Select
 http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
@@ -65,10 +71,6 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Risht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Colors Rishtey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
 #EXTINF:-1, Wow Cinema
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226263/index.m3u8|user-agent="ua"
 #EXTINF:-1,	Sab TV
@@ -77,6 +79,9 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
+#EXTINF:-1, Colors Rishtey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
