@@ -49,12 +49,6 @@ http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
 #EXTINF:-20, Star Gold
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
 
-
-
-#EXTINF:-22, Star Gold HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
 #EXTINF:-1, Star Gold Select
 http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
 #EXTINF:-1, Star Bharat
@@ -449,7 +443,9 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	OK India
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8|user-agent="ua" 
+http://livecdnh1.tvanywhere.ae/hls/star_movies/4.m3u8?sd=10&rebase=on|user-agent="ua" 
+#EXTINF:-1, Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/4.m3u8?sd=10&rebase=on|user-agent="ua"
 #EXTINF:-1, 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, ARY News
