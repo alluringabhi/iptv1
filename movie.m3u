@@ -25,4 +25,8 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
 
 #EXTINF:-1, Halala
-http://thoptvstream.gq/api/zephy/play.m3u8?id=0-1-183257&tvauth=iKaUtNVFUxTkRZMU9UUTJOdz09OjYxMDM4MjEwYWU2YTAxZWMxOGQwOTZjYjBlODY4MDIw 
+https://cw029.tunefiles.com/files/videos/2019/03/30/15539224928f1f7_hls/720.m3u8?bandwidth=956
+
+
+#EXTINF:0,Star Gold
+http://150.242.21.2/stargold.m3u8?bandwidth=956&playlistlength=25&shift=0
