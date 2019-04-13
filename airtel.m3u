@@ -461,3 +461,6 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
+#EXTINF:-1, Bhakti Sagar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Bhaktisagar_2/Bhaktisagar_2_1200.m3u8?jct=EQmvQQX_YMZnMegMsKhAKQ&pxe=1555179961&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM" 
