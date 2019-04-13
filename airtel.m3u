@@ -87,7 +87,13 @@ http://pockettv.xyz/api/zee.m3u8?c=action|user-agent="Mozilla/5.0 (Windows NT 6.
 #EXTINF:-1,Zee Classic
 http://pockettv.xyz/api/zee.m3u8?c=classic|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
+#EXTINF:-1, Housefull Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Housefull_Action/Housefull_Action_JSRV9_1200.m3u8?jct=zEevevmsqNPxsgB-BRHfjQ&pxe=1555183022&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
 
+#EXTINF:-1, Housefull Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_JSRV9_1200.m3u8?jct=tVjJMfTRl-R1nEvvGW_YNg&pxe=1555182961&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
 
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
