@@ -54,6 +54,11 @@ http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="
 #EXTINF:-1, Star Bharat
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 
+#EXTINF:-1, Star Bharat HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_1200.m3u8?jct=OCEcm02gly1d95PPTJGmRA&pxe=1555182061&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM" 
+
+
 #EXTINF:-1 aspect-ratio="16:9", Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="ua"
 
