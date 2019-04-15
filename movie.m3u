@@ -33,5 +33,6 @@ http://150.242.21.2/stargold.m3u8?bandwidth=956&playlistlength=25&shift=0
 
 #EXTINF:0, wow kids
 https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
+
 #EXTINF:0, Star utsav
 http://mhdtvworld.com/delta/hotstar/hotplus.php?c=starutsav&e=.m3u8
