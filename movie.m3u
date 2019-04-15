@@ -28,5 +28,8 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-
 https://cw029.tunefiles.com/files/videos/2019/03/30/15539224928f1f7_hls/720.m3u8?bandwidth=956
 
 
-#EXTINF:0,Star Gold
+#EXTINF:0, Star Gold
 http://150.242.21.2/stargold.m3u8?bandwidth=956&playlistlength=25&shift=0
+
+#EXTINF:0, wow kids
+https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
