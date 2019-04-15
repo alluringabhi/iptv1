@@ -7,7 +7,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"		
 #EXTINF:-4, 	And TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
-#EXTINF:-5, 	tvg-logo="http://trsurl.com/s/Yvp", And TV HD
+#EXTINF:-5, 	tvg-logo="http://trsurl.com/s/Yvp", Andd TV HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8|user-agent="ua"
 #EXTINF:-6, 	Zee TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8|user-agent="ua"
