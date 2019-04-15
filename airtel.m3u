@@ -1,4 +1,4 @@
-#EXTM3U tvg-logo=”http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/”
+#EXTM3U
 
 #EXTINF:-1, 	Star Plus HD
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="ua"
@@ -8,7 +8,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"		
 #EXTINF:-4, 	And TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
-#EXTINF:-5, 	tvg-logo="and_tv_hd.png", And TV HD
+#EXTINF:-5, 	tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/and_tv_hd.png", And TV HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8|user-agent="ua"
 #EXTINF:-6, 	Zee TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8|user-agent="ua"
