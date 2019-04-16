@@ -37,12 +37,47 @@ https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chu
 #EXTINF:0, Star utsav
 http://mhdtvworld.com/delta/hotstar/hotplus.php?c=starutsav&e=.m3u8
 
+
+#EXTINF:-1, STAR BHARAT HD
+http://hindi.flussonic.cdnpro.me/LifeOkIND-Hin/index.m3u8
+#EXTINF:-1, group-title="HINDI", STAR PLUS HD
+http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
 #EXTINF:-1,  CLASSIC HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
 #EXTINF:-1,  PREMIUM HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
 #EXTINF:-1,  BOLLYWOOD HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, CINEMA TV
+http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1, CINEMA TV
+http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
+#EXTINF:-1, MOVIE HOUSE
+http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 
-#EXTINF:-1, group-title="SPORTS", SKY SPORTS
+#EXTINF:-1, SKY SPORTS
 http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
+
+#EXTINF:-1, MTV INDIA
+https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
+
+#EXTINF:-1, BBO CLASSIC
+https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/bboclassic_1800/chunklist.m3u8
+#EXTINF:-1,  BBO HD
+https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/bbous_2000/chunklist.m3u8
+#EXTINF:-1,  BBO MOVIES
+https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/bbo_2400/chunklist.m3u8
+
+
+#EXTINF:-1, COLORS HD
+http://voxtv.dynns.com:8000/indian/indian/122
+#EXTINF:-1, COLORS HD
+http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
+#EXTINF:-1,  COLORS HD
+http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
+#EXTINF:-1, COLORS HD
+http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
+#EXTINF:-1,  COLORS TV
+https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
+#EXTINF:-1,  STAR PLUS
+https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
