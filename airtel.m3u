@@ -85,12 +85,11 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?j
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me/Rishtey_Cineplex_IND/index.m3u8
 
-#EXTINF:-1,  UTV HD
+#EXTINF:-1,  UTV
 http://hindi.flussonic.cdnpro.me/UTVMOVIES-Hin/index.m3u8
 #EXTINF:-1,  UTV ACTION
 http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
-#EXTINF:-1, group-title="HINDI", UTV MOVIES
-http://hindi.flussonic.cdnpro.me/UTVBindass-Hin/index.m3u8
+
 
 #EXTINF:-1, Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
@@ -113,7 +112,7 @@ http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuh
 
 #EXTINF:-1, MOVIES ACTIVE HD
 http://hindi.flussonic.cdnpro.me/ViewersChoice-Classic(H)-Hin/index.m3u8
-#EXTINF:-1, group-title="HINDI", D2H MOVIES
+#EXTINF:-1, D2H MOVIES
 http://hindi.flussonic.cdnpro.me/D2Hmovies_Hin/index.m3u8
 
 #EXTINF:-1, 	Sony Wah 
@@ -139,10 +138,10 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:0, wow kids
+#EXTINF:0, Wow kids
 https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
 
-#EXTINF:-1, 	Discovery Kids English
+#EXTINF:-1, Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, Nickelodeon Jr English
