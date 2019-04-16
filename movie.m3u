@@ -36,3 +36,13 @@ https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chu
 
 #EXTINF:0, Star utsav
 http://mhdtvworld.com/delta/hotstar/hotplus.php?c=starutsav&e=.m3u8
+
+#EXTINF:-1,  CLASSIC HINDI
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
+#EXTINF:-1,  PREMIUM HINDI
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
+#EXTINF:-1,  BOLLYWOOD HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:-1, group-title="SPORTS", SKY SPORTS
+http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
