@@ -81,8 +81,8 @@ http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1,  STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:-1,  Sony au
-https://mslapacs.akamaized.net/hls/live/692167/sonyau/playlist.m3u8
+#EXTINF:-1,  Sony
+https://mslapacs.akamaized.net/hls/live/692167/sonyau/sonyau_1800k/chunklist.m3u8
 
 #EXTINF:-1,  risjhtey
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
