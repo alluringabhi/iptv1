@@ -1,4 +1,4 @@
-#EXTM3U	tvg-url="https://raw.githubusercontent.com/alluringabhi/iptv1/master/Logos/",
+#EXTM3U	url-tvg="https://raw.githubusercontent.com/alluringabhi/iptv1/master/Logos/",
 #EXTINF:-1, Bumblebee
 http://psv5.fyvideo.info/drive//hls/47513b3222f5f1eb37510e13f770aecf/47513b3222f5f1eb37510e13f770aecf.m3u8
 #EXTINF:-1, Bumblebee
