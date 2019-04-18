@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://trsurl.com/s"
 
 #EXTINF:-1, tvg-logo="http://trsurl.com/s/Zdi", Star Plus
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="ua"
