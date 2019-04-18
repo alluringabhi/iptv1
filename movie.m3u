@@ -1,4 +1,4 @@
-#EXTM3U	tvg-logo="www.hotstar/",
+#EXTM3U	tvg-id="www.hotstar/",
 #EXTINF:-1, Bumblebee
 http://psv5.fyvideo.info/drive//hls/47513b3222f5f1eb37510e13f770aecf/47513b3222f5f1eb37510e13f770aecf.m3u8
 #EXTINF:-1, Bumblebee
@@ -81,3 +81,8 @@ http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1,  STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
+
+
+
+#EXTINF:-1,  risjh
+https://mslapacs.akamaized.net/hls/live/692167/rishteycineplex/rishteycineplex_1800k/chunklist.m3u8
