@@ -76,7 +76,7 @@ http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
 #EXTINF:-1,  COLORS HD
 http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
 #EXTINF:-1, COLORS HD
-http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8?bitrate=1800&resolution=576
+http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8?bitrate=1000&resolution=576
 #EXTINF:-1,  tvg-logo="Star_gold",COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1,  STAR PLUS
@@ -84,5 +84,5 @@ https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunk
 #EXTINF:-1,  Sony
 https://mslapacs.akamaized.net/hls/live/692167/sonyau/sonyau_1800k/chunklist.m3u8
 
-#EXTINF:-1,  rishteyy
+#EXTINF:-1,  rishtey
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
