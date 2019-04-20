@@ -86,3 +86,45 @@ https://mslapacs.akamaized.net/hls/live/692167/sonyau/sonyau_1800k/chunklist.m3u
 
 #EXTINF:-1,  rishteyy
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8?bitrate=500&resolution=576
+
+#EXTINF:-1, Star world premeier
+http://142.93.220.229:80/starworldpremier/index.m3u8
+
+#EXTINF:-1, Star World Premiere
+http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Movies Select
+http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1, Big Joy, [19.04.19 23:55]
+http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Big Joy, [19.04.19 23:56]
+http://142.93.220.229:80/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+
+Big Joy, [19.04.19 23:56]
+http://hindi.flussonic.cdnpro.me:80/StarWorldHD-Hin/index.m3u8
+
+http://89.187.177.179:80/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8 
+http://89.187.177.179:80/LifeOkIND-Hin/tracks-v1a1/mono.m3u8 
+http://89.187.177.179:80/StarWorldHD-Hin/tracks-v1a1/mono.m3u8 
+http://89.187.177.179:80/star_gold_Select-Hin/tracks-v1a1/mono.m3u8 
+http://89.187.177.179:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8 
+http://89.187.177.179:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8 
+
+
+
+#EXTINF:-1, natgeo
+http://hindi.flussonic.cdnpro.me:80/NATGEOWILD/INDI/HIN/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies", UTV Movies 1
+http://104.200.153.219:80/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Movies", UTV Movies 2
+http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies", UTV Action
+http://104.200.153.219:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BollyWood Premiere
+http://142.93.220.229:80/bollywood/index.m3u8
+
