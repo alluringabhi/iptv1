@@ -210,7 +210,9 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18
 #EXTINF:-1, 	Discovery Hindi
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Discovery HD World Hindi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua" 	
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua" 
+#EXTINF:-1, National Geographic Wild 
+http://hindi.flussonic.cdnpro.me:80/NATGEOWILD/INDI/HIN/index.m3u8|user-agent="redflixtv.online/9.6"
 #EXTINF:-1, 	Discovery JEET Hindi
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, Discovery Science Hindi
