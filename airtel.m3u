@@ -88,7 +88,8 @@ http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me:80/Rishtey_Cineplex_IND/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-
+#EXTINF:-1, BollyWood Premiere
+http://142.93.220.229:80/bollywood/index.m3u8
 #EXTINF:-1,  UTV
 http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
 #EXTINF:-1,  UTV ACTION
