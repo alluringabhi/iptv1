@@ -273,10 +273,12 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_I
 
 #EXTINF:-1, Star World HD
 http://hindi.flussonic.cdnpro.me:80/StarWorldHD-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-
+#EXTINF:-1, Star World Premiere
+http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
 #EXTINF:-1, Star Movies HD
 http://hindi.flussonic.cdnpro.me:80/StarMoviesHD-Hin/index.m3u8|user-agent="redflixtv.online/9.6"
-
+#EXTINF:-1, Star Movies Select
+http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
 
 #EXTINF:-1, 	Sony PIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua" 	
