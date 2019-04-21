@@ -128,3 +128,153 @@ http://104.200.153.219:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BollyWood Premiere
 http://142.93.220.229:80/bollywood/index.m3u8
 
+#EXTINF:-1,Bein movies hd1 premiere
+ 
+http://95.170.215.120/hls/m3u8/Bein-Movies-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein movies hd2 ACTION
+http://95.170.215.120/hls/m3u8/Bein-Movies-HD2.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein movies hd3 DRAMA
+http://95.170.215.120/hls/m3u8/Bein-Movies-HD3.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein movies hd4 FAMILY
+http://95.170.215.120/hls/m3u8/Bein-Movies-HD4.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein DRAMA
+http://95.170.215.120/hls/m3u8/Bein-Drama-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein series hd1
+http://95.170.215.120/hls/m3u8/Bein-Series-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Bein series hd2
+http://95.170.215.120/hls/m3u8/Bein-Series-HD2.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1,OSN MOVIES HD
+http://95.170.215.118/hls/m3u8/OSN-MOVIES-HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Osn movies hd FIRST
+http://95.170.215.118/hls/m3u8/OSN-Movies-First.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Osn movies ACTION
+http://95.170.215.118/hls/m3u8/OSN-MOVIES-AC.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Osn movies kids
+http://95.170.215.118/hls/m3u8/OSN-Movies-Kids.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,OSN FOX ACTION HD
+http://95.170.215.118/hls/m3u8/FOX-ACTION-MOV.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Osn fox movies hd i sat
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://95.170.215.118/hls/m3u8/FOX-FAMILY-MOV.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,OSN Fox hd
+http://95.170.215.118/hls/m3u8/FX-HD.m3u8|User-Agent=Lavf/56.15.102
+http://95.170.215.118/hls/m3u8/MBC-1-HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Mbc hd2
+http://95.170.215.118/hls/m3u8/MBC-2-HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Mbc HD3
+http://95.170.215.118/hls/m3u8/MBC-3-HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Mbc4 HD4
+http://95.170.215.118/hls/m3u8/MBC-4-HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+#EXTINF:-1,MBC MAX HD
+http://95.170.215.118/hls/m3u8/MBC-MAX-HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Action
+http://95.170.215.118/hls/m3u8/MBC-ACTION-HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,MBC BOLLYWOOD HD
+http://95.170.215.118/hls/m3u8/MBC-Bollywood-HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+#EXTINF:-1,MBC DRAMA HD
+http://95.170.215.118/hls/m3u8/MBC-DRAMA.m3u8|User-Agent=Lavf/56.15.102
+ 
+#EXTINF:-1,MBC PLUS DRAMA HD
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,My cinema
+http://95.170.215.118/hls/m3u8/My-Cinema-HD.m3u8|User-Agent=Lavf/56.15.102  
+ 
+ 
+#EXTINF:-1,STAR WORLD HD
+http://95.170.215.118/hls/m3u8/Star-World-HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Star movies hd
+http://95.170.215.118/hls/m3u8/Star-Movies-HD.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,Nat geo sd
+http://adtv.ercdn.net/adnatgeo/adnatgeo_360p.m3u8?v=3296041730
+
+#EXTINF:-1,Discovery showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Nat geo hd
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Animal planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,HDTV
+http://95.170.215.120/hls/m3u8/HGTV-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+ 
+ #EXTINF:-1,====MOVIES HBO1==================================
+http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,HBO2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,HBO3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Skymovies action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Sky movies premiere
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|User-Agent=Lavf/56.15.102
+ 
+ 
+#EXTINF:-1,Sky movies select
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,====Sky sport hd1================================
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|User-Agent=Lavf/56.15.102
+ 
+#EXTINF:-1,Sky sport hd3 Usa
+http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd4 GOLF
+http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd5 premiere league
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,==== stream TVHollywood movies 1====
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,Hollywood movies 2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,Hollywood movies 3
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1,Hollywood movies 4
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+ 
+#EXTINF:-1,Hollywood movies 5
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+ 
+#EXTINF:-1,Sony movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+ 
+#EXTINF:-1,Ifilm
+http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/chunklist_b307200_slFa.m3u8
+
