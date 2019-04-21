@@ -207,8 +207,6 @@ http://95.170.215.118/hls/m3u8/Star-World-HD.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,Star movies hd
 http://95.170.215.118/hls/m3u8/Star-Movies-HD.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1,Nat geo sd
-http://adtv.ercdn.net/adnatgeo/adnatgeo_360p.m3u8?v=3296041730
 
 #EXTINF:-1,Discovery showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102
@@ -218,11 +216,8 @@ http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102
  
 #EXTINF:-1,Animal planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1,HDTV
-http://95.170.215.120/hls/m3u8/HGTV-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
  
- #EXTINF:-1,====MOVIES HBO1==================================
+ #EXTINF:-1, MOVIES HBO1
 http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
  
  
@@ -234,47 +229,33 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8|User-Agent=Lavf/56.15.102
  
  
-#EXTINF:-1,Skymovies action
+#EXTINF:-1, Skymovies action
 http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|User-Agent=Lavf/56.15.102
  
  
-#EXTINF:-1,Sky movies premiere
+#EXTINF:-1, Sky movies premiere
 http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|User-Agent=Lavf/56.15.102
  
  
-#EXTINF:-1,Sky movies select
+#EXTINF:-1, Sky movies select
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1,====Sky sport hd1================================
+#EXTINF:-1, Sky sport hd1
 http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd2
+#EXTINF:-1, Sky sport hd2
 http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|User-Agent=Lavf/56.15.102
  
-#EXTINF:-1,Sky sport hd3 Usa
+#EXTINF:-1, Sky sport hd3 Usa
 http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd4 GOLF
+#EXTINF:-1, Sky sport hd4 GOLF
 http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd5 premiere league
+#EXTINF:-1, Sky sport hd5 premiere league
 http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1,==== stream TVHollywood movies 1====
+#EXTINF:-1, Hollywood movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
  
 #EXTINF:-1,Hollywood movies 2
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1,Hollywood movies 3
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1,Hollywood movies 4
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
- 
-#EXTINF:-1,Hollywood movies 5
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
- 
-#EXTINF:-1,Sony movies
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
- 
-#EXTINF:-1,Ifilm
-http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/chunklist_b307200_slFa.m3u8
+
 
