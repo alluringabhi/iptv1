@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="http://trsurl.com/s/Zdi", Star Plus
+#EXTINF:-1,  Star Plus
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="ua"
-#EXTINF:-1, tvg-logo="http://trsurl.com/s/Zdj",	Sony
+#EXTINF:-1, 	Sony
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
-#EXTINF:-1, tvg-logo="http://trsurl.com/s/Yro",	Sony HD
+#EXTINF:-1, Sony HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"		
-#EXTINF:-1, tvg-logo="http://trsurl.com/s/ZeH",	And TV
+#EXTINF:-1, And TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, And TV HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8|user-agent="ua"
@@ -67,10 +67,6 @@ http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/St
 #EXTINF:-1 aspect-ratio="16:9", Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="ua"
 
-#EXTINF:-1, Colors Cineplex HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
-
 #EXTINF:-1, Jio Hindi Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
@@ -83,9 +79,13 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	B4U Movies
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/index.m3u8|user-agent="ua"
-#EXTINF:-1, Colors Rishtey
+#EXTINF:-1, Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+#EXTINF:-1, Rishtey Cineplex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
+
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me:80/Rishtey_Cineplex_IND/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
 #EXTINF:-1, BollyWood Premiere
@@ -98,8 +98,6 @@ http://hindi.flussonic.cdnpro.me:80/UTVACTION-Hin/index.m3u8|user-agent="hindi.f
 
 #EXTINF:-1, Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:-1,Zee Classic
-http://pockettv.xyz/api/zee.m3u8?c=classic|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
 #EXTINF:-1, Housefull Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
@@ -143,7 +141,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:0, Wow kids
+#EXTINF:1, Wow kids
 https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
 
 #EXTINF:-1, Discovery Kids English
@@ -328,10 +326,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8?jct
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_JSRV3_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Romedy Now HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
-
 #EXTINF:-1, WB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_600.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
@@ -350,9 +344,6 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafesd|user-agent="Mozilla/5.0 (Windows NT
 
 #EXTINF:-1, Zee Cafe HD
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-
-#EXTINF:-1, Zee World
-http://pockettv.xyz/api/zee.m3u8?c=world|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
 #EXTINF:-1, Comedy Central HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
