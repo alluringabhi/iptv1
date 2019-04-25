@@ -271,3 +271,7 @@ http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=
 
 #EXTINF:-1, Stand-Up TV
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1,NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/18iPlAaYyEeRr141198488/ar886o33b25181/29.ts
