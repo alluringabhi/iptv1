@@ -280,7 +280,7 @@ http://37.187.128.169:8000/live/18iPlAaYyEeRr141198488/ar886o33b25181/29.ts
 #EXTVLCOPT:http-user-agent=sportstv
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/437.ts
 #EXTINF:1, disneyxd
-http://163.172.83.63:2095:2095/kids2019/disneyxdhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDE5IDg6MDA6NTMgUE0maGFzaF92YWx1ZT1RbEt3aFN0S1BMcDJWTWZiaGd5c3JRPT0mdmFsaWRtaW51dGVzPTI= 
-#EXTINF:1, disneyx
-http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23909.m3u8|User-Agent=Lavf/56.15.102
+http://163.172.83.63:2095:2095/kids2019/disneyxdhindi/playlist.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:1, disney
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23909.m3u|User-Agent=Lavf/56.15.102
 
