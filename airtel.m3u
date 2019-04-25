@@ -37,11 +37,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?j
 
 #EXTINF:-1, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua" 	
-#EXTINF:-1, 	Sony Max HD
+#EXTINF:-1, tvg-id="Sony_Max_HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",	Sony Max HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8|user-agent="ua" 
-
-#EXTINF:-1 tvg-id="Sony_Max_HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png", Sony Max HD -JTV HQ
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:-1, 	Zee Cinema
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8|user-agent="ua" 	
@@ -145,9 +142,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:1, Wow kids
-https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
-
 #EXTINF:-1, Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
@@ -158,6 +152,8 @@ http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nick
 #EXTINF:1, DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 
+#EXTINF:-1,Disney channel
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1, 	ABP News
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226006/index.m3u8|user-agent="ua" 	
@@ -393,7 +389,6 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Sta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://cricket.flussonic.cdnpro.me:80/StarSports_Hd2_1/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1, 	Sony Ten1 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony Ten1 HD
@@ -507,7 +502,6 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226289/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	God TV 
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8|user-agent="ua" 	
 	
-
 #EXTINF:-1, 	Home Shop 18
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Lok Sabha
@@ -536,5 +530,3 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
-#EXTINF:-1,Disney channel
-http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
