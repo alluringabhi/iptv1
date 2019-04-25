@@ -275,3 +275,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8
 #EXTINF:-1,NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=exoplayer_video
 http://37.187.128.169:8000/live/18iPlAaYyEeRr141198488/ar886o33b25181/29.ts
+
+#EXTINF:0,Star Sports 1 Hindi Backup
+#EXTVLCOPT:http-user-agent=sportstv
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/437.ts
