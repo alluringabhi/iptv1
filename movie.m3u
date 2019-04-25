@@ -95,9 +95,6 @@ http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Star Movies Select
 http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8
 
-
-
-
 #EXTINF:-1, Big Joy, [19.04.19 23:55]
 http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8
 
@@ -265,3 +262,12 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 
 #EXTINF:-1, end game
 https://veryfrontendwow.verystream.net/stream/RkbFT1fv7NM/yR2SXxtY3UFK7zTj/q0nZajHT4uGgua1zTrJ0sHxQL_Ktla6MM6KFUl9OaopM13RL2EeCAlb_4GqTgkAXuzYdMp9WtYAYmHsRxuRkcp85EycZngj8BPIpWu8aROl9e3PiNlAI35pwQTcdqrB7GeWQeDtxZfYewhCJ-sLrolFnlocUrcynjepwlprw1ChTRIaBKylajGpvQKe2HlRhBK9M3ifJxk_envJK8T-QyFKQJU5B5U1TKyCN9959BAbO9Nxf336YSLH1lPPeSSOUcG3iQDQssRZOATXvABuO-treccgV4N0ox2A_l5aSHwVwzJjd2SlrjbbpF4Quzw7XVVuQ1BSYbapbi9VHNRSf4ya6NiNDVCg9G5KINCIEJPYpuNh1TFUDgSs8-BcgCT1ErBwBsifFzPr9k9zOQwtBQs83K5Ad8cPwwtptBe-albWu--ganfUB84t161CqnNW_BjGLiToRpVEihbpZ6bX2wQ/Avengers.Endgame.2019.HC.HDCAM.720p.x264.2GB.mkv.mp4?mime=true
+
+#EXTINF:1, Wow kids
+https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
+
+#EXTINF:1, pop patakha
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Stand-Up TV
+http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
