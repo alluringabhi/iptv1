@@ -38,7 +38,11 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?j
 #EXTINF:-1, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Sony Max HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8|user-agent="ua" 	
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/index.m3u8|user-agent="ua" 
+
+#EXTINF:-1 tvg-id="Sony_Max_HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png", Sony Max HD -JTV HQ
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
 #EXTINF:-1, 	Zee Cinema
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Zee Cinema HD
