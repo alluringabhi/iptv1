@@ -282,5 +282,20 @@ http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/437.ts
 #EXTINF:1, disneyxd
 http://163.172.83.63:2095:2095/kids2019/disneyxdhindi/playlist.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:1, disneyx
-http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23909?codec=mpeg4
-
+http://www.pandar.tv:25461/026329193917/isvcOtsIUKRLYdC/23909
+#EXTINF:-1,IN: D2H CINEMA ASIA
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198215
+#EXTINF:-1,IN: D2H MOVIES
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206357
+#EXTINF:-1,IN: Discovery Turbo Hindi
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/207565
+#EXTINF:-1,IN: MOVIES ACTIVE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198241
+#EXTINF:-1,CARTOON: UK - DISNEY CHANNEL FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/204928
+#EXTINF:-1,CARTOON: UK - DISNEY JUNIOR FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198504
+#EXTINF:-1,CARTOON: US - DISNEY XD FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198615
+#EXTINF:-1,UK: SKY CIENMA DISNEY HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209451
