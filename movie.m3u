@@ -301,3 +301,21 @@ http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198615
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209451
 #EXTINF:-1 group-title="$ Infotainment", Nat Geo Wild
 http://27.254.149.109:8081/bypass/Natgeowild/playlist.m3u8
+
+#EXTINF:-1,SONY MAX (UK)
+http://163.172.118.212:80/live.ts?channelId=503&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,SONY TV (UK)
+http://163.172.118.212:80/live.ts?channelId=504&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,STAR BAHARAT (UK)
+http://163.172.118.212:80/live.ts?channelId=505&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,STAR GOLD (UK)
+http://163.172.118.212:80/live.ts?channelId=506&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,STAR PLUS (UK)
+http://163.172.118.212:80/live.ts?channelId=507&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,B4U MOVIES (UK)
+http://163.172.118.212:80/live.ts?channelId=494&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,B4U MUSIC (UK)
+http://163.172.118.212:80/live.ts?channelId=495&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1,COLORS (UK)
+http://163.172.118.212:80/live.ts?channelId=497&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+
