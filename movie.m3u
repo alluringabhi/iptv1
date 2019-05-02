@@ -299,3 +299,5 @@ http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198504
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198615
 #EXTINF:-1,UK: SKY CIENMA DISNEY HD
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209451
+#EXTINF:-1 group-title="$ Infotainment", Nat Geo Wild
+http://27.254.149.109:8081/bypass/Natgeowild/playlist.m3u8
