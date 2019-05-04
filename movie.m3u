@@ -300,7 +300,7 @@ http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198504
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198615
 #EXTINF:-1,UK: SKY CIENMA DISNEY HD
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209451
-#EXTINF:-1 group-title="$ Infotainment", Nat Geo Wild
+#EXTINF:-1, Nat Geo Wild
 http://27.254.149.109:8081/bypass/Natgeowild/playlist.m3u8
 
 #EXTINF:-1,SONY MAX (UK)
@@ -407,9 +407,3 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1, fox comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-
-#EXTINF:-2, group-title="Movie"tvg-logo="https://www.movieclub.tv/img_movies_vertical/1db1361bf4dee365a93210a6c4d74276.jpg",12 Strong
-http://cdn-movie2.movieclub.tv:8000/hls/content/nas03/movie33/inter/12-Strong/12-strong_T-1.mp4/index.m3u8?st=61bw3VFn8x2OXjNQ9Z64iw&username=177217&password=mmmm34e130a4f501ea52109b&e=1529853565
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://poster.iptvhero.com/LuTBuK7BumxQcUUmQGCEKw.jpg",EscapePlan2
-http://cdnstream1.podzone.net:443/movie/2018/Escape.Plan.2.2018.1080p.TH.zoom2.mp4/index.m3u8?u=h27892&st=sbdekPc2hjdezmwsuE8K2g&e=1529942522&ip=171.96.218.150
