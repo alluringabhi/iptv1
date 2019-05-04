@@ -348,3 +348,68 @@ http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8|user-agent="redf
 http://hindi.flussonic.cdnpro.me:80/StarMoviesHD-Hin/index.m3u8|user-agent="redflixtv.online/9.6"
 #EXTINF:-1, Star Movies Select
 http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
+
+#EXTINF:-1, Word Fashion travel
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1, Superserena
+https://camscdn.cams.com/camscdn/cdn-superbserena.m3u8
+#EXTINF:-1, Channel v
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
+#EXTINF:-1, MTV ASIA
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1,FX HD
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+#EXTINF:-1, fox life
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:1.4466,FX HD
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+#EXTINF:1.20174,FOXlife HD
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:1.20029,FOX CRIME HD
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
+#EXTINF:1.00824,KIX HD
+http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8
+#EXTINF:2.56308,NAT GEO WILD HD
+http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:1.60342,NATIONAL GEOGRAPHIC HD
+#EXTINF:1,NAT GEO PEOPLE HD
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:1.17776,SKY NEWS HD
+http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8
+#EXTINF:1.32536,FOX NEWS HD
+http://iliketot.dyndns.tv/1e2041858ca543fa90ec95d28197e907.m3u8
+#EXTINF:1.52521,COMEDY CENTRAL HD
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:1,FOX HD
+http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
+#EXTINF:1.052,FTV
+http://iliketot.dyndns.tv/df468a12ae6547de9637486bdc2025aa.m3u8
+#EXTINF:-1, Zetc
+http://iliketot.dyndns.tv/dcf0d550815947f3bacaf3521e118124.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1,FOX CRIME
+http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8
+ 
+#EXTINF:-1, FOX action
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1,Baby TV
+http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8
+#EXTINF:-1, Alb music 
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+
+#EXTINF:1, B4U movie
+http://161.0.157.5/PLTV/88888888/224/3221226255/index.m3u8
+
+#EXTINF:-1, CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, &TV
+http://161.0.157.7/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:-1, fox comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-2, group-title="Movie"tvg-logo="https://www.movieclub.tv/img_movies_vertical/1db1361bf4dee365a93210a6c4d74276.jpg",12 Strong
+http://cdn-movie2.movieclub.tv:8000/hls/content/nas03/movie33/inter/12-Strong/12-strong_T-1.mp4/index.m3u8?st=61bw3VFn8x2OXjNQ9Z64iw&username=177217&password=mmmm34e130a4f501ea52109b&e=1529853565
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://poster.iptvhero.com/LuTBuK7BumxQcUUmQGCEKw.jpg",EscapePlan2
+http://cdnstream1.podzone.net:443/movie/2018/Escape.Plan.2.2018.1080p.TH.zoom2.mp4/index.m3u8?u=h27892&st=sbdekPc2hjdezmwsuE8K2g&e=1529942522&ip=171.96.218.150
