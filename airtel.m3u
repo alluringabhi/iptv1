@@ -55,11 +55,6 @@ http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
 #EXTINF:-1, Star Gold
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD", Star Gold HD 
-http://89.187.177.179:80/StarGoldHD-Hin/index.m3u8
-
-#EXTINF:-1, Star Gold Select
-http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
 #EXTINF:-1, Star Bharat
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 
@@ -92,14 +87,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_1200.m3u8?j
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, RISHTEY CINEPLEX HD
-http://hindi.flussonic.cdnpro.me:80/Rishtey_Cineplex_IND/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-#EXTINF:-1, BollyWood Premiere
-http://142.93.220.229:80/bollywood/index.m3u8
-#EXTINF:-1,  UTV
-http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-#EXTINF:-1,  UTV ACTION
-http://hindi.flussonic.cdnpro.me:80/UTVACTION-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+
 
 
 #EXTINF:-1, Zee Action
@@ -118,11 +106,6 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-
-#EXTINF:-1, MOVIES ACTIVE HD
-http://hindi.flussonic.cdnpro.me:80/ViewersChoice-Classic(H)-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-#EXTINF:-1, D2H MOVIES
-http://hindi.flussonic.cdnpro.me:80/D2Hmovies_Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
 
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
@@ -155,7 +138,7 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_250.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:1, DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
@@ -168,8 +151,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226072/index.m3u8|user-agent="ua"
 http://mhms7.airtel.tv/PLTV/88888888/224/3221225922/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Aaj Tak  
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
-#EXTINF:-1, AajTak HD 
-http://142.93.220.229:80/aajtakhd/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, 	Delhi Aaj Tak  
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8|user-agent="ua"
@@ -218,8 +200,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	Discovery HD World Hindi
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua" 
-#EXTINF:-1, National Geographic Wild 
-http://hindi.flussonic.cdnpro.me:80/NATGEOWILD/INDI/HIN/index.m3u8|user-agent="redflixtv.online/9.6"
+
 #EXTINF:-1, 	Discovery JEET Hindi
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, Discovery Science Hindi
@@ -279,15 +260,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive
 #EXTINF:-1, Colors Infinity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
-#EXTINF:-1, Star World HD
-http://hindi.flussonic.cdnpro.me:80/StarWorldHD-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
-#EXTINF:-1, Star World Premiere
-http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
-#EXTINF:-1, Star Movies HD
-http://hindi.flussonic.cdnpro.me:80/StarMoviesHD-Hin/index.m3u8|user-agent="redflixtv.online/9.6"
-#EXTINF:-1, Star Movies Select
-http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
 
 #EXTINF:-1, 	Sony PIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua" 	
