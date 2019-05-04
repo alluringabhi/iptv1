@@ -34,8 +34,9 @@ http://150.242.21.2/stargold.m3u8?bandwidth=956&playlistlength=25&shift=0
 #EXTINF:0, wow kids
 https://msluscen1s.akamaized.net/hls/live/2000127/wowkidzhin/wowkidzhin_2400/chunklist.m3u8
 
-#EXTINF:0, Star utsav
-http://mhdtvworld.com/delta/hotstar/hotplus.php?c=starutsav&e=.m3u8
+#EXTINF:1, Disney
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
+
 
 
 #EXTINF:-1, STAR BHARAT HD
