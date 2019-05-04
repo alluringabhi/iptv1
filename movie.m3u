@@ -319,4 +319,32 @@ http://163.172.118.212:80/live.ts?channelId=494&deviceMac=00:1A:79:BE:3F:4E&uid=
 http://163.172.118.212:80/live.ts?channelId=495&deviceMac=00:1A:79:BE:3F:4E&uid=3434
 #EXTINF:-1,COLORS (UK)
 http://163.172.118.212:80/live.ts?channelId=497&deviceMac=00:1A:79:BE:3F:4E&uid=3434
+#EXTINF:-1 tvg-id="STAR GOLD HD", Star Gold HD 
+http://89.187.177.179:80/StarGoldHD-Hin/index.m3u8
 
+#EXTINF:-1, Star Gold Select
+http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, RISHTEY CINEPLEX HD
+http://hindi.flussonic.cdnpro.me:80/Rishtey_Cineplex_IND/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, BollyWood Premiere
+http://142.93.220.229:80/bollywood/index.m3u8
+#EXTINF:-1,  UTV
+http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1,  UTV ACTION
+http://hindi.flussonic.cdnpro.me:80/UTVACTION-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, MOVIES ACTIVE HD
+http://hindi.flussonic.cdnpro.me:80/ViewersChoice-Classic(H)-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, D2H MOVIES
+http://hindi.flussonic.cdnpro.me:80/D2Hmovies_Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, AajTak HD 
+http://142.93.220.229:80/aajtakhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, National Geographic Wild 
+http://hindi.flussonic.cdnpro.me:80/NATGEOWILD/INDI/HIN/index.m3u8|user-agent="redflixtv.online/9.6"
+#EXTINF:-1, Star World HD
+http://hindi.flussonic.cdnpro.me:80/StarWorldHD-Hin/index.m3u8|user-agent="hindi.flussonic.cdnpro.me"
+#EXTINF:-1, Star World Premiere
+http://142.93.220.229:80/starworldpremier/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
+#EXTINF:-1, Star Movies HD
+http://hindi.flussonic.cdnpro.me:80/StarMoviesHD-Hin/index.m3u8|user-agent="redflixtv.online/9.6"
+#EXTINF:-1, Star Movies Select
+http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8|user-agent="redflixtv.online/9.6"
