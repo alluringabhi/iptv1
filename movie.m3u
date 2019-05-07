@@ -545,6 +545,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 #EXTVLCOPT:crop=4:3
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="ua"
 
-https://www.uwatchfree.sx/netutv.php?vid=DA5B36p5YQgK
+#EXTINF:-1, animal plnt
+http://zer0live.ddns.net:5445/neptune/animalplanetworldhdeng/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE5IDc6MDI6MzggUE0maGFzaF92YWx1ZT1SUDE3cmM4czh3THV5NzRWL3NUMERBPT0mdmFsaWRtaW51dGVzPTI=
 
-https://hty4e3.vkcache.com/secip/0/qYVxdyvBZM_Qxx9IRodjlQ/MTAzLjg1LjEyNy4xMjc=/1557198000/hls-vod-s4/flv/api/files/videos/2019/04/03/1554296547f9wzn.mp666Frag1Num0
+#EXTINF:-1, utv
+http://zer0live.ddns.net:5445/juno/utvmoviesint/playlist.m3u8?nimblesessionid=54536877&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMTkgMzoxNTo0NCBQTSZoYXNoX3ZhbHVlPVZUMUpmQ1RlTFFtMWhNOVV4MGNpUlE9PSZ2YWxpZG1pbnV0ZXM9Mg== 
+
