@@ -553,6 +553,7 @@ http://zer0live.ddns.net:5445/juno/utvmoviesint/playlist.m3u8?nimblesessionid=54
 #EXTINF:-1, Flash S05E21
 https://www100.leasewebcdn.me/token=TNMLxWnLBnlcpK4g-wmcEQ/1557351804/103.85.0.0/45/f/48/404dec2f943fde33a9069ccd4543348f-720p.mp4
 #EXTINF:-1, Lucifer S04E01
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",URI="https://raw.githubusercontent.com/alluringabhi/iptv1/master/LuciferS04E01.vtt",LANGUAGE="en"
 https://s1.vcloud.to/hls/clf577zan7se6wjkcp6csq7guddkijbqll2chfjnrnzz5ntnszptcldmfjeq/index-v1-a1.m3u8
 #EXTINF:-1, Lucifer S04E02
 https://s1.vcloud.to/hls/clf577ran7se6wjkcp6csv55vr2xqk6iw4atxzjrdlwtoe4dgyedzn7tncja/index-v1-a1.m3u8
