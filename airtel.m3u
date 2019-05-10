@@ -534,5 +534,5 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/media-5/index.m3u8|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
 #EXTINF:-1, Flash dev2
 https://staragvodweb2-vh.akamaihd.net/i/videos/lifeok/dekedema/02/1000000216_,16,54,106,180,400,800,1300,2000,3000,4500,_STAR.mp4.csmil/master.m3u8?hdnea=st=1557485992~exp=1557489592~acl=/*~hmac=b434aa79b077041c8aad0d71c4e5ee4652682d13cf5c2ee7a6958401f785b360|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
-#EXTINF:-1, Flash devm
-https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/master.m3u8?ladder=phone&hdnea=st=1557486161~exp=1557489761~acl=/*~hmac=9026a325dbe31f6ec6cba001b6cda13c85331713b99f08a1cd84e3063c2d8aba
+#EXTINF:-1, Flash devmu
+https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/master.m3u8?ladder=phone&hdnea=st=1557486161~exp=1557489761~acl=/*~hmac=9026a325dbe31f6ec6cba001b6cda13c85331713b99f08a1cd84e3063c2d8aba|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
