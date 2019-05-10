@@ -530,3 +530,5 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
+#EXTINF:-1, Flash dev
+https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/media-6/index.m3u8
