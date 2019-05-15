@@ -550,56 +550,39 @@ http://zer0live.ddns.net:5445/neptune/animalplanetworldhdeng/playlist.m3u8?wmsAu
 
 #EXTINF:-1, utv
 http://zer0live.ddns.net:5445/juno/utvmoviesint/playlist.m3u8?nimblesessionid=54536877&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMTkgMzoxNTo0NCBQTSZoYXNoX3ZhbHVlPVZUMUpmQ1RlTFFtMWhNOVV4MGNpUlE9PSZ2YWxpZG1pbnV0ZXM9Mg== 
-#EXTINF:-1, Flash S05E21
-https://www100.leasewebcdn.me/token=TNMLxWnLBnlcpK4g-wmcEQ/1557351804/103.85.0.0/45/f/48/404dec2f943fde33a9069ccd4543348f-720p.mp4
-#EXTINF:-1, Lucifer S04E01
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",URI="https://raw.githubusercontent.com/alluringabhi/iptv1/master/LuciferS04E01.vtt",LANGUAGE="en"
-https://s1.vcloud.to/hls/clf577zan7se6wjkcp6csq7guddkijbqll2chfjnrnzz5ntnszptcldmfjeq/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E02
-https://s1.vcloud.to/hls/clf577ran7se6wjkcp6csv55vr2xqk6iw4atxzjrdlwtoe4dgyedzn7tncja/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E03
-https://s1.vcloud.to/hls/clf57ajan7se6wjkcp6csuhlurem3rnzp5anhvzakuply5rossnaizxfhdia/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E04
-https://s1.vcloud.to/hls/clf57aban7se6wjkcp6cswxpxd2laa4zxmlagazr4ebrn7kyouwhtexj43sq/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E05
-https://s1.vcloud.to/hls/clf57azan7se6wjkcp6csvxlu2t5wtmyfafhmktsqtselab322dmeelah74q/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E06
-https://s1.vcloud.to/hls/clf57aran7se6wjkcp6cswhgxndal26ykqsc3rpevcdumz55p25g7lwyuktq/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E07
-https://s1.vcloud.to/hls/clf57cban7se6wjkcp6csxhyxizb2ukpuqb77hfccplc6sxtixebo3witflq/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E08
-https://s1.vcloud.to/hls/clf57czan7se6wjkcp6csx5zua2mbzs63sbxyjlq6upngtfwn26soz2j4waq/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E09
-https://s1.vcloud.to/hls/clf57ejan7se6wjkcp6cswp563k4nmqtxagcmwosya6mprcgv72kbj637jba/index-v1-a1.m3u8
-#EXTINF:-1, Lucifer S04E10
-https://s1.vcloud.to/hls/clf57fzan7se6wjkcp6csdph65ymjtjqdirnmocwebard2cv6b63frvdevcq/index-v1-a1.m3u8
-#EXTINF:-1, lucifer season 4
-https://storage.googleapis.com/essexfast.appspot.com/Lucifer.Season.4.Complete.720p.WEB-DL.x264.mp4
-#EXTINF:-1, lucifer season 4 alternate
-https://str17.vidoza.net/x4lfpz77xzzpvjumxcieicch6hnw6vwqot33zhfbbslgoztqdovz6dn6gfqq/v.mp4
-#EXTINF:-1, lucifer season 4 hindi
-https://verystream.com/gettoken/Tujx8x7uuhu~1557576854~103.85.0.0~drmy3R1H?mime=true
 
 #EXTINF:-1, Sex Drugs & Theatre
 https://megavideo.site/storage/videos/Sex.Drugs.&.Theatre.Hindi.Season.1.Complete.720p.WEB-DL.x264.mp4
 #EXTINF:-1, kota factory
 https://megavideo.site/storage/videos/Kota.Factory.Hindi.Season.1.Complete.720p.WEB-DL.x264.mp4
-#EXTINF:-1, sense8 S01
-https://storage.googleapis.com/essexfast.appspot.com/Sense8.Season.1.Complete.720p.WEB-DL.x264.mp4
-#EXTINF:-1, sense8 S02
-https://storage.googleapis.com/essexfast.appspot.com/Sense8.Season.2.Complete.720p.WEB-DL.x264.mp4
 
-#EXTINF:-1, delhi crimes
-https://storage.googleapis.com/essexfast.appspot.com/Delhi.Crime.2019.Season.1.Complete.720p.HDRip.x264.mp4
-#EXTINF:-1, criminal justice
-https://storage.googleapis.com/essexfast.appspot.com/Criminal.Justice.2019.Season.1.Complete.720p.HDRip.x264.mp4
 #EXTINF:-1, intimate strangers
 https://megavideo.site/storage/movies/Intimate.Strangers.2018.720p.BluRay.x264.mp4
 
-#EXTINF:-1, soty2
-https://verystream.com/gettoken/T1QjyqktfZe~1557577490~103.85.0.0~8QLkaS70?mime=true
-#EXTINF:-1, cap marvel
-https://ohmuchutf8wow.verystream.net/stream/7LGoFHpRxZi/eP7-hNWZ5stqUSfi/hA7NQRSKdfoUKe6k97uzMLkNsGKW7JLSxmHLVHA_BnlZ6h7rRBcOJKjwSKB3G7IEiRjAS2cWfLI27Xo7cSwwIEUuhdinXVsvFNeGDNjvNZdLEzi2rlQVGYMHhHvHxNpl2Y41LbvsWBPbWAapJzy_SURwc1qyCBrFeDNKYwWfZqIqIUxQ4pjKvJKZs-LXuY1207Q4BlrtMijuNkfrvrN93tBtbM-Cxj1QFtvDmOc-stuFP36JZ6fheV6NwGzz8fmL3XDufdBcmg_9c3xRJ94Miv2LIylfx2n264LJhYvobOTx21ddp9sZzIZABSNRhw07S4waRPriff0COrnjpBxJYJTf3NJjqcaFVrheFLs1YCeQ0dEaHLlsQw4g4oxM7F1h0fo-NENOQ18eE6S5F3w7f849FXliGHHaxkVHOqnZMLg6mSmFifWqS6g_7O-4dMiQ/Captain+Marvel+%282019%29+Hindi.mkv.mp4?mime=true
-#EXTINF:-1, dont breathe
-https://ohmuchformat.verystream.net/stream/aArZ8n1mGUS/ADGBGcDuwodDmfz0/kO-Y6qr-_-smdcp25v_n0QYC04xhG0mIPkatoVH6TxR3ad2XkaKMQMvyjAdz3OMvX69InEfB_QMT0cBHgz8ng3vWSTTfdgc2jktwraDcEYI_wuhtvxdfLjXTogIdEZ-HrgOd4zR91CX4ei3i6SbReakCJGxM0P6ls5k44V79AUkkUsKXqKVSPLm0EQ0Gg5lQn15kIWfajiD1RNLZmkbOp_4GdG3eKcmLLB4GGPRTgFvXcC0iWlOZfKAvuoohpVoBe-XN8BN7_HtvdoRri_2hSMymUcIheWDllqKo0QBUU-6DlDiI7C0_TOmOPRlLDKHMyw78chbP_w50koX7DX5D0fS7Dv8Z9viF_7anjS-7VgqdYou7CIcT-ESJUxxj52f4G9kjudKE97mFegpBvxJH_Ou46QJ7XksC-OXbKlEUvyv6GSQK-EG5f7qfGBTspqqP/Don%27t+Breathe+%282016%29+Hindi+Dubbed.mp4?mime=true
 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
