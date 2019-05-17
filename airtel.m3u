@@ -538,9 +538,30 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8|user-agent="ua"
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
-#EXTINF:-1, Flash dev
-https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/media-5/index.m3u8|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
-#EXTINF:-1, Flash dev2
-https://staragvodweb2-vh.akamaihd.net/i/videos/lifeok/dekedema/02/1000000216_,16,54,106,180,400,800,1300,2000,3000,4500,_STAR.mp4.csmil/master.m3u8?hdnea=st=1557485992~exp=1557489592~acl=/*~hmac=b434aa79b077041c8aad0d71c4e5ee4652682d13cf5c2ee7a6958401f785b360|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
-#EXTINF:-1, Flash devmu
-https://hses.akamaized.net/videos/lifeok/dekedema/01_1/1000000041/1554622487824/265b9dab22d4e9a033e6df6f89639f17/master.m3u8?ladder=phone&hdnea=st=1557486161~exp=1557489761~acl=/*~hmac=9026a325dbe31f6ec6cba001b6cda13c85331713b99f08a1cd84e3063c2d8aba|user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
+#EXTINF:-1, Star Gold
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_GoldHD/Star_GoldHD_JSRV11_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, Star Gold Select
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Gold_Select_HD/Star_Gold_Select_HD_JSRV10_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, AajTak HD
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8
+
+#EXTINF:-1, StarSports1 Hindi FHD 3
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_8000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:-1, Star World
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_World/Star_World_JSRV11_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:-1, Star World HD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_HD/Star_World_HD_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+
+#EXTINF:-1, Star World Premiere HD FHD
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_Premeir_HD/Star_World_Premeir_HD_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+
+
+
+
+
+
+
+
