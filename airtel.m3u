@@ -10,7 +10,7 @@ http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|use
 #EXTINF:-1, 	Sony
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="ua"		
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/5.m3u8|user-agent="ua"		
 
 #EXTINF:-1, And TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
@@ -379,8 +379,6 @@ http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Sta
 
 #EXTINF:-1, StarSports1 Hindi HD
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1_Hindi/Star_Sports_HD1_Hindi_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-#EXTINF:-1, StarSports1 Hindi 4K
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_8000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:-1, StarSports First
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First/Star_Sports_First_JSRV12_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
