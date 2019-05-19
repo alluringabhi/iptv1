@@ -512,14 +512,12 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8|user-agent="ua"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Lok Sabha
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226349/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	India Voice
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226473/index.m3u8|user-agent="ua"		
+	
 #EXTINF:-1, 	Big Ganga
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	IBC 24
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	OK India
-http://mhms6.airtel.tv/PLTV/88888888/224/3221226286/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
