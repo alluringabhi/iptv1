@@ -396,8 +396,8 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8|user-agent="ua"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua"
 #EXTINF:-1, SONY SIX
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"
-#EXTINF:-1, SONY SIX HD
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/04.m3u8|user-agent="ua"
+#EXTINF:-1, SONY SIXHD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	ESPN
 http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	ESPN HD
