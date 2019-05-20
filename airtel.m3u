@@ -160,14 +160,23 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
 
+#EXTINF:-1, ABP News O
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
 #EXTINF:-1, 	ABP News
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226006/index.m3u8|user-agent="ua"	
+#EXTINF:-1, India TV O
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
 #EXTINF:-1, 	India TV
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226072/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zee News
 http://mhms7.airtel.tv/PLTV/88888888/224/3221225922/index.m3u8|user-agent="ua"
 #EXTINF:-1, News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+#EXTINF:-1, Aaj Tak O
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 
 #EXTINF:-1, 	Aaj Tak  
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
@@ -180,10 +189,16 @@ https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/c
 #EXTINF:-1, 	Delhi Aaj Tak  
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_JSRV1_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
+#EXTINF:-1, India News O
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+
 #EXTINF:-1, 	India News
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226085/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Aaj Tak Tej
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8|user-agent="ua"	
+#EXTINF:-1,News Nation O
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+
 #EXTINF:-1, 	News Nation
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225732/index.m3u8|user-agent="ua"
 #EXTINF:-1, News Nation High
