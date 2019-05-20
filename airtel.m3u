@@ -171,6 +171,11 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
 #EXTINF:-1, 	Aaj Tak  
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
+#EXTINF:-1, AajTak HD
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8
+
+#EXTINF:-1, AajTak Delhi
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
 
 #EXTINF:-1, 	Delhi Aaj Tak  
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_JSRV1_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
@@ -181,6 +186,9 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226085/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	News Nation
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225732/index.m3u8|user-agent="ua"
+#EXTINF:-1, News Nation High
+https://newsnation-i.akamaihd.net/hls/live/681878/newsnation07042019/master_2000k.m3u8
+
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/hls2/chunklist_4.m3u8|user-agent="ua"
 #EXTINF:-1, 	NDTV India
