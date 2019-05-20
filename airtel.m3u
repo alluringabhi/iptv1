@@ -219,6 +219,9 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226570/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	DD News
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226377/index.m3u8|user-agent="ua"	
+#EXTINF:-1, Sky News 
+https://hsskynews-i.akamaihd.net/hls/live/681877/skynews2407/master_2000.m3u8
+
 
 #EXTINF:-1, History Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
