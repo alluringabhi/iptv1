@@ -8,7 +8,7 @@ http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 
 #EXTINF:-1, 	Sony
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="Mozilla/5.0 (Linux; Android 6.0; HTC 5 Build/M5N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 6.0; HTC 5 Build/M5N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
 #EXTINF:-1, Sony HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8|user-agent="Mozilla/5.0 (Linux; Android 6.0; HTC 5 Build/M5N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36"
 
