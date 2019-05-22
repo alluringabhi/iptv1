@@ -49,7 +49,6 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8|user-agent="Mozil
 #EXTINF:-1, Star Bharat HS
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 #EXTINF:-1, Star Bharat HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Star Gold
