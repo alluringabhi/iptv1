@@ -11,8 +11,7 @@ http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:-1, And TV
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/And_TV_HD/And_TV_HD_JSRV6_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, 	Zee
 http://sambdcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_JSRV1_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
@@ -34,8 +33,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Picture
 #EXTINF:-1, Star Bharat HS
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
 #EXTINF:-1, Star Bharat HD
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
-
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, Star Gold
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Gold/Star_Gold_JSRV13_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, Star Gold HD
@@ -45,6 +43,8 @@ http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
 
 #EXTINF:-1, Star Gold Select
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Gold_Select/Star_Gold_Select_JSRV1_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, Star Gold Select HD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Gold_Select_HD/Star_Gold_Select_HD_JSRV10_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:-1, 	Sony Max
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
@@ -112,9 +112,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_TV/India_TV_1200.m3u8
 
 #EXTINF:-1, News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-
-#EXTINF:-1, Aaj Tak Official
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w982472201_b1000000.m3u8
 
 #EXTINF:-1, Aaj Tak J
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
