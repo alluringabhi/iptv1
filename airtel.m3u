@@ -4,6 +4,9 @@
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Plus/Star_Plus_JSRV7_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 #EXTINF:-1,  Star Plus HD
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+#EXTINF:-1,  Star Plus HD A
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_STB.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+
 #EXTINF:-1,  Star Plus HS
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 
