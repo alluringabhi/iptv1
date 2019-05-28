@@ -545,12 +545,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 #EXTVLCOPT:crop=4:3
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="ua"
 
-#EXTINF:-1, animal plnt
-http://zer0live.ddns.net:5445/neptune/animalplanetworldhdeng/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE5IDc6MDI6MzggUE0maGFzaF92YWx1ZT1SUDE3cmM4czh3THV5NzRWL3NUMERBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1, utv
-http://zer0live.ddns.net:5445/juno/utvmoviesint/playlist.m3u8?nimblesessionid=54536877&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMTkgMzoxNTo0NCBQTSZoYXNoX3ZhbHVlPVZUMUpmQ1RlTFFtMWhNOVV4MGNpUlE9PSZ2YWxpZG1pbnV0ZXM9Mg== 
-
 #EXTINF:-1, Sex Drugs & Theatre
 https://megavideo.site/storage/videos/Sex.Drugs.&.Theatre.Hindi.Season.1.Complete.720p.WEB-DL.x264.mp4
 #EXTINF:-1, kota factory
@@ -660,33 +654,9 @@ https://storage.googleapis.com/essexfast.appspot.com/hindi/Badnaam.Gali.2019.Hin
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
 #EXTINF:-1, 	WB
 http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
-#EXTINF:-1,colors
-http://103.205.133.44:1935/ns/colors/playlist.m3u8
-#EXTINF:-1,colors 1
-http://103.205.133.14/hls/colors.m3u8
-#EXTINF:-1,rtv
-http://103.205.133.14/hls/rtv.m3u8
-#EXTINF:-1,discovery
-http://103.205.133.14/hls/discovery.m3u8
-#EXTINF:-1,ntv
-http://103.205.133.14/hls/ntv.m3u8
-#EXTINF:-1,news24
-http://103.205.133.14/hls/news24.m3u8
-#EXTINF:-1,natgeo
-http://103.205.133.14/hls/natgeo.m3u8
-#EXTINF:-1,gtv
-http://103.205.133.14/hls/gtv.m3u8
-#EXTINF:-1,Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1,Sony ESPN
-http://103.205.133.14/hls/sonyespn.m3u8
-#EXTINF:-1,zeetvhd
-http://103.205.133.14/hls/zeetvhd.m3u8
-#EXTINF:-1,hbo HD
-http://103.205.133.14/hls/hbo.m3u8
-#EXTINF:-1,axn HD
-http://103.205.133.14/hls/axn.m3u8
+
 #EXTINF:-1, The test case
 https://storage.googleapis.com/essexfast.appspot.com/The.Test.Case.Season.1.Complete.720p.WEB-DL.x264.mp4
+
+#EXTINF:-1, Captain Marvel 
+https://storage.googleapis.com/essexfast.appspot.com/Captain.Marvel.2019.720p.WEB-DL.x264.mp4
