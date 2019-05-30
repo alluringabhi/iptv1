@@ -205,6 +205,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Discovery HD World Hindi
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/05.m3u8|user-agent="ua"
+#EXTINF:-1, 	TLC Hindi
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8|user-agent="ua"	
+#EXTINF:-1, 	TLC HD World Hindi
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226498/05.m3u8|user-agent="ua"	
+#EXTINF:-1, 	Travel XP Hindi
+http://mhms10.airtel.tv/PLTV/88888888/224/3221226495/index.m3u8|user-agent="ua"	
+
 
 #EXTINF:-1, 	Discovery JEET Hindi
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8|user-agent="ua"
@@ -218,12 +225,6 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8|user-agent="ua"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Animal Planet Hd Hindi World
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226489/05.m3u8|user-agent="ua"	
-#EXTINF:-1, 	TLC Hindi
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	TLC HD World Hindi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226498/05.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Travel XP Hindi
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226495/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Food Food Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Food_Food/Food_Food_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, GoodTimes Hindi
@@ -536,13 +537,8 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood M3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1, Star Goldy
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Gold/Star_Gold_JSRV13_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36 ExoPlayerLib/2.5.3"
-#EXTINF:-1, Star plus
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Plus/Star_Plus_JSRV7_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, Star sports hindi
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1_Hindi/Star_Sports_HD1_Hindi_JSRV7_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
-
-#EXTINF:-1, Star sports first
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First/Star_Sports_First_JSRV12_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, Republic Bharat JTV FHD
+http://bbsrsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Republic_Bharat/Republic_Bharat_800.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
