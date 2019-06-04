@@ -672,6 +672,10 @@ http://209.126.116.187:1935/trunk3/MINIPLEXHD/playlist.m3u8
 http://87.117.229.52:1935/trunk3/D2HCINEMAHD/playlist.m3u8
 #EXTINF:-1, COLORS CINEPLEX HD
 http://87.117.229.52:1935/trunk3/CINEPLEXHD/playlist.m3u8
-#EXTINF:-1, group-title="HINDI", UTV HD
+#EXTINF:-1, UTV HD
 http://87.117.229.52:1935/trunk3/UTVHD/playlist.m3u8
+#EXTINF:-1, Nicktoons
+http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 
+http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
+http://162.210.195.121:8080/WWETVHD/tracks-v1a1/mono.m3u8
