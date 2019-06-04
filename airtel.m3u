@@ -132,6 +132,7 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 #EXTINF:-1, Nickelodeon Jr English
 http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_250.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
+
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
 
@@ -164,6 +165,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, 	News Nation
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225732/index.m3u8|user-agent="ua"
+#EXTINF:-1, Bharat Samachar
+http://mhms6.airtel.tv/PLTV/88888888/224/3221226268/index.m3u8|user-agent="ua" 
 
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/hls2/master.m3u8|user-agent="ua"
@@ -530,7 +533,3 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Miniplex HD
-http://209.126.116.187:1935/trunk3/MINIPLEXHD/playlist.m3u8
-#EXTINF:-1, D2H Cinema HD
-http://87.117.229.52:1935/trunk3/D2HCINEMAHD/playlist.m3u8
