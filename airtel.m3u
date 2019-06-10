@@ -533,5 +533,5 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1, Star Sports 3
-http://103.68.116.50/live/feed1007/index.m3u8
+#EXTINF:-1, Ary
+http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
