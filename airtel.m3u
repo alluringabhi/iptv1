@@ -521,7 +521,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8|user-agent="ua"
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1, Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
+#EXTINF:-1, Ary
+http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
@@ -533,5 +534,4 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1, Ary
-http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
+
