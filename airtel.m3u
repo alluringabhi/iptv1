@@ -522,8 +522,18 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1, DAWN News
 https://cdn4.mjunoon.tv:8087/channels/DawnNews-152/live/152M/chunks.m3u8?nimblesessionid=449687892&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE5IDEwOjAyOjEyIEFNJmhhc2hfdmFsdWU9SlN5TU4vY0YrR0tLb29yNnVWek40QT09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1, Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1, GEO News
+https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
+#EXTINF:-1, Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1, PTV News
+http://67.231.248.131:1935:1935/live/PTVnews/playlist.m3u8 
+
 #EXTINF:-1, Ary
 http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
+#EXTINF:-1, Hum TV
+https://cdn4.mjunoon.tv:8087/channels/Hum-TV-136-3/live/136-3M/chunks.m3u8?nimblesessionid=449684438&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE5IDk6NTU6MjUgQU0maGFzaF92YWx1ZT1CUXh2enJlbDArUTFMTm1PNitmRlVRPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
@@ -536,5 +546,3 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, Hum TV
-https://cdn4.mjunoon.tv:8087/channels/Hum-TV-136-3/live/136-3M/chunks.m3u8?nimblesessionid=449684438&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE5IDk6NTU6MjUgQU0maGFzaF92YWx1ZT1CUXh2enJlbDArUTFMTm1PNitmRlVRPT0mdmFsaWRtaW51dGVzPTIw
