@@ -516,9 +516,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 #EXTINF:-1, 	FTV
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1, Geo News
+#EXTINF:-1, DAWN News
+https://cdn4.mjunoon.tv:8087/channels/DawnNews-152/live/152M/chunks.m3u8?nimblesessionid=449687892&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE5IDEwOjAyOjEyIEFNJmhhc2hfdmFsdWU9SlN5TU4vY0YrR0tLb29yNnVWek40QT09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1, Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1, Ary
 http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
