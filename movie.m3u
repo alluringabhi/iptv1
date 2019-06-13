@@ -676,6 +676,9 @@ http://87.117.229.52:1935/trunk3/CINEPLEXHD/playlist.m3u8
 http://87.117.229.52:1935/trunk3/UTVHD/playlist.m3u8
 #EXTINF:-1, Nicktoons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, Natgeo AD
 http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WWE Tv
 http://162.210.195.121:8080/WWETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, High street tv
+http://94.46.222.90:4122
