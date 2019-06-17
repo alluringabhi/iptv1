@@ -199,12 +199,15 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226570/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	DD News
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226377/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	DD
+#EXTINF:-1, 	DD Lok Sabha
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226349/index.m3u8|user-agent="ua"
+#EXTINF:-1, 	DD 1
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226296/index.m3u8|user-agent="ua"	
 #EXTINF:-1, DD India
 http://pockettv.xyz/api/zee.m3u8?c=ddindia
 #EXTINF:-1, DD Kisan
 https://playhls.media.nic.in/live/ddkisan/index.m3u8
+
 
 #EXTINF:-1, History Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_1200.m3u8?jct=9z-Ff8a3gmpcUZWLhh8WaQ&pxe=1560860155&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
@@ -495,8 +498,6 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8|user-agent="ua"
 	
 #EXTINF:-1, 	Home Shop 18
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Lok Sabha
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226349/index.m3u8|user-agent="ua"
 	
 #EXTINF:-1, 	Big Ganga
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8|user-agent="ua"	
