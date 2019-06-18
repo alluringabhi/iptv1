@@ -63,6 +63,8 @@ http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
 
 #EXTINF:-1, Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
+#EXTINF:-1 tvg-id="Movies OK" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK SD JTV FHD+
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Movies_OK_SD/Movies_OK_SD_JSRV11_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 
 #EXTINF:-1, Jio Hindi Movies
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
