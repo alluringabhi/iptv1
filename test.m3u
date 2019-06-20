@@ -28,8 +28,8 @@ http://62.210.27.219:80/live.ts?channelId=103&deviceMac=00:1A:79:BE:3F:D5&uid=26
 http://62.210.27.219:80/live.ts?channelId=104&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1, a105
 http://62.210.27.219:80/live.ts?channelId=105&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1, a106
-http://62.210.27.219:80/live.ts?channelId=106&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1, a106d
+http://62.210.27.219:80/live.ts?channelId=106&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2
 #EXTINF:-1, a107
 http://62.210.27.219:80/live.ts?channelId=107&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1, a108
