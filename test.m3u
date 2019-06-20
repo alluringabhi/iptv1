@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Hindi Entertainment", Arré
+#EXTINF:-1, Arré
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
 #EXTINF:-1, Viasat History
@@ -13,1006 +13,142 @@ http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1, fox tv
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1, CN tv
-http://62.210.27.219:80/live.ts?channelId=650&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 
-#EXTINF:-1, a100
-http://62.210.27.219:80/live.ts?channelId=100&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a101
-http://62.210.27.219:80/live.ts?channelId=101&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a102
-http://62.210.27.219:80/live.ts?channelId=102&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a103
-http://62.210.27.219:80/live.ts?channelId=103&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a104
-http://62.210.27.219:80/live.ts?channelId=104&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a105
-http://62.210.27.219:80/live.ts?channelId=105&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a106
-http://62.210.27.219:80/live.ts?channelId=106&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a107
-http://62.210.27.219:80/live.ts?channelId=107&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a108
-http://62.210.27.219:80/live.ts?channelId=108&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a109
-http://62.210.27.219:80/live.ts?channelId=109&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a110
-http://62.210.27.219:80/live.ts?channelId=110&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a111
-http://62.210.27.219:80/live.ts?channelId=111&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a112
-http://62.210.27.219:80/live.ts?channelId=112&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a113
-http://62.210.27.219:80/live.ts?channelId=113&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a114
-http://62.210.27.219:80/live.ts?channelId=114&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a115
-http://62.210.27.219:80/live.ts?channelId=115&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a116
-http://62.210.27.219:80/live.ts?channelId=116&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a117
-http://62.210.27.219:80/live.ts?channelId=117&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a118
-http://62.210.27.219:80/live.ts?channelId=118&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a119
-http://62.210.27.219:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a120
-http://62.210.27.219:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a121
-http://62.210.27.219:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a122
-http://62.210.27.219:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a123
-http://62.210.27.219:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a124
-http://62.210.27.219:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a125
-http://62.210.27.219:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a126
-http://62.210.27.219:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a127
-http://62.210.27.219:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a128
-http://62.210.27.219:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a129
-http://62.210.27.219:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a130
-http://62.210.27.219:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a131
-http://62.210.27.219:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a132
-http://62.210.27.219:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a133
-http://62.210.27.219:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a134
-http://62.210.27.219:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a135
-http://62.210.27.219:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a136
-http://62.210.27.219:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a137
-http://62.210.27.219:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a138
-http://62.210.27.219:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a139
-http://62.210.27.219:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a140
-http://62.210.27.219:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a141
-http://62.210.27.219:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a142
-http://62.210.27.219:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a143
-http://62.210.27.219:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a144
-http://62.210.27.219:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a145
-http://62.210.27.219:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a146
-http://62.210.27.219:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a147
-http://62.210.27.219:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a148
-http://62.210.27.219:80/live.ts?channelId=148&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a149
-http://62.210.27.219:80/live.ts?channelId=149&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a150
-http://62.210.27.219:80/live.ts?channelId=150&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a151
-http://62.210.27.219:80/live.ts?channelId=151&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a152
-http://62.210.27.219:80/live.ts?channelId=152&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a153
-http://62.210.27.219:80/live.ts?channelId=153&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a154
-http://62.210.27.219:80/live.ts?channelId=154&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a155
-http://62.210.27.219:80/live.ts?channelId=155&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a156
-http://62.210.27.219:80/live.ts?channelId=156&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a157
-http://62.210.27.219:80/live.ts?channelId=157&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a158
-http://62.210.27.219:80/live.ts?channelId=158&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a159
-http://62.210.27.219:80/live.ts?channelId=159&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a160
-http://62.210.27.219:80/live.ts?channelId=160&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a161
-http://62.210.27.219:80/live.ts?channelId=161&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a162
-http://62.210.27.219:80/live.ts?channelId=162&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a163
-http://62.210.27.219:80/live.ts?channelId=163&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a164
-http://62.210.27.219:80/live.ts?channelId=164&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a165
-http://62.210.27.219:80/live.ts?channelId=165&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a166
-http://62.210.27.219:80/live.ts?channelId=166&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a167
-http://62.210.27.219:80/live.ts?channelId=167&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a168
-http://62.210.27.219:80/live.ts?channelId=168&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a169
-http://62.210.27.219:80/live.ts?channelId=169&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a170
-http://62.210.27.219:80/live.ts?channelId=170&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a171
-http://62.210.27.219:80/live.ts?channelId=171&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a172
-http://62.210.27.219:80/live.ts?channelId=172&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a173
-http://62.210.27.219:80/live.ts?channelId=173&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a174
-http://62.210.27.219:80/live.ts?channelId=174&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a175
-http://62.210.27.219:80/live.ts?channelId=175&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a176
-http://62.210.27.219:80/live.ts?channelId=176&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a177
-http://62.210.27.219:80/live.ts?channelId=177&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a178
-http://62.210.27.219:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a179
-http://62.210.27.219:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a180
-http://62.210.27.219:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a181
-http://62.210.27.219:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a182
-http://62.210.27.219:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a183
-http://62.210.27.219:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a184
-http://62.210.27.219:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a185
-http://62.210.27.219:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a186
-http://62.210.27.219:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a187
-http://62.210.27.219:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a188
-http://62.210.27.219:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a189
-http://62.210.27.219:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a190
-http://62.210.27.219:80/live.ts?channelId=190&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a191
-http://62.210.27.219:80/live.ts?channelId=191&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a192
-http://62.210.27.219:80/live.ts?channelId=192&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a193
-http://62.210.27.219:80/live.ts?channelId=193&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a194
-http://62.210.27.219:80/live.ts?channelId=194&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a195
-http://62.210.27.219:80/live.ts?channelId=195&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a196
-http://62.210.27.219:80/live.ts?channelId=196&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a197
-http://62.210.27.219:80/live.ts?channelId=197&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a198
-http://62.210.27.219:80/live.ts?channelId=198&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a199
-http://62.210.27.219:80/live.ts?channelId=199&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a200
-http://62.210.27.219:80/live.ts?channelId=200&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a201
-http://62.210.27.219:80/live.ts?channelId=201&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a202
-http://62.210.27.219:80/live.ts?channelId=202&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a203
-http://62.210.27.219:80/live.ts?channelId=203&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a204
-http://62.210.27.219:80/live.ts?channelId=204&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a205
-http://62.210.27.219:80/live.ts?channelId=205&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a206
-http://62.210.27.219:80/live.ts?channelId=206&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a207
-http://62.210.27.219:80/live.ts?channelId=207&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a208
-http://62.210.27.219:80/live.ts?channelId=208&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a209
-http://62.210.27.219:80/live.ts?channelId=209&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a210
-http://62.210.27.219:80/live.ts?channelId=210&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a211
-http://62.210.27.219:80/live.ts?channelId=211&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a212
-http://62.210.27.219:80/live.ts?channelId=212&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a213
-http://62.210.27.219:80/live.ts?channelId=213&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a214
-http://62.210.27.219:80/live.ts?channelId=214&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a215
-http://62.210.27.219:80/live.ts?channelId=215&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a216
-http://62.210.27.219:80/live.ts?channelId=216&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a217
-http://62.210.27.219:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a218
-http://62.210.27.219:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a219
-http://62.210.27.219:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a220
-http://62.210.27.219:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a221
-http://62.210.27.219:80/live.ts?channelId=221&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a222
-http://62.210.27.219:80/live.ts?channelId=222&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a223
-http://62.210.27.219:80/live.ts?channelId=223&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a224
-http://62.210.27.219:80/live.ts?channelId=224&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a225
-http://62.210.27.219:80/live.ts?channelId=225&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a226
-http://62.210.27.219:80/live.ts?channelId=226&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a227
-http://62.210.27.219:80/live.ts?channelId=227&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a228
-http://62.210.27.219:80/live.ts?channelId=228&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a229
-http://62.210.27.219:80/live.ts?channelId=229&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a230
-http://62.210.27.219:80/live.ts?channelId=230&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a231
-http://62.210.27.219:80/live.ts?channelId=231&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a232
-http://62.210.27.219:80/live.ts?channelId=232&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a233
-http://62.210.27.219:80/live.ts?channelId=233&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a234
-http://62.210.27.219:80/live.ts?channelId=234&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a235
-http://62.210.27.219:80/live.ts?channelId=235&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a236
-http://62.210.27.219:80/live.ts?channelId=236&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a237
-http://62.210.27.219:80/live.ts?channelId=237&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a238
-http://62.210.27.219:80/live.ts?channelId=238&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a239
-http://62.210.27.219:80/live.ts?channelId=239&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a240
-http://62.210.27.219:80/live.ts?channelId=240&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a241
-http://62.210.27.219:80/live.ts?channelId=241&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a242
-http://62.210.27.219:80/live.ts?channelId=242&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a243
-http://62.210.27.219:80/live.ts?channelId=243&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a244
-http://62.210.27.219:80/live.ts?channelId=244&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a245
-http://62.210.27.219:80/live.ts?channelId=245&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a246
-http://62.210.27.219:80/live.ts?channelId=246&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a247
-http://62.210.27.219:80/live.ts?channelId=247&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a248
-http://62.210.27.219:80/live.ts?channelId=248&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a249
-http://62.210.27.219:80/live.ts?channelId=249&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a250
-http://62.210.27.219:80/live.ts?channelId=250&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a251
-http://62.210.27.219:80/live.ts?channelId=251&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a252
-http://62.210.27.219:80/live.ts?channelId=252&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a253
-http://62.210.27.219:80/live.ts?channelId=253&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a254
-http://62.210.27.219:80/live.ts?channelId=254&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a255
-http://62.210.27.219:80/live.ts?channelId=255&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a256
-http://62.210.27.219:80/live.ts?channelId=256&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a257
-http://62.210.27.219:80/live.ts?channelId=257&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a258
-http://62.210.27.219:80/live.ts?channelId=258&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a259
-http://62.210.27.219:80/live.ts?channelId=259&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a260
-http://62.210.27.219:80/live.ts?channelId=260&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a261
-http://62.210.27.219:80/live.ts?channelId=261&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a262
-http://62.210.27.219:80/live.ts?channelId=262&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a263
-http://62.210.27.219:80/live.ts?channelId=263&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a264
-http://62.210.27.219:80/live.ts?channelId=264&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a265
-http://62.210.27.219:80/live.ts?channelId=265&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a266
-http://62.210.27.219:80/live.ts?channelId=266&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a267
-http://62.210.27.219:80/live.ts?channelId=267&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a268
-http://62.210.27.219:80/live.ts?channelId=268&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a269
-http://62.210.27.219:80/live.ts?channelId=269&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a270
-http://62.210.27.219:80/live.ts?channelId=270&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a271
-http://62.210.27.219:80/live.ts?channelId=271&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a272
-http://62.210.27.219:80/live.ts?channelId=272&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a273
-http://62.210.27.219:80/live.ts?channelId=273&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a274
-http://62.210.27.219:80/live.ts?channelId=274&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a275
-http://62.210.27.219:80/live.ts?channelId=275&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a276
-http://62.210.27.219:80/live.ts?channelId=276&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a277
-http://62.210.27.219:80/live.ts?channelId=277&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a278
-http://62.210.27.219:80/live.ts?channelId=278&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a279
-http://62.210.27.219:80/live.ts?channelId=279&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a280
-http://62.210.27.219:80/live.ts?channelId=280&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a281
-http://62.210.27.219:80/live.ts?channelId=281&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a282
-http://62.210.27.219:80/live.ts?channelId=282&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a283
-http://62.210.27.219:80/live.ts?channelId=283&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a284
-http://62.210.27.219:80/live.ts?channelId=284&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a285
-http://62.210.27.219:80/live.ts?channelId=285&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a286
-http://62.210.27.219:80/live.ts?channelId=286&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a287
-http://62.210.27.219:80/live.ts?channelId=287&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a288
-http://62.210.27.219:80/live.ts?channelId=288&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a289
-http://62.210.27.219:80/live.ts?channelId=289&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a290
-http://62.210.27.219:80/live.ts?channelId=290&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a291
-http://62.210.27.219:80/live.ts?channelId=291&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a292
-http://62.210.27.219:80/live.ts?channelId=292&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a293
-http://62.210.27.219:80/live.ts?channelId=293&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a294
-http://62.210.27.219:80/live.ts?channelId=294&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a295
-http://62.210.27.219:80/live.ts?channelId=295&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a296
-http://62.210.27.219:80/live.ts?channelId=296&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a297
-http://62.210.27.219:80/live.ts?channelId=297&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a298
-http://62.210.27.219:80/live.ts?channelId=298&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a299
-http://62.210.27.219:80/live.ts?channelId=299&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a300
-http://62.210.27.219:80/live.ts?channelId=300&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a301
-http://62.210.27.219:80/live.ts?channelId=301&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a302
-http://62.210.27.219:80/live.ts?channelId=302&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a303
-http://62.210.27.219:80/live.ts?channelId=303&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a304
-http://62.210.27.219:80/live.ts?channelId=304&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a305
-http://62.210.27.219:80/live.ts?channelId=305&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a306
-http://62.210.27.219:80/live.ts?channelId=306&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a307
-http://62.210.27.219:80/live.ts?channelId=307&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a308
-http://62.210.27.219:80/live.ts?channelId=308&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a309
-http://62.210.27.219:80/live.ts?channelId=309&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a310
-http://62.210.27.219:80/live.ts?channelId=310&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a311
-http://62.210.27.219:80/live.ts?channelId=311&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a312
-http://62.210.27.219:80/live.ts?channelId=312&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a313
-http://62.210.27.219:80/live.ts?channelId=313&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a314
-http://62.210.27.219:80/live.ts?channelId=314&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a315
-http://62.210.27.219:80/live.ts?channelId=315&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a316
-http://62.210.27.219:80/live.ts?channelId=316&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a317
-http://62.210.27.219:80/live.ts?channelId=317&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a318
-http://62.210.27.219:80/live.ts?channelId=318&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a319
-http://62.210.27.219:80/live.ts?channelId=319&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a320
-http://62.210.27.219:80/live.ts?channelId=320&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a321
-http://62.210.27.219:80/live.ts?channelId=321&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a322
-http://62.210.27.219:80/live.ts?channelId=322&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a323
-http://62.210.27.219:80/live.ts?channelId=323&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a324
-http://62.210.27.219:80/live.ts?channelId=324&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a325
-http://62.210.27.219:80/live.ts?channelId=325&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a326
-http://62.210.27.219:80/live.ts?channelId=326&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a327
-http://62.210.27.219:80/live.ts?channelId=327&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a328
-http://62.210.27.219:80/live.ts?channelId=328&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a329
-http://62.210.27.219:80/live.ts?channelId=329&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a330
-http://62.210.27.219:80/live.ts?channelId=330&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a331
-http://62.210.27.219:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a332
-http://62.210.27.219:80/live.ts?channelId=332&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a333
-http://62.210.27.219:80/live.ts?channelId=333&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a334
-http://62.210.27.219:80/live.ts?channelId=334&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a335
-http://62.210.27.219:80/live.ts?channelId=335&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a336
-http://62.210.27.219:80/live.ts?channelId=336&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a337
-http://62.210.27.219:80/live.ts?channelId=337&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a338
-http://62.210.27.219:80/live.ts?channelId=338&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a339
-http://62.210.27.219:80/live.ts?channelId=339&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a340
-http://62.210.27.219:80/live.ts?channelId=340&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a341
-http://62.210.27.219:80/live.ts?channelId=341&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a342
-http://62.210.27.219:80/live.ts?channelId=342&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a343
-http://62.210.27.219:80/live.ts?channelId=343&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a344
-http://62.210.27.219:80/live.ts?channelId=344&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a345
-http://62.210.27.219:80/live.ts?channelId=345&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a346
-http://62.210.27.219:80/live.ts?channelId=346&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a347
-http://62.210.27.219:80/live.ts?channelId=347&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a348
-http://62.210.27.219:80/live.ts?channelId=348&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a349
-http://62.210.27.219:80/live.ts?channelId=349&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a350
-http://62.210.27.219:80/live.ts?channelId=350&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a351
-http://62.210.27.219:80/live.ts?channelId=351&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a352
-http://62.210.27.219:80/live.ts?channelId=352&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a353
-http://62.210.27.219:80/live.ts?channelId=353&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a354
-http://62.210.27.219:80/live.ts?channelId=354&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a355
-http://62.210.27.219:80/live.ts?channelId=355&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a356
-http://62.210.27.219:80/live.ts?channelId=356&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a357
-http://62.210.27.219:80/live.ts?channelId=357&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a358
-http://62.210.27.219:80/live.ts?channelId=358&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a359
-http://62.210.27.219:80/live.ts?channelId=359&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a360
-http://62.210.27.219:80/live.ts?channelId=360&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a361
-http://62.210.27.219:80/live.ts?channelId=361&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a362
-http://62.210.27.219:80/live.ts?channelId=362&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a363
-http://62.210.27.219:80/live.ts?channelId=363&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a364
-http://62.210.27.219:80/live.ts?channelId=364&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a365
-http://62.210.27.219:80/live.ts?channelId=365&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a366
-http://62.210.27.219:80/live.ts?channelId=366&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a367
-http://62.210.27.219:80/live.ts?channelId=367&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a368
-http://62.210.27.219:80/live.ts?channelId=368&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a369
-http://62.210.27.219:80/live.ts?channelId=369&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a370
-http://62.210.27.219:80/live.ts?channelId=370&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a371
-http://62.210.27.219:80/live.ts?channelId=371&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a372
-http://62.210.27.219:80/live.ts?channelId=372&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a373
-http://62.210.27.219:80/live.ts?channelId=373&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a374
-http://62.210.27.219:80/live.ts?channelId=374&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a375
-http://62.210.27.219:80/live.ts?channelId=375&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a376
-http://62.210.27.219:80/live.ts?channelId=376&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a377
-http://62.210.27.219:80/live.ts?channelId=377&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a378
-http://62.210.27.219:80/live.ts?channelId=378&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a379
-http://62.210.27.219:80/live.ts?channelId=379&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a380
-http://62.210.27.219:80/live.ts?channelId=380&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a381
-http://62.210.27.219:80/live.ts?channelId=381&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a382
-http://62.210.27.219:80/live.ts?channelId=382&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a383
-http://62.210.27.219:80/live.ts?channelId=383&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a384
-http://62.210.27.219:80/live.ts?channelId=384&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a385
-http://62.210.27.219:80/live.ts?channelId=385&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a386
-http://62.210.27.219:80/live.ts?channelId=386&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a387
-http://62.210.27.219:80/live.ts?channelId=387&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a388
-http://62.210.27.219:80/live.ts?channelId=388&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a389
-http://62.210.27.219:80/live.ts?channelId=389&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a390
-http://62.210.27.219:80/live.ts?channelId=390&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a391
-http://62.210.27.219:80/live.ts?channelId=391&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a392
-http://62.210.27.219:80/live.ts?channelId=392&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a393
-http://62.210.27.219:80/live.ts?channelId=393&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a394
-http://62.210.27.219:80/live.ts?channelId=394&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a395
-http://62.210.27.219:80/live.ts?channelId=395&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a396
-http://62.210.27.219:80/live.ts?channelId=396&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a397
-http://62.210.27.219:80/live.ts?channelId=397&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a398
-http://62.210.27.219:80/live.ts?channelId=398&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a399
-http://62.210.27.219:80/live.ts?channelId=399&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a400
-http://62.210.27.219:80/live.ts?channelId=400&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a401
-http://62.210.27.219:80/live.ts?channelId=401&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a402
-http://62.210.27.219:80/live.ts?channelId=402&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a403
-http://62.210.27.219:80/live.ts?channelId=403&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a404
-http://62.210.27.219:80/live.ts?channelId=404&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a405
-http://62.210.27.219:80/live.ts?channelId=405&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a406
-http://62.210.27.219:80/live.ts?channelId=406&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a407
-http://62.210.27.219:80/live.ts?channelId=407&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a408
-http://62.210.27.219:80/live.ts?channelId=408&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a409
-http://62.210.27.219:80/live.ts?channelId=409&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a410
-http://62.210.27.219:80/live.ts?channelId=410&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a411
-http://62.210.27.219:80/live.ts?channelId=411&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a412
-http://62.210.27.219:80/live.ts?channelId=412&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a413
-http://62.210.27.219:80/live.ts?channelId=413&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a414
-http://62.210.27.219:80/live.ts?channelId=414&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a415
-http://62.210.27.219:80/live.ts?channelId=415&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a416
-http://62.210.27.219:80/live.ts?channelId=416&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a417
-http://62.210.27.219:80/live.ts?channelId=417&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a418
-http://62.210.27.219:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a419
-http://62.210.27.219:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a420
-http://62.210.27.219:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a421
-http://62.210.27.219:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a422
-http://62.210.27.219:80/live.ts?channelId=422&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a423
-http://62.210.27.219:80/live.ts?channelId=423&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a424
-http://62.210.27.219:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a425
-http://62.210.27.219:80/live.ts?channelId=425&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a426
-http://62.210.27.219:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a427
-http://62.210.27.219:80/live.ts?channelId=427&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a428
-http://62.210.27.219:80/live.ts?channelId=428&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a429
-http://62.210.27.219:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a430
-http://62.210.27.219:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a431
-http://62.210.27.219:80/live.ts?channelId=431&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a432
-http://62.210.27.219:80/live.ts?channelId=432&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a433
-http://62.210.27.219:80/live.ts?channelId=433&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a434
-http://62.210.27.219:80/live.ts?channelId=434&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a435
-http://62.210.27.219:80/live.ts?channelId=435&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a436
-http://62.210.27.219:80/live.ts?channelId=436&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a437
-http://62.210.27.219:80/live.ts?channelId=437&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a438
-http://62.210.27.219:80/live.ts?channelId=438&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a439
-http://62.210.27.219:80/live.ts?channelId=439&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a440
-http://62.210.27.219:80/live.ts?channelId=440&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a441
-http://62.210.27.219:80/live.ts?channelId=441&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a442
-http://62.210.27.219:80/live.ts?channelId=442&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a443
-http://62.210.27.219:80/live.ts?channelId=443&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a444
-http://62.210.27.219:80/live.ts?channelId=444&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a445
-http://62.210.27.219:80/live.ts?channelId=445&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a446
-http://62.210.27.219:80/live.ts?channelId=446&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a447
-http://62.210.27.219:80/live.ts?channelId=447&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a448
-http://62.210.27.219:80/live.ts?channelId=448&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a449
-http://62.210.27.219:80/live.ts?channelId=449&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a450
-http://62.210.27.219:80/live.ts?channelId=450&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a451
-http://62.210.27.219:80/live.ts?channelId=451&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a452
-http://62.210.27.219:80/live.ts?channelId=452&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a453
-http://62.210.27.219:80/live.ts?channelId=453&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a454
-http://62.210.27.219:80/live.ts?channelId=454&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a455
-http://62.210.27.219:80/live.ts?channelId=455&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a456
-http://62.210.27.219:80/live.ts?channelId=456&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a457
-http://62.210.27.219:80/live.ts?channelId=457&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a458
-http://62.210.27.219:80/live.ts?channelId=458&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a459
-http://62.210.27.219:80/live.ts?channelId=459&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a460
-http://62.210.27.219:80/live.ts?channelId=460&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a461
-http://62.210.27.219:80/live.ts?channelId=461&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a462
-http://62.210.27.219:80/live.ts?channelId=462&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a463
-http://62.210.27.219:80/live.ts?channelId=463&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a464
-http://62.210.27.219:80/live.ts?channelId=464&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a465
-http://62.210.27.219:80/live.ts?channelId=465&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a466
-http://62.210.27.219:80/live.ts?channelId=466&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a467
-http://62.210.27.219:80/live.ts?channelId=467&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a468
-http://62.210.27.219:80/live.ts?channelId=468&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a469
-http://62.210.27.219:80/live.ts?channelId=469&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a470
-http://62.210.27.219:80/live.ts?channelId=470&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a471
-http://62.210.27.219:80/live.ts?channelId=471&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a472
-http://62.210.27.219:80/live.ts?channelId=472&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a473
-http://62.210.27.219:80/live.ts?channelId=473&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a474
-http://62.210.27.219:80/live.ts?channelId=474&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a475
-http://62.210.27.219:80/live.ts?channelId=475&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a476
-http://62.210.27.219:80/live.ts?channelId=476&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a477
-http://62.210.27.219:80/live.ts?channelId=477&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a478
-http://62.210.27.219:80/live.ts?channelId=478&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a479
-http://62.210.27.219:80/live.ts?channelId=479&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a480
-http://62.210.27.219:80/live.ts?channelId=480&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a481
-http://62.210.27.219:80/live.ts?channelId=481&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a482
-http://62.210.27.219:80/live.ts?channelId=482&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a483
-http://62.210.27.219:80/live.ts?channelId=483&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a484
-http://62.210.27.219:80/live.ts?channelId=484&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a485
-http://62.210.27.219:80/live.ts?channelId=485&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a486
-http://62.210.27.219:80/live.ts?channelId=486&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a487
-http://62.210.27.219:80/live.ts?channelId=487&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a488
-http://62.210.27.219:80/live.ts?channelId=488&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a489
-http://62.210.27.219:80/live.ts?channelId=489&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a490
-http://62.210.27.219:80/live.ts?channelId=490&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a491
-http://62.210.27.219:80/live.ts?channelId=491&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a492
-http://62.210.27.219:80/live.ts?channelId=492&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a493
-http://62.210.27.219:80/live.ts?channelId=493&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a494
-http://62.210.27.219:80/live.ts?channelId=494&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a495
-http://62.210.27.219:80/live.ts?channelId=495&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a496
-http://62.210.27.219:80/live.ts?channelId=496&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a497
-http://62.210.27.219:80/live.ts?channelId=497&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a498
-http://62.210.27.219:80/live.ts?channelId=498&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a499
-http://62.210.27.219:80/live.ts?channelId=499&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a500
-http://62.210.27.219:80/live.ts?channelId=500&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a501
-http://62.210.27.219:80/live.ts?channelId=501&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a502
-http://62.210.27.219:80/live.ts?channelId=502&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a503
-http://62.210.27.219:80/live.ts?channelId=503&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a504
-http://62.210.27.219:80/live.ts?channelId=504&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a505
-http://62.210.27.219:80/live.ts?channelId=505&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a506
-http://62.210.27.219:80/live.ts?channelId=506&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a507
-http://62.210.27.219:80/live.ts?channelId=507&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a508
-http://62.210.27.219:80/live.ts?channelId=508&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a509
-http://62.210.27.219:80/live.ts?channelId=509&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a510
-http://62.210.27.219:80/live.ts?channelId=510&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a511
-http://62.210.27.219:80/live.ts?channelId=511&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a512
-http://62.210.27.219:80/live.ts?channelId=512&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a513
-http://62.210.27.219:80/live.ts?channelId=513&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a514
-http://62.210.27.219:80/live.ts?channelId=514&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a515
-http://62.210.27.219:80/live.ts?channelId=515&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a516
-http://62.210.27.219:80/live.ts?channelId=516&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a517
-http://62.210.27.219:80/live.ts?channelId=517&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a518
-http://62.210.27.219:80/live.ts?channelId=518&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a519
-http://62.210.27.219:80/live.ts?channelId=519&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a520
-http://62.210.27.219:80/live.ts?channelId=520&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a521
-http://62.210.27.219:80/live.ts?channelId=521&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a522
-http://62.210.27.219:80/live.ts?channelId=522&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a523
-http://62.210.27.219:80/live.ts?channelId=523&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a524
-http://62.210.27.219:80/live.ts?channelId=524&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a525
-http://62.210.27.219:80/live.ts?channelId=525&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a526
-http://62.210.27.219:80/live.ts?channelId=526&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a527
-http://62.210.27.219:80/live.ts?channelId=527&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a528
-http://62.210.27.219:80/live.ts?channelId=528&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a529
-http://62.210.27.219:80/live.ts?channelId=529&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a530
-http://62.210.27.219:80/live.ts?channelId=530&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a531
-http://62.210.27.219:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a532
-http://62.210.27.219:80/live.ts?channelId=532&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a533
-http://62.210.27.219:80/live.ts?channelId=533&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a534
-http://62.210.27.219:80/live.ts?channelId=534&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a535
-http://62.210.27.219:80/live.ts?channelId=535&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a536
-http://62.210.27.219:80/live.ts?channelId=536&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a537
-http://62.210.27.219:80/live.ts?channelId=537&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a538
-http://62.210.27.219:80/live.ts?channelId=538&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a539
-http://62.210.27.219:80/live.ts?channelId=539&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a540
-http://62.210.27.219:80/live.ts?channelId=540&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a541
-http://62.210.27.219:80/live.ts?channelId=541&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a542
-http://62.210.27.219:80/live.ts?channelId=542&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a543
-http://62.210.27.219:80/live.ts?channelId=543&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a544
-http://62.210.27.219:80/live.ts?channelId=544&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a545
-http://62.210.27.219:80/live.ts?channelId=545&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a546
-http://62.210.27.219:80/live.ts?channelId=546&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a547
-http://62.210.27.219:80/live.ts?channelId=547&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a548
-http://62.210.27.219:80/live.ts?channelId=548&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a549
-http://62.210.27.219:80/live.ts?channelId=549&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a550
-http://62.210.27.219:80/live.ts?channelId=550&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a551
-http://62.210.27.219:80/live.ts?channelId=551&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a552
-http://62.210.27.219:80/live.ts?channelId=552&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a553
-http://62.210.27.219:80/live.ts?channelId=553&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a554
-http://62.210.27.219:80/live.ts?channelId=554&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a555
-http://62.210.27.219:80/live.ts?channelId=555&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a556
-http://62.210.27.219:80/live.ts?channelId=556&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a557
-http://62.210.27.219:80/live.ts?channelId=557&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a558
-http://62.210.27.219:80/live.ts?channelId=558&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a559
-http://62.210.27.219:80/live.ts?channelId=559&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a560
-http://62.210.27.219:80/live.ts?channelId=560&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a561
-http://62.210.27.219:80/live.ts?channelId=561&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a562
-http://62.210.27.219:80/live.ts?channelId=562&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a563
-http://62.210.27.219:80/live.ts?channelId=563&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a564
-http://62.210.27.219:80/live.ts?channelId=564&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a565
-http://62.210.27.219:80/live.ts?channelId=565&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a566
-http://62.210.27.219:80/live.ts?channelId=566&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a567
-http://62.210.27.219:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a568
-http://62.210.27.219:80/live.ts?channelId=568&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a569
-http://62.210.27.219:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a570
-http://62.210.27.219:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a571
-http://62.210.27.219:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a572
-http://62.210.27.219:80/live.ts?channelId=572&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a573
-http://62.210.27.219:80/live.ts?channelId=573&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a574
-http://62.210.27.219:80/live.ts?channelId=574&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a575
-http://62.210.27.219:80/live.ts?channelId=575&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a576
-http://62.210.27.219:80/live.ts?channelId=576&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a577
-http://62.210.27.219:80/live.ts?channelId=577&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a578
-http://62.210.27.219:80/live.ts?channelId=578&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a579
-http://62.210.27.219:80/live.ts?channelId=579&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a580
-http://62.210.27.219:80/live.ts?channelId=580&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a581
-http://62.210.27.219:80/live.ts?channelId=581&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a582
-http://62.210.27.219:80/live.ts?channelId=582&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a583
-http://62.210.27.219:80/live.ts?channelId=583&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a584
-http://62.210.27.219:80/live.ts?channelId=584&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a585
-http://62.210.27.219:80/live.ts?channelId=585&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a586
-http://62.210.27.219:80/live.ts?channelId=586&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a587
-http://62.210.27.219:80/live.ts?channelId=587&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a588
-http://62.210.27.219:80/live.ts?channelId=588&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a589
-http://62.210.27.219:80/live.ts?channelId=589&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a590
-http://62.210.27.219:80/live.ts?channelId=590&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a591
-http://62.210.27.219:80/live.ts?channelId=591&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a592
-http://62.210.27.219:80/live.ts?channelId=592&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a593
-http://62.210.27.219:80/live.ts?channelId=593&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a594
-http://62.210.27.219:80/live.ts?channelId=594&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a595
-http://62.210.27.219:80/live.ts?channelId=595&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a596
-http://62.210.27.219:80/live.ts?channelId=596&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a597
-http://62.210.27.219:80/live.ts?channelId=597&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a598
-http://62.210.27.219:80/live.ts?channelId=598&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
-#EXTINF:-1, a599
-http://62.210.27.219:80/live.ts?channelId=599&deviceMac=00:1A:79:BE:3F:D5&uid=2612&codec=mpeg2&decoder=native
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC1 HD_649" tvg-logo="" group-title="Entertainment Channels",BBC1 HD_649 - BBC1 HD_649
+http://62.210.27.219:80/live.ts?channelId=649&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+http://62.210.27.219:80/live.ts?channelId=1&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.27.219:80/live.ts?channelId=3&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.27.219:80/live.ts?channelId=4&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.27.219:80/live.ts?channelId=6&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+http://62.210.27.219:80/live.ts?channelId=7&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+http://62.210.27.219:80/live.ts?channelId=10&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+http://62.210.27.219:80/live.ts?channelId=12&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+http://62.210.27.219:80/live.ts?channelId=13&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itv2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itv3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itv4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="4seven.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+http://62.210.27.219:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="e4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="more4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.27.219:80/live.ts?channelId=20&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="5star.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+http://62.210.27.219:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="amc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="sky1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.27.219:80/live.ts?channelId=25&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="sky1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.27.219:80/live.ts?channelId=26&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="sky2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.27.219:80/live.ts?channelId=27&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="skyliving.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Witness" tvg-logo="" group-title="Entertainment Channels",Sky Witness - Sky Witness
+http://62.210.27.219:80/live.ts?channelId=28&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
+http://62.210.27.219:80/live.ts?channelId=29&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
+http://62.210.27.219:80/live.ts?channelId=31&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.27.219:80/live.ts?channelId=32&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
+http://62.210.27.219:80/live.ts?channelId=33&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.Science" tvg-logo="" group-title="Entertainment Channels",Disc.Science - Disc.Science
+http://62.210.27.219:80/live.ts?channelId=34&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.Turbo" tvg-logo="" group-title="Entertainment Channels",Disc.Turbo - Disc.Turbo
+http://62.210.27.219:80/live.ts?channelId=35&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
+http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
+http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="blaze.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Blaze" tvg-logo="" group-title="Entertainment Channels",Blaze - Blaze
+http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
+http://62.210.27.219:80/live.ts?channelId=39&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ComedyXtra" tvg-logo="" group-title="Entertainment Channels",ComedyXtra - ComedyXtra
+http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
+http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.27.219:80/live.ts?channelId=42&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="history2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.27.219:80/live.ts?channelId=44&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="tlc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="syfy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="lifetime.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="mtv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.27.219:80/live.ts?channelId=50&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="dave.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Dave" tvg-logo="" group-title="Entertainment Channels",Dave - Dave
+http://62.210.27.219:80/live.ts?channelId=51&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Dave ja vu" tvg-logo="" group-title="Entertainment Channels",Dave ja vu - Dave ja vu
+http://62.210.27.219:80/live.ts?channelId=52&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="fox.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
+http://62.210.27.219:80/live.ts?channelId=53&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="horror channel" tvg-logo="" group-title="Entertainment Channels",horror channel - horror channel
+http://62.210.27.219:80/live.ts?channelId=54&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
+http://62.210.27.219:80/live.ts?channelId=55&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="goodfood.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Good Food" tvg-logo="" group-title="Entertainment Channels",Good Food - Good Food
+http://62.210.27.219:80/live.ts?channelId=56&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="home.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Home" tvg-logo="" group-title="Entertainment Channels",Home - Home
+http://62.210.27.219:80/live.ts?channelId=57&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="alibi.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="alibi" tvg-logo="" group-title="Entertainment Channels",alibi - alibi
+http://62.210.27.219:80/live.ts?channelId=59&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="drama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Drama" tvg-logo="" group-title="Entertainment Channels",Drama - Drama
+http://62.210.27.219:80/live.ts?channelId=60&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
+http://62.210.27.219:80/live.ts?channelId=61&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="eden.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eden" tvg-logo="" group-title="Entertainment Channels",Eden - Eden
+http://62.210.27.219:80/live.ts?channelId=62&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="gold.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="GOLD" tvg-logo="" group-title="Entertainment Channels",GOLD - GOLD
+http://62.210.27.219:80/live.ts?channelId=63&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="picktv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Pick" tvg-logo="" group-title="Entertainment Channels",Pick - Pick
+http://62.210.27.219:80/live.ts?channelId=64&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="really.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Really" tvg-logo="" group-title="Entertainment Channels",Really - Really
+http://62.210.27.219:80/live.ts?channelId=65&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Yesterday" tvg-logo="" group-title="Entertainment Channels",Yesterday - Yesterday
+http://62.210.27.219:80/live.ts?channelId=66&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="w.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.27.219:80/live.ts?channelId=67&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="universal.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.27.219:80/live.ts?channelId=68&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-id="quest.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="QUEST" tvg-logo="" group-title="Entertainment Channels",QUEST - QUEST
+http://62.210.27.219:80/live.ts?channelId=69&deviceMac=00:1A:79:BE:3F:D5&uid=2612
