@@ -14,7 +14,8 @@ http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1, fox tv
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
+#EXTINF:-1, CN tv
+http://62.210.27.219:80/live.ts?channelId=650&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 
 
 
