@@ -137,6 +137,5 @@ http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:BE:3F:D5&uid=2
 
 #EXTINF:-1 tvg-id="boomerang.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
 http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
-http://163.172.112.225:80/live.ts?channelId=104&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Film",Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
