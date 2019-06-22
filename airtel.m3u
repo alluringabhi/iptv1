@@ -539,10 +539,13 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 , Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, Hin FHD4
+#EXTINF:-1, Hin FHD
 http://live12.akt.hotstar-cdn.net/hls/live/2003704/icccwc2019/hin/15mindvrm01efyy3p5laa22june2019/master_5.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
-#EXTINF:-1, Hin FHD4
+#EXTINF:-1, Hin HD
 http://live12.akt.hotstar-cdn.net/hls/live/2003704/icccwc2019/hin/15mindvrm01efyy3p5laa22june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
 
-#EXTINF:-1, Hin FHD1
-http://tailor.akt.hotstar-cdn.net/hls-1-icccwc2019/1440000706/hindi/1920x1080-0e39/2270400/child.m3u8?playback_proto=http&playback_host=live12.akt.hotstar-cdn.net&playback_path=L2hscy9saXZlLzIwMDM3MDQvaWNjY3djMjAxOS9oaW4vMTVtaW5kdnJtMDFlZnl5M3A1bGFhMjJqdW5lMjAxOS9tYXN0ZXJfNS5tM3U4&si_match_id=190760|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
+#EXTINF:-1, WI vs NZ eng
+https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvrm02gxaepeoc0m22june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
+
+#EXTINF:-1, WI vs NZ eng
+https://live15.hotstar.com/hls/live/2004203/icccwc2019/hin/15mindvrm02gxaepeoc0m22june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
