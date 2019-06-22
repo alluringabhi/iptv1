@@ -524,24 +524,16 @@ http://www.peepholecam.com:1935/freecamssecure/84/playlist.m3u8?fluxuslust.m3u8
 
 
 
-#EXTINF:-1,ADULT 1
-http://62.210.70.119:80/live.ts?channelId=433&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+
 #EXTINF:-1  ,ADULT 10
 http://62.210.70.119:80/live.ts?channelId=434&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1,ADULT 11
-http://62.210.70.119:80/live.ts?channelId=435&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1,ADULT 12
 http://62.210.70.119:80/live.ts?channelId=436&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1  ,ADULT 13
 http://62.210.70.119:80/live.ts?channelId=437&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1  ,ADULT 14
-http://62.210.70.119:80/live.ts?channelId=438&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1,ADULT 15
-http://62.210.70.119:80/live.ts?channelId=439&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1 ,ADULT 16
 http://62.210.70.119:80/live.ts?channelId=440&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1,ADULT 2
-http://62.210.70.119:80/live.ts?channelId=441&deviceMac=00:1A:79:BE:3F:D5&uid=2612
+
 #EXTINF:-1 ,ADULT 3
 http://62.210.70.119:80/live.ts?channelId=442&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1,ADULT 4
@@ -550,8 +542,4 @@ http://62.210.70.119:80/live.ts?channelId=443&deviceMac=00:1A:79:BE:3F:D5&uid=26
 http://62.210.70.119:80/live.ts?channelId=444&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 #EXTINF:-1,ADULT 6
 http://62.210.70.119:80/live.ts?channelId=445&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1,ADULT 7
-http://62.210.70.119:80/live.ts?channelId=446&deviceMac=00:1A:79:BE:3F:D5&uid=2612
-#EXTINF:-1,ADULT 8
-http://62.210.70.119:80/live.ts?channelId=447&deviceMac=00:1A:79:BE:3F:D5&uid=2612
 
