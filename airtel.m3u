@@ -541,3 +541,6 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 
 #EXTINF:-1, Hin FHD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000708m01bygbzvnu3a23june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
+
+#EXTINF:-1, Fox news
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
