@@ -126,7 +126,8 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 #EXTINF:-1, Nickelodeon Jr English
 http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36   ExoPlayer@__gN2AjN2kjN0UTM"
 
-
+#EXTINF:-1, NBC KIDS
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
 
@@ -538,8 +539,22 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, Fox News
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FOX NEWS
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
+#EXTINF:-1, HLN NEWS
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
+#EXTINF:-1, CNN WORLD
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
+#EXTINF:-1, Msnbc
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
+#EXTINF:-1, BBC World news
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:-1, CNBC World
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+#EXTINF:-1, Msnbc
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
+
 #EXTINF:-1, Hin FHD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000710m01aqz0zh08j825june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36" 
 #EXTINF:-1, Sky Sports
