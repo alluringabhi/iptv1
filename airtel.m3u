@@ -237,7 +237,7 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226490/index.m3u8|user-agent="ua"
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony BBC Earth HD Hindi
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/05.m3u8|user-agent="ua"
-#EXTINF:-1, 	Animal Planet Hd Hindi World dead
+#EXTINF:-1, 	Animal Planet Hindi
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226489/index.m3u8|user-agent="ua"	
 
@@ -379,13 +379,13 @@ http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/05.m3u8|user-agent="ua"
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"
 #EXTINF:-1, SONY SIX HD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/05.m3u8|user-agent="ua"
-#EXTINF:-1, 	ESPN dead
+#EXTINF:-1, 	ESPN 
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_SD/Sony_ESPN_SD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	ESPN HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8|user-agent="ua"
 
-#EXTINF:-1, 	D Sport dead
+#EXTINF:-1, 	D Sport 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8|user-agent="ua"	
 
@@ -426,8 +426,10 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Pal 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226200/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Enterr10 dead
+#EXTINF:-1, 	Enterr10
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Enterr_10/Enterr_10_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226218/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, 	Zee Action
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8|user-agent="ua"	
  	
