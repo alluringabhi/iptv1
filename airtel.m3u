@@ -195,9 +195,11 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226573/index.m3u8|user-agent="ua"	
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226572/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	News 24
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Mirror Now dead
+#EXTINF:-1, 	Mirror Now
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Magic_bricks_Now/Magic_bricks_Now_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226570/index.m3u8|user-agent="ua"	dead
+#EXTINF:-1, Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1, 	DD News
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226377/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	DD Lok Sabha
@@ -269,7 +271,8 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8|user-agent="ua"
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226490/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Discovery Turbo
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8|user-agent="ua" 
-
+#EXTINF:0-1, National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1, 	TLC English 
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226496/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	TLC HD world  
@@ -299,8 +302,10 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:-1, 	Sony PIX 
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua"
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Sony Pix HD
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, Movies Now HD
