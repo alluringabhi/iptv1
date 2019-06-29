@@ -560,5 +560,8 @@ https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
 #EXTINF:-1, NBC
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
-#EXTINF:-1, World Cup
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000713m01vnubmmodcq28june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+#EXTINF:-1, World Cup Hindi
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000714m01jz8r2x10ap29june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
+#EXTINF:-1, World Cup English
+https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000714m01jz8r2x10ap29june2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
