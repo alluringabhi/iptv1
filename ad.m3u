@@ -3989,7 +3989,17 @@ http://www.ast.tv/stream/2/master.m3u8
 http://77.75.120.222:7000/sextreme
 #EXTINF:-1, Pink Tv
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/874/index.m3u8
+#EXTINF:-1, Redlight HD
+http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
 
+#EXTINF:-1, Ten Sports PK
+http://123.249.76.157:10018/bysid/25
+#EXTINF:-1, Bysid 72
+http://123.249.76.157:10018/bysid/72
+#EXTINF:-1, Bysid 73
+http://123.249.76.157:10018/bysid/73
+#EXTINF:-1, Bysid 75
+http://123.249.76.157:10018/bysid/75
 http://s1.electru.biz:8080/christiana/christiana/94002
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/94003
 https://www.ast.tv/stream/2/normal.m3u8
