@@ -302,6 +302,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:-1, 	Sony PIX 
+http://123.249.76.157:10018/bysid/22
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Sony Pix HD
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226486/index.m3u8|user-agent="ua"	
