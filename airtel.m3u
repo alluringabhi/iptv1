@@ -565,5 +565,6 @@ https://live12.hotstar.com/hls/live/2003697/icccwc2019/eng/15mindvr1440000717m01
 #EXTINF:-1, World Cup Hindi 720p
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000717m01gmsn2qzp9601july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
-#EXTINF:-1, dd1 big
-https://live.airtelxstream.in/dd1/smil:common.smil/chunklist_b564000_sleng.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1, dd1
+https://live.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+
