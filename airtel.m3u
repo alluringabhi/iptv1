@@ -26,6 +26,7 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_
 
 #EXTINF:-1, Epic
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_1428.m3u8
 
 #EXTINF:-1, 	Sony Max
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/index.m3u8|user-agent="ua"	
@@ -146,6 +147,7 @@ http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Delhi Aaj Tak 
+https://sony247channels.akamaized.net/hls/live/2002594/DELHIAAJTAK/master_1428.m3u8
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_JSRV1_1200.m3u8
 
@@ -279,6 +281,7 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226496/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	TLC HD world  
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Travel XP English
+https://sony247channels.akamaized.net/hls/live/2002556-b/TravelxpHD/master.m3u8
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Good Times English
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
@@ -483,7 +486,8 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Hare_Krsna_Pravachan/
 #EXTINF:-1, Ishwar
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ishwar_TV/Ishwar_TV_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ishwar_TV/Ishwar_TV_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1, Krishna Vaani
+https://lbor3kjlqvaj-hls-live.wmncdn.net/1174/kvabr/03260d30edc1c82404d346e83555a5da.sdp/tracks-v3a1/index.m3u8
 #EXTINF:-1, Darshan 24
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Darshan_24/Darshan_24_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Darshan_24/Darshan_24_JSRV6_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -509,7 +513,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226088/index.m3u8|user-agent="ua"
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226102/index.m3u8|user-agent="ua"	
 #EXTINF:-1, Arré
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1, Q Tv
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
@@ -561,11 +566,7 @@ https://1259541102.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 
 #EXTINF:-1, World Cup Hindi 1080p
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000717m01gmsn2qzp9601july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-#EXTINF:-1, World Cup English
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/eng/15mindvr1440000717m01gmsn2qzp9601july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 #EXTINF:-1, World Cup Hindi 720p
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000717m01gmsn2qzp9601july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
-#EXTINF:-1, dd1
-https://live.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
 
