@@ -1,4 +1,9 @@
 #EXTM3U	url-tvg="",
+
+#EXTINF:-1, English Vinglish
+https://movieshls001-a.erosnow.com/hls/movie/6/1004656/fulllength/6687212/1248/1004656_6687212_640_360_48_1200_.m3u8
+
+
 #EXTINF:-1, Teen aur aadha
 https://megavideo.site/storage/hindimovies/Teen.Aur.Aadha.2019.Hindi.720p.HDRip.x264.mp4
 #EXTINF:-1, I Love us
