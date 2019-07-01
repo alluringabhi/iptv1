@@ -281,7 +281,6 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226496/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	TLC HD world  
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Travel XP English
-https://sony247channels.akamaized.net/hls/live/2002556-b/TravelxpHD/master.m3u8
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Good Times English
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
@@ -426,7 +425,8 @@ http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV/MTV_1200.m3u8?jct=du
 
 #EXTINF:-1, MTV HD Plus
 http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1, AAho Music
+https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1, 	Zoom
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"	
 
@@ -503,7 +503,7 @@ http://mhms6.airtel.tv/PLTV/88888888/224/3221226289/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	God TV 
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226325/index.m3u8|user-agent="ua"	
 	
-#EXTINF:-1, 	Home Shop 18 dead
+#EXTINF:-1, 	Home Shop 18 
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226354/index.m3u8|user-agent="ua"	
 	
@@ -547,22 +547,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 , Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, FOX NEWS
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
-#EXTINF:-1, HLN NEWS
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
-#EXTINF:-1, CNN WORLD
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1, Msnbc
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-#EXTINF:-1, BBC World news
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1, CNBC World
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
-#EXTINF:-1, Msnbc
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
-#EXTINF:-1, NBC
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 
 #EXTINF:-1, World Cup Hindi 1080p
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000717m01gmsn2qzp9601july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
