@@ -140,6 +140,7 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221225922/index.m3u8|user-agent="ua"
 #EXTINF:-1, News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1, 	Aaj Tak  
+https://sony247channels.akamaized.net/hls/live/2002596/AAJTAK/master_2128.m3u8
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226425/index.m3u8|user-agent="ua"
 #EXTINF:-1, Aajtak HD
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
