@@ -4034,6 +4034,11 @@ rtmp://62.210.55.60/stream3xVJ/3x32
 
 #EXTINF:-1, Vivid Tv Europe
 http://188.35.9.26:2031/udp/031a
+#EXTINF:-1,Private Tv HD
+http://78.29.1.66/live/private_tv_hd/copy/playlist.m3u8
+#EXTINF:-1,Private Tv
+http://95.216.187.219:8080/062-private
+
 #EXTINF:-1, Ten Sports PK
 http://123.249.76.157:10018/bysid/25
 #EXTINF:-1, Bysid 72
