@@ -111,11 +111,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_120
 
 #EXTINF:-1, Cartoon Network Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1,  CARTOON NETWORK
+http://103.205.133.44:1935/ns/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1, Pogo
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_JSRV2_1200.m3u8
-
+#EXTINF:-1, Disney
+http://103.205.133.44:1935/ns/DISNEY/playlist.m3u8
 #EXTINF:-1, Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
@@ -548,46 +550,12 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?
 #EXTINF:-1, Khyber Tv
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
-
-
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
-
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:-1,Star Gold Select
-http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
-#EXTINF:-1, Star World Premier
-http://103.205.133.44:1935/ns/STARWORLDPREMIERHD/playlist.m3u
-#EXTINF:-1,Sony HD
-http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
-#EXTINF:-1,Colors HD
-http://103.205.133.44:1935/ns/COLORSINDIAHD/playlist.m3u8
-#EXTINF:-1,Starplus HD
-http://103.205.133.44:1935/ns/STARPLUSINDIAHD/playlist.m3u8
-#EXTINF:-1,Star Movies HD
-http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
-#EXTINF:-1, Star World HD
-http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8
-#EXTINF:-1, Disney
-http://103.205.133.44:1935/ns/DISNEY/playlist.m3u8
-#EXTINF:-1, Star Gold
-http://103.205.133.44:1935/ns/STARGOLDHD/playlist.m3u8
-#EXTINF:-1, Sony MAx HD
-http://103.205.133.44:1935/ns/SONYMAXINDIAHD/playlist.m3u8
-#EXTINF:-1, Sony Pix HD
-http://103.205.133.44:1935/ns/SONYPIXHD/playlist.m3u8
-#EXTINF:-1,Zee Tv HD
-http://103.205.133.44:1935/ns/ZEETVINDIAHD/playlist.m3u8
-#EXTINF:-1,UTV HD
-http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-#EXTINF:-1,  CARTOON NETWORK
-http://103.205.133.44:1935/ns/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1,  DISCOVERY KIDS
-http://103.205.133.44:1935/ns/DISCOVERYKIDS/playlist.m3u8
+
 #EXTINF:-1, Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 2
