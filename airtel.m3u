@@ -430,7 +430,7 @@ http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_
 https://v.viralshit.in/live/aahomusic.m3u8
 
 #EXTINF:-1, Zoom
-https://timesnowssai.akamaized.net/amagi_hls_data_timesnetw-timesnow/CDN/1280x720_2128000/index.m3u8
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 	Zee Bollywood
@@ -556,7 +556,38 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-
+#EXTINF:-1,Star Gold Select
+http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
+#EXTINF:-1, Star World Premier
+http://103.205.133.44:1935/ns/STARWORLDPREMIERHD/playlist.m3u
+#EXTINF:-1,Sony HD
+http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
+#EXTINF:-1,Colors HD
+http://103.205.133.44:1935/ns/COLORSINDIAHD/playlist.m3u8
+#EXTINF:-1,Starplus HD
+http://103.205.133.44:1935/ns/STARPLUSINDIAHD/playlist.m3u8
+#EXTINF:-1,Star Movies HD
+http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
+#EXTINF:-1, Star World HD
+http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8
+#EXTINF:-1, Disney
+http://103.205.133.44:1935/ns/DISNEY/playlist.m3u8
+#EXTINF:-1, Star Gold
+http://103.205.133.44:1935/ns/STARGOLDHD/playlist.m3u8
+#EXTINF:-1, Sony MAx HD
+http://103.205.133.44:1935/ns/SONYMAXINDIAHD/playlist.m3u8
+#EXTINF:-1, Sony Pix HD
+http://103.205.133.44:1935/ns/SONYPIXHD/playlist.m3u8
+#EXTINF:-1,Zee Tv HD
+http://103.205.133.44:1935/ns/ZEETVINDIAHD/playlist.m3u8
+#EXTINF:-1,UTV HD
+http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
+#EXTINF:-1,  CARTOON NETWORK
+http://103.205.133.44:1935/ns/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1,  DISCOVERY KIDS
+http://103.205.133.44:1935/ns/DISCOVERYKIDS/playlist.m3u8
 #EXTINF:-1, Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 2
@@ -565,7 +596,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
 
 #EXTINF:-1, HIN FHD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000719m01vdctprghdz03july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
