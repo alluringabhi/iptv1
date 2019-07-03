@@ -93,7 +93,8 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 
 #EXTINF:-1, CCC MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-
+#EXTINF:-1, 	BIG Magic
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225745/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Wah 
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony YAY
@@ -194,6 +195,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Times_NOW/Times_NOW_1
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226573/index.m3u8|user-agent="ua"	dead
 
 #EXTINF:-1, 	Times Now HD
+https://timesnowssai.akamaized.net/amagi_hls_data_timesnetw-timesnow/CDN/1280x720_2128000/index.m3u8
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226572/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	News 24
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
@@ -216,12 +218,17 @@ http://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/Hist
 
 #EXTINF:-1, 	Discovery Hindi
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Discovery HD World Hindi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/05.m3u8|user-agent="ua"
+#EXTINF:-1, 	Discovery HD
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1, 	Discovery HD world
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, 	TLC Hindi
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	TLC HD World Hindi
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226498/05.m3u8|user-agent="ua"	
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226498/index.m3u8|user-agent="ua"	
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
 #EXTINF:-1, 	Travel XP Hindi
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226495/index.m3u8|user-agent="ua"	
 #EXTINF:-1, Nat Geo Wild 
@@ -230,13 +237,15 @@ http://50.7.77.34/natgeowild/index.m3u8?token=RedflixTV
 #EXTINF:-1, 	Discovery JEET Hindi
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Discovery JEET HD Hindi
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/05.m3u8|user-agent="ua"	
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8|user-agent="ua"	
 #EXTINF:-1, Discovery Science Hindi
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226490/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony BBC Earth Hindi
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony BBC Earth HD Hindi
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/05.m3u8|user-agent="ua"
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226280/index.m3u8|user-agent="ua"
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
+
 #EXTINF:-1, 	Animal Planet Hindi
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226489/index.m3u8|user-agent="ua"	
@@ -252,12 +261,11 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.
 #EXTINF:-1, 	Discovery English
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226478/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Discovery HD World English
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226205/05.m3u8|user-agent="ua"
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Discovery Science
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Animal Planet English
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225872/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Animal Planet English
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226488/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 	Animal HD World English
@@ -273,7 +281,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1, 	TLC English 
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226496/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	TLC HD world  
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/05.m3u8|user-agent="ua"
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Travel XP English
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Good Times English
@@ -374,7 +382,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226077/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Ten 3
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Ten 3 HD
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/05.m3u8|user-agent="ua"
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua"
 #EXTINF:-1, SONY SIX
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"
 #EXTINF:-1, SONY SIX HD
@@ -389,8 +397,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8|user-agent="ua"
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8|user-agent="ua"	
 
-#EXTINF:-1, 	BIG Magic
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225745/index.m3u8|user-agent="ua"	
+
 #EXTINF:-1, 	Sab Mastii
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226021/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sab Dabang
@@ -421,17 +428,20 @@ http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_
 #EXTINF:-1, AAho Music
 https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1, 	Zoom
+https://timesnowssai.akamaized.net/amagi_hls_data_timesnetw-timesnow/CDN/1280x720_2128000/index.m3u8
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 	Zee Bollywood
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Pal 
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226200/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Enterr10
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Enterr_10/Enterr_10_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226218/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, 	Zee Action
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8|user-agent="ua"	
  	
 
