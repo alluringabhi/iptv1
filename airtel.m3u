@@ -67,7 +67,8 @@ http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8??jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Jio Classic Movies
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1,  Zee Classic
+http://pockettv.xyz/api/zee.m3u8?c=classic
 
 #EXTINF:-1,	Sab TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"	
@@ -93,6 +94,8 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 
 #EXTINF:-1, CCC MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
+#EXTINF:-1, BFLIX MOVIES
+http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 #EXTINF:-1, 	BIG Magic
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225745/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Wah 
@@ -437,7 +440,8 @@ https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"	
-
+#EXTINF:-1,  Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1, 	Zee Bollywood
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Pal 
