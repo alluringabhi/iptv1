@@ -177,6 +177,8 @@ https://republic.pc.cdn.bitgravity.com/live/hls2/master.m3u8|user-agent="ua"
 
 #EXTINF:-1, 	NDTV India
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225777/index.m3u8|user-agent="ua"
+#EXTINF:-1,CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:-1, 	NDTV Profit
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225781/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zee Business 
@@ -577,4 +579,5 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1, HIN FHD
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000720m01jmozfqnxqa04july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000719m01vdctprghdz03july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
