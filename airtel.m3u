@@ -236,7 +236,6 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, 	TLC Hindi
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225819/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	TLC HD World Hindi d
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226498/index.m3u8|user-agent="ua"	
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
