@@ -121,6 +121,10 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_JSRV2_1200.m3u8
 #EXTINF:-1, Disney
 http://103.205.133.44:1935/ns/DISNEY/playlist.m3u8
+#EXTINF:-1, Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/05.m3u8
+#EXTINF:-1, Nick Toons
+http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
