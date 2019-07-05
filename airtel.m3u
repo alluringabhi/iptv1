@@ -578,23 +578,23 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
 #EXTINF:-1,112. Jeet Prime HD
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8|user-agent="ua"
 #EXTINF:-1,250. Sony Pix
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8|user-agent="ua"
 #EXTINF:-1,659. WION
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8|user-agent="ua"
 #EXTINF:-1,701. Discovery HD World
-http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226497/index.m3u8|user-agent="ua"
 #EXTINF:-1,711. Discovery HD World
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8|user-agent="ua"
 #EXTINF:-1,713. Discovery Science
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225778/index.m3u8|user-agent="ua"
 #EXTINF:-1,714. Animal Planet HD World
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8|user-agent="ua"
 #EXTINF:-1,717. TLC HD World
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:-1,718. Discovery Turbo
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8|user-agent="ua"
+#EXTINF:-1,718. Discovery Turbooooo
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8|user-agent="ua"
 
 
 #EXTINF:-1, HIN FHD
