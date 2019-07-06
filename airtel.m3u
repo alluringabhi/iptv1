@@ -167,7 +167,9 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226085/index.m3u8|user-agent="ua"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226432/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 	News Nation
+https://newsnation-i.akamaihd.net/hls/live/681878/newsnation24052019/master_2000k.m3u8
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225732/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, Bharat Samachar
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Bharat_Samachar/Bharat_Samachar_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226268/index.m3u8|user-agent="ua" dead
