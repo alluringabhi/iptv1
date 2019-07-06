@@ -474,7 +474,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8|user-agent="ua"
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Shraddha
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	
-#EXTINF:-1, 	Divya
+#EXTINF:-1,Divya
+http://45.248.167.202:8080/DIVYA/index.m3u8
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226211/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Aastha
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8|user-agent="ua"
