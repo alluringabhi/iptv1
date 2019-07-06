@@ -303,8 +303,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive
 
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies_Select_HD/Star_Movies_Select_HD_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1,Vats Hollywood
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L360P/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+
 #EXTINF:-1, HBO HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -376,8 +376,7 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1/S
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/Star_Sports_HD2_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, Star Sports
-http://88.150.157.158:1935/trunk2/ss3/playlist.m3u8
+
 #EXTINF:-1, Star Sports Hindi HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
