@@ -376,10 +376,11 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
 #EXTINF:-1, Comedy Central HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, Star World Premier
-http://103.205.133.44:1935/ns/STARWORLDPREMIERHD/playlist.m3u
-#EXTINF:-1, Star World HD
-http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8
+#EXTINF:-1, Star World Premier HD
+http://103.205.133.44:1935/ns/STARWORLDPREMIERHD/playlist.m3u|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, Star World
+http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Star Sports 1 HS
 #EXTVLCOPT:http-user-agent=JioTV Adobe Primetime
