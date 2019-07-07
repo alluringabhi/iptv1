@@ -114,8 +114,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_120
 
 #EXTINF:-1, Cartoon Network Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1,  CARTOON NETWORK
 http://103.205.133.44:1935/ns/CARTOONNETWORK/playlist.m3u8
+
 #EXTINF:-1, Pogo
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_JSRV2_1200.m3u8
@@ -123,8 +123,7 @@ http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Pogo_Hindi/Pogo_H
 http://103.205.133.44:1935/ns/DISNEY/playlist.m3u8
 #EXTINF:-1, Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1, Nick Toons
-http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Discovery Kids English
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226494/index.m3u8|user-agent="ua"
 
@@ -475,7 +474,6 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226328/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Shraddha
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	
 #EXTINF:-1,Divya
-http://45.248.167.202:8080/DIVYA/index.m3u8
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226211/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Aastha
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8|user-agent="ua"
