@@ -601,13 +601,13 @@ http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
 http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
 
 #EXTINF:-1, HIN FHD
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000722m01ee3t0rotmu06july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000721m01xzsmaam7yz05july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000720m01jmozfqnxqa04july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000719m01vdctprghdz03july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000724m01nbwyrg7g0v09july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
 #EXTINF:-1, HIN HD
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000722m01ee3t0rotmu06july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000724m01nbwyrg7g0v09july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
 #EXTINF:-1, Eng HD
-https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000723m02ubxqixcmm906july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000724m01nbwyrg7g0v09july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
+#EXTINF:-1, Eng Dug Out
+https://live13.hotstar.com/hls/live/2003887/icccwc2019/dug/15mindvr1440000724m01nbwyrg7g0v09july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
