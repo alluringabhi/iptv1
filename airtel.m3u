@@ -429,9 +429,11 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	D Sport 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8|user-agent="ua"	
+#EXTINF:-1, Sky Sports 
+http://103.194.171.4:1935/abr/abr-S-1/live/S-1_480p/chunks.m3u8
 
 
-#EXTINF:-1, 	Sab Mastii
+#EXTINF:-1, 	Sab Masti
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226021/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sab Dabang
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/index.m3u8|user-agent="ua"	
