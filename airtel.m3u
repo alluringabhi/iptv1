@@ -260,6 +260,8 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226447/index.m3u8|user-agent="ua"
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony BBC Earth 
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8|user-agent="ua"	
+#EXTINF:-1, Sony BBC Earth HD
+https://live.airtel.tv/sonybbcearthhd/smil:common.smil/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
 
 #EXTINF:-1, 	Animal Planet
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -328,8 +330,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1, &Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
-#EXTINF:-1, 	Sony Pix
-https://live.airtel.tv/pix/smil:common.smil/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
 
 #EXTINF:-1, 	Sony Pix HD
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
