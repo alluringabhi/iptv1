@@ -7,18 +7,18 @@ http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_
 #EXTINF:-1, 	Sony
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
 #EXTINF:-1 tvg-id="SET  HD" , Sony HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/05.m3u8|user-agent="ua"	
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/06.m3u8|user-agent="ua"	
 
 #EXTINF:-1, And Tv
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, And Tv HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/05.m3u8|user-agent="ua"
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/06.m3u8|user-agent="ua"
 
 
 #EXTINF:-1, 	Zee TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Zee HD
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/05.m3u8|user-agent="ua" 	
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/06.m3u8|user-agent="ua" 	
 
 #EXTINF:-1, Colors
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -400,6 +400,11 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/S
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1_Hindi/Star_Sports_HD1_Hindi_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1, Star Sports Select 1 
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd1/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports Select 2
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
