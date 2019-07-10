@@ -4038,6 +4038,8 @@ http://188.35.9.26:2031/udp/031a
 http://78.29.1.66/live/private_tv_hd/copy/playlist.m3u8
 #EXTINF:-1,Private Tv
 http://95.216.187.219:8080/062-private
+#EXTINF:-1, nuart hd
+http://185.35.4.37:8087/nuarthd/ch.m3u8
 
 #EXTINF:-1, Ten Sports PK
 http://123.249.76.157:10018/bysid/25
