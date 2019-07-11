@@ -626,8 +626,5 @@ https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000725m01
 http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
 
 
-#EXTINF:-1, T3
-http://50.7.77.34/stargold/index.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
-
 #EXTINF:-1, T4
 http://50.7.77.34/stargold/index.m3u8
