@@ -628,3 +628,11 @@ http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
 
 #EXTINF:-1,  STAR SPORTS
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23930|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+
+#EXTINF:-1,Star Sports1
+http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+
+#EXTINF:-1 , AMC
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,HBO
+http://live-tv.zapto.org:999/DePino/2P4ygC6u83/16471|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
