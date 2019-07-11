@@ -315,10 +315,12 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1,Star Movies HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23890|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies_Select_HD/Star_Movies_Select_HD_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1, HBO 
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23904|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
 #EXTINF:-1, HBO HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -611,28 +613,58 @@ https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/
 
 #EXTINF:-1,UTV HD
 http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-#EXTINF:-1,Star Gold Select
-http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
 
-#EXTINF:-1, HIN FHD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-
-#EXTINF:-1, HIN HD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-#EXTINF:-1, Eng HD
 https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
 #EXTINF:-1, Yupp Sports
 http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
 
+#EXTINF:-1, Star Sports 1 HD
+http://4khdiptv.com:80/yucel72/72yucel/10061
+#EXTINF:-1,Star Sports 2
+http://voxtv.dynns.com:8000/movies/movies/528
+#EXTINF:-1,Star Sports 1
+http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 
 #EXTINF:-1,  STAR SPORTS
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23930|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
-
-#EXTINF:-1,Star Sports1
-http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 
 #EXTINF:-1 , AMC
 http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 #EXTINF:-1 ,HBO
 http://live-tv.zapto.org:999/DePino/2P4ygC6u83/16471|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+
+
+#EXTINF:-1 ,STAR MOVIES SELECT HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23889|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+
+#EXTINF:-1,STAR WORLD PREMIER HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23887|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , TATA SKY KIDS CINEMA
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23886|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,TATA SKY WORLD CINEMA HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23885|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,UTV ACTION
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23956|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , UTV HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23955|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,UTV MOVIES
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23954|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,TATA SKY BOLLYWOOD PREMIERE HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23959|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , STAR GOLD SELECT HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23964|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , MINIPLEX HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23999|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , MOVIES ACTIVE
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23998|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , DISH BOX OFFICE PREMIER
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/24018|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 , D2H CINEMA HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/24025|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1 ,D2H EVERGREEN CLASSIC HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/24024|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+#EXTINF:-1, CINEPLEX HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/24028|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
