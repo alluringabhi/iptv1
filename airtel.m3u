@@ -626,7 +626,3 @@ http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedde
 #EXTINF:-1,Star Sports 1
 http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 
-#EXTINF:-1 , AMC
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
-#EXTINF:-1 , CARTOON NETWORK
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5348|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
