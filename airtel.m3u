@@ -611,11 +611,15 @@ http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+
 #EXTINF:-1, Star Sports Select 1
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
 #EXTINF:-1, Star Sports Select 2
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
-
+#EXTINF:-1, Gazi Tv
+http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
+#EXTINF:-1, Willow HD
+http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
 
 #EXTINF:-1, Star Sports 1 HD
 http://4khdiptv.com:80/yucel72/72yucel/10061|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
@@ -628,5 +632,3 @@ http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedde
 http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 #EXTINF:-1 , CARTOON NETWORK
 http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5348|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
-#EXTINF:-1 , DISCOVERY CHANNEL FHD
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5341|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
