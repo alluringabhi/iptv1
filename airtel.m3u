@@ -588,15 +588,10 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
-#EXTINF:-1, Yupp Sports
-http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
+
 
 #EXTINF:-1,UTV HD
 http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000725m01hwzto20x3x11july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000725m01hwzto20x3x11july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
 #EXTINF:-1, Star Sports Select 1
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
@@ -606,9 +601,16 @@ http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
 http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
 #EXTINF:-1, Willow HD
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-
+#EXTINF:-1, Yupp Sports
+http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
 #EXTINF:-1,Star Sports 2
 http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
 #EXTINF:-1,Star Sports 1
-http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
+http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
 
+#EXTINF:-1, World Cup Hin FHD
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+#EXTINF:-1, World Cup Hin 720p
+https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+#EXTINF:-1, World Cup Eng FHD
+https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
