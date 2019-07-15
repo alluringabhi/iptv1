@@ -68,6 +68,8 @@ http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_1200.m3u8??jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Jio Classic Movies
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1,SHEMAROO Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,  Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
@@ -92,6 +94,7 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/House
 
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
+
 
 #EXTINF:-1, CCC MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
@@ -592,8 +595,9 @@ https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/
 
 #EXTINF:-1,UTV HD
 http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-
-#EXTINF:-1, Star Sports Select 1
+#EXTINF:-1, Star Sports
+http://akbd.live:8080/starsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports HD
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
 #EXTINF:-1, Star Sports Select 2
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
@@ -603,14 +607,9 @@ http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
 #EXTINF:-1, Yupp Sports
 http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1,Star Sports 2 slow
 http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1,Star Sports 1 slow
 http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
 
-#EXTINF:-1, World Cup Hin FHD
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-#EXTINF:-1, World Cup Hin 720p
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_3.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-#EXTINF:-1, World Cup Eng FHD
-https://live15.hotstar.com/hls/live/2004203/icccwc2019/eng/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
