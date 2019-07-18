@@ -613,3 +613,5 @@ http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedde
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 #EXTINF:-1, Super 30
 https://storage.googleapis.com/essexfast.appspot.com/hindi/Super.30.2019.Hindi.720p.DVDScr.x264.mp4
+#EXTINF:-1,Sony Crime
+http://190.2.154.164:8082/TV2891
