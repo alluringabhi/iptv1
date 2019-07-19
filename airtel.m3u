@@ -136,7 +136,18 @@ http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nick
 
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
-
+#EXTINF:-1,Disney XD
+http://190.2.154.164:8082/TV2716
+#EXTINF:-1,Tiny Pop
+http://190.2.154.164:8082/TV2879
+#EXTINF:-1,Pop
+http://190.2.154.164:8082/TV2881
+#EXTINF:-1,Tiny+1 pop
+http://190.2.154.164:8082/TV2882
+#EXTINF:-1,Pop Max
+http://190.2.154.164:8082/TV2883
+#EXTINF:-1,Teen Nick
+http://190.2.154.164:8082/TV3975
 
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -226,7 +237,10 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226570/index.m3u8|user-agent="ua"	
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-
+#EXTINF:-1,Brit Asia TV
+http://190.2.154.164:8082/TV2854
+#EXTINF:-1,Euronews
+http://190.2.154.164:8082/TV2867
 #EXTINF:-1, DD India
 http://pockettv.xyz/api/zee.m3u8?c=ddindia
 #EXTINF:-1 tvg-id="Loksabha TV", Lok Sabha
@@ -315,15 +329,19 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1
 
 #EXTINF:-1, 	Good Times 
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
-
+#EXTINF:-1,Quest
+http://190.2.154.164:8082/TV2845
 #EXTINF:-1, Jio Exclusive
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1,Star Movies 
+http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8
 #EXTINF:-1,Star Movies HD
+http://portal.streamtv.to:8080/alaaA/fpA3sFJQI9/16019
 http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies_Select_HD/Star_Movies_Select_HD_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
 #EXTINF:-1, HBO 
+http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
 http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
 #EXTINF:-1, HBO HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -361,8 +379,6 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Romedy_Now_HD/Rom
 
 #EXTINF:-1, WB
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-#EXTINF:-1, 	WB
 http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 
 #EXTINF:-1, Colors Infinity
@@ -613,5 +629,4 @@ http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedde
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 #EXTINF:-1, Super 30
 https://storage.googleapis.com/essexfast.appspot.com/hindi/Super.30.2019.Hindi.720p.DVDScr.x264.mp4
-#EXTINF:-1,Sony Crimee
-http://190.2.154.164:8082/TV2890
+
