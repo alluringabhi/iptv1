@@ -146,8 +146,7 @@ http://190.2.154.164:8082/TV2881
 http://190.2.154.164:8082/TV2882
 #EXTINF:-1,Pop Max
 http://190.2.154.164:8082/TV2883
-#EXTINF:-1,Teen Nick
-http://190.2.154.164:8082/TV3975
+
 
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -190,7 +189,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Bharat_Samachar/Bhara
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226268/index.m3u8|user-agent="ua" dead
 
 #EXTINF:-1, Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/hls2/master.m3u8|user-agent="ua"
+https://republic.pc.cdn.bitgravity.com/live/hls2/chunklist_0.m3u8|user-agent="ua"
 
 #EXTINF:-1, 	NDTV India
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225777/index.m3u8|user-agent="ua"
@@ -337,7 +336,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive
 #EXTINF:-1,Star Movies 
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8
 #EXTINF:-1,Star Movies HD
-http://portal.streamtv.to:8080/alaaA/fpA3sFJQI9/16019
 http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
 
 #EXTINF:-1, HBO 
