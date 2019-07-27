@@ -2,7 +2,6 @@
 
 #EXTINF:-1,  Star Plus
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
-http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
 #EXTINF:-1, 	Sony
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
@@ -146,7 +145,8 @@ http://190.2.154.164:8082/TV2881
 http://190.2.154.164:8082/TV2882
 #EXTINF:-1,Pop Max
 http://190.2.154.164:8082/TV2883
-
+#EXTINF:-1,Primo TV
+http://190.2.154.164:8082/TV3981
 
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -239,14 +239,17 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
 #EXTINF:-1,Euronews
 http://190.2.154.164:8082/TV2867
+#EXTINF:-1,France 24
+http://190.2.154.164:8082/TV2844
 #EXTINF:-1, DD India
 http://pockettv.xyz/api/zee.m3u8?c=ddindia
 #EXTINF:-1 tvg-id="Loksabha TV", Lok Sabha
-http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Loksabha_TV/Loksabha_TV_1200.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1, DD Kisan
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Loksabha_TV/Loksabha_TV_600.m3u8?jct=Lt36jv5AAEayAO-gSHICVQ&pxe=1562465811&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1, DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
 https://playhls.media.nic.in/live/ddkisan/index.m3u8
-
-
+#EXTINF:-1, Rajyasabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, History Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, History Hindi SD
@@ -288,6 +291,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Food_Food/Food_Food_1200.m3
 #EXTINF:-1, GoodTimes Hindi
 http://mhms11.airtel.tv:80/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua"
 
+#EXTINF:-1,  Fine Livings
+http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1, History HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -331,10 +336,12 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
 http://190.2.154.164:8082/TV2845
 #EXTINF:-1, Jio Exclusive
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1,Vats Hollywood
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.m3u8
 #EXTINF:-1,Star Movies 
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8
 #EXTINF:-1,Star Movies HD
+https://akamai.anytv.live/StarMoviesHD/index.m3u8
 http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
 
 #EXTINF:-1, HBO 
@@ -342,7 +349,8 @@ http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
 http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
 #EXTINF:-1, HBO HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
+#EXTINF:-1,HBO China
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1, &Flix
 http://pockettv.xyz/api/zee.m3u8?c=andflix
 
@@ -398,17 +406,29 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
 #EXTINF:-1, Comedy Central HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1,Premium Stories
+http://190.2.154.164:8082/TV2631
+#EXTINF:-1,Premium Crime
+http://190.2.154.164:8082/TV2632
+#EXTINF:-1,Premium Action
+http://190.2.154.164:8082/TV2633
+#EXTINF:-1,Fox
+http://190.2.154.164:8082/TV2457
 #EXTINF:-1, Star World Premier HD
 http://103.205.133.44:1935/ns/STARWORLDPREMIERHD/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Star World
 http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-
+#EXTINF:-1, Star Sports 1
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports 2
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports Hindi
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports Select 1
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd1/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, Star Sports Select 2
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
 #EXTINF:-1, 	Sony Ten1 
@@ -468,7 +488,8 @@ http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_
 
 #EXTINF:-1, MTV Now
 http://unilivemtveu-lh.akamaihd.net:80/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on 
-
+#EXTINF:-1, Karaoke
+https://www.djing.com/tv/k-28790-04.m3u8
 #EXTINF:-1, AAho Music
 https://v.viralshit.in/live/aahomusic.m3u8
 
@@ -604,28 +625,43 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
-
+#EXTINF:-1,Hollywood Movies 6
+http://190.2.154.164:8082/TV2809
+#EXTINF:-1,Hollywood Movies 7
+http://190.2.154.164:8082/TV2812
+#EXTINF:-1,CH 4
+http://190.2.154.164:8082/TV2808
+#EXTINF:-1,CH4 More
+http://190.2.154.164:8082/TV2810
+#EXTINF:-1,CH 4 Brand New
+http://190.2.154.164:8082/TV2811
 
 #EXTINF:-1,UTV HD
 http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
-#EXTINF:-1, Star Sports
+#EXTINF:-1, Star Sports 1
 http://akbd.live:8080/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Star Sports HD
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1, Star Sports Select 2
+http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
+
+#EXTINF:-1,  Star Sports1 HD
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1,Star Sports 2
+http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
+
+#EXTINF:-1,  Star Sports 1 Select HD
+http://175.41.46.16:8081/hls/4.m3u8
+http://103.205.133.44:1935/ns/STARSPORTSSELECT1HD/playlist.m3u8
+#EXTINF:-1, Star Sports 2 Select HD
+http://103.205.133.44:1935/ns/STARSPORTSSELECT2HD/playlist.m3u8
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
+
 #EXTINF:-1, Gazi Tv
 http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
+http://175.41.46.16:8081/hls/1.m3u8
+
 #EXTINF:-1, Willow HD
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
 
 
 http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
-#EXTINF:-1,Star Sports 2 slow
-http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3"
-#EXTINF:-1,Star Sports 1 slow
-http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
-
 https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-
-
