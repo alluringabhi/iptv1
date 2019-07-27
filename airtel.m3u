@@ -94,7 +94,8 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/House
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 
-
+#EXTINF:-1,UTV HD
+http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
 #EXTINF:-1, CCC MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
@@ -348,10 +349,9 @@ http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
 http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
 #EXTINF:-1, HBO HD
 http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
-#EXTINF:-1, HBO HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1,HBO China
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
+
 #EXTINF:-1, &Flix
 http://pockettv.xyz/api/zee.m3u8?c=andflix
 
@@ -424,12 +424,9 @@ http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8|user-agent="Mozilla/5.0 
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 #EXTINF:-1, Star Sports 2
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, Star Sports Hindi
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, Star Sports Select 1
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd1/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, Star Sports Select 2
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
@@ -588,6 +585,8 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?sd=10&rebase=on
+#EXTINF:-1,HBO China
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1, 	FTV
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8|user-agent="ua"	
 
@@ -598,7 +597,6 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
 #EXTINF:-1, Dawn News
 http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-
 
 #EXTINF:-1, Ary
 http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
@@ -638,8 +636,7 @@ http://190.2.154.164:8082/TV2810
 #EXTINF:-1,CH 4 Brand New
 http://190.2.154.164:8082/TV2811
 
-#EXTINF:-1,UTV HD
-http://103.205.133.44:1935/ns/UTVHD/playlist.m3u8
+
 #EXTINF:-1, Star Sports 1
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
 http://akbd.live:8080/starsports1/tracks-v1a1/mono.m3u8
