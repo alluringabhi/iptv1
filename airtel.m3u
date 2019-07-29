@@ -348,7 +348,6 @@ http://103.205.133.44:1935/ns/STARMOVIESHD/playlist.m3u8
 #EXTINF:-1, HBO 
 http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
 #EXTINF:-1, HBO HD
-http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://103.205.133.44:1935/ns/HBOINDIAHD/playlist.m3u8
 
