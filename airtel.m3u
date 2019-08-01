@@ -136,18 +136,7 @@ http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nick
 
 #EXTINF:-1,Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Disney XD
-http://190.2.154.164:8082/TV2716
-#EXTINF:-1,Tiny Pop
-http://190.2.154.164:8082/TV2879
-#EXTINF:-1,Pop
-http://190.2.154.164:8082/TV2881
-#EXTINF:-1,Tiny+1 pop
-http://190.2.154.164:8082/TV2882
-#EXTINF:-1,Pop Max
-http://190.2.154.164:8082/TV2883
-#EXTINF:-1,Primo TV
-http://190.2.154.164:8082/TV3981
+
 
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -238,10 +227,6 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
-#EXTINF:-1,Euronews
-http://190.2.154.164:8082/TV2867
-#EXTINF:-1,France 24
-http://190.2.154.164:8082/TV2844
 #EXTINF:-1, DD India
 http://pockettv.xyz/api/zee.m3u8?c=ddindia
 #EXTINF:-1 tvg-id="Loksabha TV", Lok Sabha
@@ -287,13 +272,11 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/A
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226489/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 	Food Food 
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Food_Food/Food_Food_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, GoodTimes Hindi
 http://mhms11.airtel.tv:80/PLTV/88888888/224/3221226491/index.m3u8|user-agent="ua"
 
-#EXTINF:-1,  Fine Livings
-http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1, History HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -333,8 +316,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1
 
 #EXTINF:-1, 	Good Times 
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225774/index.m3u8|user-agent="ua"
-#EXTINF:-1,Quest
-http://190.2.154.164:8082/TV2845
+
 #EXTINF:-1, Jio Exclusive
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1,Vats Hollywood
@@ -370,7 +352,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_
 
 
 #EXTINF:-1, MNX HD
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_JSRV6_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -406,12 +388,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
 #EXTINF:-1, Comedy Central HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-#EXTINF:-1,Premium Stories
-http://190.2.154.164:8082/TV2631
-#EXTINF:-1,Premium Crime
-http://190.2.154.164:8082/TV2632
-#EXTINF:-1,Premium Action
-http://190.2.154.164:8082/TV2633
+
 #EXTINF:-1 ,Sky Movies Action
 http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 , Sky Movies Premiere
@@ -428,7 +405,6 @@ http://103.205.133.44:1935/ns/STARWORLDHD/playlist.m3u8|user-agent="Mozilla/5.0 
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 #EXTINF:-1, Star Sports 2
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
-#EXTINF:-1, Star Sports 3
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd1/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
@@ -502,8 +478,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8|user-agent="ua"	
 #EXTINF:-1,  Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:-1,Brit Asia TV
-http://190.2.154.164:8082/TV2854
+
 #EXTINF:-1, 	Zee Bollywood
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Pal 
@@ -520,7 +495,6 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226331/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, Disha
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Disha_tv/Disha_tv_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Disha_tv/Disha_tv_JSRV1_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1 ,Satsang TV
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Satsang_TV/Satsang_TV_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -630,16 +604,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
-#EXTINF:-1,Hollywood Movies 6
-http://190.2.154.164:8082/TV2809
-#EXTINF:-1,Hollywood Movies 7
-http://190.2.154.164:8082/TV2812
-#EXTINF:-1,CH 4
-http://190.2.154.164:8082/TV2808
-#EXTINF:-1,CH4 More
-http://190.2.154.164:8082/TV2810
-#EXTINF:-1,CH 4 Brand New
-http://190.2.154.164:8082/TV2811
 
 
 #EXTINF:-1, Star Sports 1
