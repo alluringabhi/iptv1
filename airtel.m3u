@@ -603,7 +603,26 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
-
+#EXTINF:-1,Premium Stories
+http://190.2.154.164:8082/TV2631
+#EXTINF:-1,Premium Crime
+http://190.2.154.164:8082/TV2632
+#EXTINF:-1,Premium Action
+http://190.2.154.164:8082/TV2633
+#EXTINF:-1,CH 4
+http://190.2.154.164:8082/TV2808
+#EXTINF:-1,Hollywood Movies 6
+http://190.2.154.164:8082/TV2809
+#EXTINF:-1,CH4 More
+http://190.2.154.164:8082/TV2810
+#EXTINF:-1,CH 4 Brand New
+http://190.2.154.164:8082/TV2811
+#EXTINF:-1,Hollywood Movie 7
+http://190.2.154.164:8082/TV2812
+#EXTINF:-1,HBO 3 HD
+http://190.2.154.164:8082/TV1943
+#EXTINF:-1,HBO
+http://190.2.154.164:8082/TV1944
 
 #EXTINF:-1, Star Sports 1
 http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
