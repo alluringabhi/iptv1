@@ -19,9 +19,9 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Zee HD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/05.m3u8|user-agent="ua" 	
 
-#EXTINF:-1, Colors
+#EXTINF:-1, Colorss
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8?jct=3TOpjcBS519TpEbb9KPAEA&pxe=1565350202&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8?jct=L-R9nDokv91LbaNR_QEy7Q&pxe=1571348780&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Epic
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
