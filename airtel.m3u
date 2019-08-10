@@ -376,14 +376,12 @@ http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_600.m3u8?jct=duC
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, 	AXN
+https://live.airtel.tv/axnhd/smil:common.smil/chunklist_b896000_sleng.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw892480191_852629810/PLTV/88888888/224/3221226443/index.m3u8|user-agent="ua" 
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, AXN HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_HD/Star_World_HD_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_Premeir_HD/Star_World_Premeir_HD_JSRV7_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Zee Cafe
 http://pockettv.xyz/api/zee.m3u8?c=zeecafesd
@@ -402,7 +400,7 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 
 
-http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 http://sgdccdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
@@ -437,8 +435,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8|user-agent="ua"
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8|user-agent="ua"	
 
-#EXTINF:-1, 	Sab Masti
-http://mhms7.airtel.tv/wh7f454c46tw892480191_852629810/PLTV/88888888/224/3221226021/index.m3u8|user-agent="ua"
+
 #EXTINF:-1, 	Sab Dabang
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony Mix
@@ -454,7 +451,9 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Zing
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226080/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zee ETC
-http://mhms7.airtel.tv/wh7f454c46tw892480191_852629810/PLTV/88888888/224/3221226353/index.m3u8|user-agent="ua"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc_TAB.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://pockettv.xyz/api/zee.m3u8?c=etc
+
 
 #EXTINF:-1, MTV Beats
 http://mumsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
