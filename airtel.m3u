@@ -618,10 +618,9 @@ http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-http://175.41.46.16:8081/hls/1.m3u8
-http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
-http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
 
+#EXTINF:-1, Modi Man vs Wild
+http://dl2.jiocloud.link/Bluray/Man.Vs.Wild.with.Bear.Grylls.and.PM.Modi.720p.Hindi.x264-KatmovieHD.To.mkv
 
-http://89.47.161.61:81/masstv_yuppsp/tracks-v1a1/mono.m3u8?token=MASSTV
-https://live12.hotstar.com/hls/live/2003697/icccwc2019/hin/15mindvr1440000726m01f78qt85k9r14july2019/master_4.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+#EXTINF:-1, Avengers Endgame
+http://dl13.f2m.co/film/A.vn.gers.End.g.me.2019.720p.hd.rp.MkvCage.Film2Movie_WS.mkv
