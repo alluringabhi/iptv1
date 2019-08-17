@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,  Star Plus
-http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8 
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 
 #EXTINF:-1, 	Sony
@@ -46,7 +46,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_P
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8|user-agent="ua" 	
 
 #EXTINF:-1, Star Bharat HS
-http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8|user-agent="ua"
+http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_GoldHD/Star_GoldHD_JSRV11_1200.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -60,10 +60,10 @@ http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Gold_Sele
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, Star Utsav
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
 #EXTINF:-1, Movies OK (HS)
-http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
+http://moviesok-i.akamaihd.net/hls/live/569918-b/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
 
 #EXTINF:-1, Jio Hindi Movies
@@ -182,6 +182,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Bharat_Samachar/Bhara
 #EXTINF:-1, 	News 24
 http://mhms6.airtel.tv/PLTV/88888888/224/3221226138/index.m3u8|user-agent="ua"
 #EXTINF:-1, Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 https://republic.pc.cdn.bitgravity.com/live/hls2/chunklist_0.m3u8|user-agent="ua"
 #EXTINF:-1, Sudarshan
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sudarshan/Sudarshan_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -204,8 +205,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_600.
 #EXTINF:-1, 	ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226571/index.m3u8|user-agent="ua"	
-#EXTINF:-1 tvg-logo="https://www.bloombergquint.com/bq-logo.png",Bloomberg Quint
-https://d1yhck4nr3rup7.cloudfront.net/bqbackup_2.m3u8
+
 
 #EXTINF:-1, 	NewsX
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225796/index.m3u8|user-agent="ua"	
