@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,  Star Plus
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8 
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 
 #EXTINF:-1, 	Sony
