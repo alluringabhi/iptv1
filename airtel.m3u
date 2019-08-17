@@ -428,7 +428,8 @@ http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8|user-agent="ua"
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua"
 #EXTINF:-1, SONY SIX
-http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"DEAD
 #EXTINF:-1, SONY SIX HD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	ESPN 
@@ -447,12 +448,15 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Mix
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225816/index.m3u8|user-agent="ua" 	
 #EXTINF:-1, 	9X Jhakaas
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226026/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	9X O
 http://cshms1.airtel.tv/PLTV/88888888/224/3221226028/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	9X Jalwa
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226011/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	9X M
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zing
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226080/index.m3u8|user-agent="ua"	
@@ -507,7 +511,8 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sadhna
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sadhna/Sadhna_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Shraddha
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_TAB.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	dead
 #EXTINF:-1,Divya
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Divya_TV/Divya_TV_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Aastha
@@ -545,8 +550,6 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Darshan_24/Darshan_24
 #EXTINF:-1, Jyotish TV
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jyotish_TV/Jyotish_TV_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, 	Peace of Mind
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226409/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Paras
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Paras_tv/Paras_tv_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
@@ -564,16 +567,16 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_600.m3u8?jct
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 #EXTINF:-1, 	Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?sd=10&rebase=on
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?sd=10&rebase=on
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
 #EXTINF:-1,HBO China
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1, 	FTV
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226086/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, 92 News
-https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1, GEO News
 https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
