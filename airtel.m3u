@@ -521,7 +521,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226070/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sadhna
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sadhna/Sadhna_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Shraddha
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_TAB.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	dead
 #EXTINF:-1,Divya
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Divya_TV/Divya_TV_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
