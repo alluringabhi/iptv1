@@ -5,10 +5,10 @@ http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|u
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 
 #EXTINF:-1, 	Sony
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://live.airtel.tv/set/smil:common.smil/chunklist_b896000_sleng.m3u8
+http://live.airtel.tv/set/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8|user-agent="ua"
-Sony HD
+#EXTINF:-1, Sony HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/05.m3u8|user-agent="ua"	
 
 #EXTINF:-1, And Tv 
@@ -448,20 +448,20 @@ http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/m
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
 #EXTINF:-1, 	Sony Ten1 
-https://sony247channels.akamaized.net/hls/live/2004341/SonyTen1SD/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2004341/SonyTen1SD/master_1428.m3u8
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony Ten1 HD
 https://sony247channels.akamaized.net/hls/live/2002595/SonyTen1HD/master_3868.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony TEN2
-https://sony247channels.akamaized.net/hls/live/2004342/SonyTen2SD/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2004342/SonyTen2SD/master_1428.m3u8
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Sony TEN2 HD
 https://sony247channels.akamaized.net/hls/live/2002596/SonyTen2HD/master_1428.m3u8
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226077/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Ten 3
-https://sony247channels.akamaized.net/hls/live/2004343/SonyTen3SD/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2004343/SonyTen3SD/master_1428.m3u8
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Ten 3 HD
 https://sony247channels.akamaized.net/hls/live/2002596/SonyTen3HD/master_3868.m3u8
@@ -469,7 +469,7 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_600.m3
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua"
 
 #EXTINF:-1, SONY SIX
-https://sony247channels.akamaized.net/hls/live/2004339/SonySIXSD/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2004339/SonySIXSD/master_1428.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8|user-agent="ua"DEAD
 #EXTINF:-1, SONY SIX HD
