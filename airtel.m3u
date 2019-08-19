@@ -509,6 +509,7 @@ http://pockettv.xyz/api/zee.m3u8?c=9xm
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226080/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	Zee ETC
 http://pockettv.xyz/api/zee.m3u8?c=etc
@@ -563,11 +564,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/mh1_Shraddha/mh1_Shraddha_6
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226089/index.m3u8|user-agent="ua"	dead
 #EXTINF:-1,Divya
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Divya_TV/Divya_TV_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
 #EXTINF:-1, 	Aastha
-https://ind49-lh.akamaihd.net/i/ind49_aastha@330221/index_1800_av-p.m3u8?sd=10&rebase=on
-http://ind49-lh.akamaihd.net/i/ind49_aasthaprime1@619852/index_2000_av-p.m3u8?sd=10&rebase=on
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226069/index.m3u8|user-agent="ua"
-#EXTINF:-1, 	Aastha 1
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aastha/Aastha_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, Aastha Bhajan
@@ -672,8 +670,3 @@ http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
 
-#EXTINF:-1, Modi Man vs Wild
-http://dl2.jiocloud.link/Bluray/Man.Vs.Wild.with.Bear.Grylls.and.PM.Modi.720p.Hindi.x264-KatmovieHD.To.mkv
-
-#EXTINF:-1, Avengers Endgame
-http://dl13.f2m.co/film/A.vn.gers.End.g.me.2019.720p.hd.rp.MkvCage.Film2Movie_WS.mkv
