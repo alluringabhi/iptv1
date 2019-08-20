@@ -658,15 +658,128 @@ https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/
 
 
 #EXTINF:-1, Star Sports 1
-http://voxtv.dynns.com:8000/movies/movies/529|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
+http://voxtv.dynns.com:8000/live/movies/movies/529.m3u8|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
 
 #EXTINF:-1,Star Sports 2
-http://voxtv.dynns.com:8000/movies/movies/528|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
+http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
 
 #EXTINF:-1,  Star Sports First
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-
-
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1 HD"  ,IN: Star Sports 1 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/94437.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 2 HD"  ,IN: Star Sports 2 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/94436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 3 HD"  ,IN: Star Sports 3 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/94435.m3u8
+#EXTINF:-1 tvg-ID="I504.19566.schedulesdirect.org" tvg-name="US: HBO" tvg-logo="http://picon.webhop.net/logo/usa/hbo.png"  ,US: HBO
+http://sl0.ddns.me:8000/live/namik77/77namik/130916.m3u8
+#EXTINF:-1 tvg-ID="I506.59839.schedulesdirect.org" tvg-name="US: HBO Comedy" tvg-logo="http://picon.webhop.net/logo/usa/hbo_comedy_us.png"  ,US: HBO Comedy
+http://sl0.ddns.me:8000/live/namik77/77namik/130915.m3u8
+#EXTINF:-1 tvg-ID="I506.59839.schedulesdirect.org" tvg-name="US: HBO Comedy HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_comedy_us.png"  ,US: HBO Comedy HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137370.m3u8
+#EXTINF:-1 tvg-ID="I501.19548.schedulesdirect.org" tvg-name="US: HBO East" tvg-logo="http://picon.webhop.net/logo/usa/hbo_east.png"  ,US: HBO East
+http://sl0.ddns.me:8000/live/namik77/77namik/137369.m3u8
+#EXTINF:-1 tvg-ID="I507.59357.schedulesdirect.org" tvg-name="US: HBO Family" tvg-logo="http://picon.webhop.net/logo/usa/hbo_family_west.png"  ,US: HBO Family
+http://sl0.ddns.me:8000/live/namik77/77namik/130914.m3u8
+#EXTINF:-1 tvg-ID="I507.16585.schedulesdirect.org" tvg-name="US: HBO Family HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_family.png"  ,US: HBO Family HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137368.m3u8
+#EXTINF:-1 tvg-ID="HBO HD US" tvg-name="US: HBO HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo.png"  ,US: HBO HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137367.m3u8
+#EXTINF:-1 tvg-ID="I503.10243.schedulesdirect.org" tvg-name="US: HBO SIGNATURE" tvg-logo="http://picon.webhop.net/logo/usa/hbo_signature_west.png"  ,US: HBO SIGNATURE
+http://sl0.ddns.me:8000/live/namik77/77namik/130913.m3u8
+#EXTINF:-1 tvg-ID="HBO Signature US" tvg-name="US: HBO Signature HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_signature.png"  ,US: HBO Signature HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137366.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US: HBO ZONE" tvg-logo="http://picon.webhop.net/logo/usa/hbo-zone-us.png"  ,US: HBO ZONE
+http://sl0.ddns.me:8000/live/namik77/77namik/130912.m3u8
+#EXTINF:-1 tvg-ID="I531.67236.schedulesdirect.org" tvg-name="US: Starz Cinema" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_cinema.png"  ,US: Starz Cinema
+http://sl0.ddns.me:8000/live/namik77/77namik/137292.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US: Starz Cinema HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_cinema_hd.png"  ,US: Starz Cinema HD
+http://sl0.ddns.me:8000/live/namik77/77namik/130909.m3u8
+#EXTINF:-1 tvg-ID="I528.57569.schedulesdirect.org" tvg-name="US: Starz Comedy" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_comedy.png"  ,US: Starz Comedy
+http://sl0.ddns.me:8000/live/namik77/77namik/137291.m3u8
+#EXTINF:-1 tvg-ID="Starz Edge US" tvg-name="US: Starz Edge" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_edge_hd.png"  ,US: Starz Edge
+http://sl0.ddns.me:8000/live/namik77/77namik/130908.m3u8
+#EXTINF:-1 tvg-ID="I529.57573.schedulesdirect.org" tvg-name="US: Starz Edge HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_edge_hd.png"  ,US: Starz Edge HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137290.m3u8
+#EXTINF:-1 tvg-ID="I535.36225.schedulesdirect.org" tvg-name="US: Starz Encore" tvg-logo="http://picon.webhop.net/logo/usa/starz_encore_us.png"  ,US: Starz Encore
+http://sl0.ddns.me:8000/live/namik77/77namik/137289.m3u8
+#EXTINF:-1 tvg-ID="I535.36225.schedulesdirect.org" tvg-name="US: Starz Encore HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_encore_us_hd.png"  ,US: Starz Encore HD
+http://sl0.ddns.me:8000/live/namik77/77namik/137288.m3u8
+#EXTINF:-1 tvg-ID="I527.57581.schedulesdirect.org" tvg-name="US: Starz Kids & Family" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_kids_family.png"  ,US: Starz Kids & Family
+http://sl0.ddns.me:8000/live/namik77/77namik/137287.m3u8
+#EXTINF:-1 tvg-ID="Syfy HD US" tvg-name="US: SyFy" tvg-logo="http://picon.webhop.net/logo/usa/syfy_us_global.png"  ,US: SyFy
+http://sl0.ddns.me:8000/live/namik77/77namik/137266.m3u8
+#EXTINF:-1 tvg-ID="Syfy HD US" tvg-name="US: SyFy HD" tvg-logo="http://picon.webhop.net/logo/usa/syfy_us_east.png"  ,US: SyFy HD
+http://sl0.ddns.me:8000/live/namik77/77namik/130907.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Action Adventure UK" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_action_adventure.png"  ,UK: Sky Cinema Action FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/177564.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Action Adventure UK" tvg-name="UK: Sky Cinema Action HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_action_adventure.png"  ,UK: Sky Cinema Action HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177565.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Action Adventure UK" tvg-name="UK: Sky Cinema Action (B)" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_action_adventure.png"  ,UK: Sky Cinema Action (B)
+http://sl0.ddns.me:8000/live/namik77/77namik/1328.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Comedy UK" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_comedy.png"  ,UK: Sky Cinema Comedy FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/177561.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Comedy UK" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_comedy.png"  ,UK: Sky Cinema Comedy HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177560.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Comedy UK" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_comedy.png"  ,UK: Sky Cinema Comedy
+http://sl0.ddns.me:8000/live/namik77/77namik/1329.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Crime Thriller UK" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_crime_thriller.png"  ,UK: Sky Cinema Thriller HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177551.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Crime Thriller UK" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_crime_thriller.png"  ,UK: Sky Cinema Thriller FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/177552.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Crime Thriller UK" tvg-name="UK: Sky Cinema Thriller" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_crime_thriller.png"  ,UK: Sky Cinema Thriller
+http://sl0.ddns.me:8000/live/namik77/77namik/15019.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Disney UK" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="http://pic.qw1234.org/logos/tn_Disney%20Movies.jpg"  ,UK: Sky Cinema Disney HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177544.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Disney UK" tvg-name="UK: Sky Cinema Disney" tvg-logo="http://pic.qw1234.org/logos/tn_Disney%20Movies.jpg"  ,UK: Sky Cinema Disney
+http://sl0.ddns.me:8000/live/namik77/77namik/15015.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Drama Romance UK" tvg-name="UK: Sky Cinema Drama HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_drama_romance.png"  ,UK: Sky Cinema Drama HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177558.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Drama Romance UK" tvg-name="UK: Sky Cinema Drama" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_drama_romance.png"  ,UK: Sky Cinema Drama
+http://sl0.ddns.me:8000/live/namik77/77namik/15016.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Family UK" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_family.png"  ,UK: Sky Cinema Family HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177562.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Family UK" tvg-name="UK: Sky Cinema Family" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_family.png"  ,UK: Sky Cinema Family
+http://sl0.ddns.me:8000/live/namik77/77namik/1332.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Greats UK" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_greats.png"  ,UK: Sky Cinema Greats HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177554.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Greats UK" tvg-name="UK: Sky Cinema Greats" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_greats.png"  ,UK: Sky Cinema Greats
+http://sl0.ddns.me:8000/live/namik77/77namik/177553.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Premiere UK" tvg-name="UK: Sky Cinema Premiere FHD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_premiere.png"  ,UK: Sky Cinema Premiere FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/177555.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Premiere UK" tvg-name="UK: Sky Cinema Premiere HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_premiere.png"  ,UK: Sky Cinema Premiere HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177556.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Premiere UK" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_premiere.png"  ,UK: Sky Cinema Premiere
+http://sl0.ddns.me:8000/live/namik77/77namik/1334.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Sci-Fi Horror UK" tvg-name="UK: Sky Cinema Sci-fi & Horror FHD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_scifi_horror.png"  ,UK: Sky Cinema Sci-fi & Horror FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/177549.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Sci-Fi Horror UK" tvg-name="UK: Sky Cinema Sci-fi & Horror HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_scifi_horror.png"  ,UK: Sky Cinema Sci-fi & Horror HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177550.m3u8
+#EXTINF:-1 tvg-ID="Sky Movies Sci-Fi Horror UK" tvg-name="UK: Sky Cinema Sci-fi & Horror" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_scifi_horror.png"  ,UK: Sky Cinema Sci-fi & Horror
+http://sl0.ddns.me:8000/live/namik77/77namik/15018.m3u8
+#EXTINF:-1 tvg-ID="Sky Cinema Select UK" tvg-name="UK: Sky Cinema Select HD" tvg-logo="http://pic.qw1234.org/logos/tn_Movie%20Select.png"  ,UK: Sky Cinema Select HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177559.m3u8
+#EXTINF:-1 tvg-ID="Sky Cinema Select UK" tvg-name="UK: Sky Cinema Select" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_select.png"  ,UK: Sky Cinema Select
+http://sl0.ddns.me:8000/live/namik77/77namik/1336.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Box Office 1 HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_box_office.png"  ,UK: Sky Box Office 1 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177548.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Box Office 2 HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_box_office.png"  ,UK: Sky Box Office 2 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177547.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Box Office 3/3D HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_box_office.png"  ,UK: Sky Box Office 3/3D HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177546.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Box Office 4 HD" tvg-logo="http://picon.webhop.net/logo/uk/sky_uk_cinema_box_office.png"  ,UK: Sky Box Office 4 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/177545.m3u8
+#EXTINF:-1 tvg-ID="True Movies 1 UK" tvg-name="UK: True Movies FHD" tvg-logo="http://picon.webhop.net/logo/uk/true_movies1.png" group-title="UK ENTERTAINMENT",UK: True Movies FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/15025.m3u8
+#EXTINF:-1 tvg-ID="True Movies 1 UK" tvg-name="UK: True Movies 1" tvg-logo="http://picon.webhop.net/logo/uk/true_movies1.png"  ,UK: True Movies 1
+http://sl0.ddns.me:8000/live/namik77/77namik/3979.m3u8
+#EXTINF:-1 tvg-ID="True Movies 2 UK" tvg-name="UK: True Movies 2" tvg-logo="http://picon.webhop.net/logo/uk/true_movies2.png"  ,UK: True Movies 2
+http://sl0.ddns.me:8000/live/namik77/77namik/3980.m3u8
+#EXTINF:-1 tvg-ID="CBS Action UK" tvg-name="UK: Cbs Action FHD" tvg-logo="http://picon.webhop.net/logo/uk/cbs_action.png"  ,UK: Cbs Action FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/15022.m3u8
+#EXTINF:-1 tvg-ID="CBS Drama UK" tvg-name="UK: Cbs Drama FHD" tvg-logo="http://picon.webhop.net/logo/uk/cbs_drama.png"  ,UK: Cbs Drama FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/15023.m3u8
+#EXTINF:-1 tvg-ID="CBS Reality UK" tvg-name="UK: Cbs Reality FHD" tvg-logo="http://picon.webhop.net/logo/uk/cbs_reality.png"  ,UK: Cbs Reality FHD
+http://sl0.ddns.me:8000/live/namik77/77namik/15024.m3u8
