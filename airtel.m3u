@@ -93,6 +93,7 @@ Sab TV
 https://live.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_sleng.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8|user-agent="ua"	
 #EXTINF:-1, 	SAB TV 
+http://live.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://smumcdnems03.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, 	B4U Movies
