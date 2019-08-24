@@ -668,13 +668,11 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1 HD"  ,IN: Star Sports 1 HD
-http://sl0.ddns.me:8000/live/namik77/77namik/94437.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 2 HD"  ,IN: Star Sports 2 HD
-http://sl0.ddns.me:8000/live/namik77/77namik/94436.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 3 HD"  ,IN: Star Sports 3 HD
-http://sl0.ddns.me:8000/live/namik77/77namik/94435.m3u8
-#EXTINF:-1  , Sky Cinema Thriller
-http://sl0.ddns.me:8000/live/namik77/77namik/15019.m3u8
-#EXTINF:-1  , Sky Cinema Disney
-http://sl0.ddns.me:8000/live/namik77/77namik/15015.m3u8
+#EXTINF:-1, Test
+http://live.airtel.tv/set/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, 	test 2
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, 	test 3
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001 AppleWebKit/JioTV/537.36)"
+#EXTINF:-1, 	test 4
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
