@@ -668,7 +668,3 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-#EXTINF:-1, Test
-http://live.airtel.tv/colorshd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, Test 2
-http://live.airtel.tv/colors/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
