@@ -668,3 +668,20 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
+
+#EXTINF:-1, Ten1hd
+http://live.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, t2hd
+http://live.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, t3hd
+http://live.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, t1
+http://live.airtel.tv/sonyten1/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, t2
+http://live.airtel.tv/sonyten2/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, t3
+http://live.airtel.tv/sonyten3/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, ESPN
+http://live.airtel.tv/sonyespn/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
+#EXTINF:-1, ESPN hd
+http://live.airtel.tv/sonyespnhd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
