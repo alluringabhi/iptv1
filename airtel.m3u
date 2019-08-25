@@ -367,7 +367,8 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8
 #EXTINF:-1,Star Movies HD
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,Star Movies HD1
+http://jprdigitalott.com/media/StarMoviesHD.mpd
 #EXTINF:-1, HBO  
 http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
 #EXTINF:-1, HBO HD
