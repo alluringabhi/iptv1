@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,  Star Plus HS
+#EXTINF:-1,  Star Plus
 http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
-#EXTINF:-1,  Star Plus
+#EXTINF:-1,  Star Plus HD
 http://jprdigitalott.com/media/StarPlusHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 #EXTINF:-1, 	Sony
