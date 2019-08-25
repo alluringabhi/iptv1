@@ -449,9 +449,11 @@ http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/m
 http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/ssselecthd2/master_800.m3u8?jct=dTO0zk4k4-p2VBckJBVpnA&pxe=1562766138&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
 
 #EXTINF:-1, 	Sony Ten1 
+http://live.airtel.tv/sonyten1/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
 https://sony247channels.akamaized.net/hls/live/2004341/SonyTen1SD/master_1428.m3u8
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8|user-agent="ua"
 #EXTINF:-1, Sony Ten1 HD
+http://live.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
 https://sony247channels.akamaized.net/hls/live/2002595/SonyTen1HD/master_3868.m3u8
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8|user-agent="ua"
@@ -465,6 +467,7 @@ http://cshms2.airtel.tv/PLTV/88888888/224/3221226077/05.m3u8|user-agent="ua"
 https://sony247channels.akamaized.net/hls/live/2004343/SonyTen3SD/master_1428.m3u8
 http://mhms11.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony Ten 3 HD
+http://live.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
 https://sony247channels.akamaized.net/hls/live/2002596/SonyTen3HD/master_3868.m3u8
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8|user-agent="ua"
@@ -668,20 +671,3 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-
-#EXTINF:-1, Ten1hd
-http://live.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, t2hd
-http://live.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, t3hd
-http://live.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, t1
-http://live.airtel.tv/sonyten1/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, t2
-http://live.airtel.tv/sonyten2/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, t3
-http://live.airtel.tv/sonyten3/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, ESPN
-http://live.airtel.tv/sonyespn/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
-#EXTINF:-1, ESPN hd
-http://live.airtel.tv/sonyespnhd/smil:common.smil/chunklist_b896000_sleng.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 9; RMX1805 Build/PKQ1.190319.001)"
