@@ -48,7 +48,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600
 
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8|user-agent="ua"
 #EXTINF:-1, 	Sony TV
-https://live.airtelxstream.in/set/smil:common.smil/manifest.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+https://live.airtelxstream.in/set/smil:common.smil/manifest.mpd|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	Zee Cinema
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8|user-agent="ua" 	
