@@ -19,8 +19,8 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
 #EXTINF:-1, Colors
-http://20gbpslb.blazeintv.online/Colors_HD/video.m3u8?token=testing
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://20gbpslb.blazeintv.online/Colors_HD/video.m3u8?token=testing
 http://jprdigitalott.com/media/ColorsHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 
@@ -69,10 +69,10 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
 #EXTINF:-1, 	SAB TV 
-http://smumcdnems03.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1, 	B4U Movies
-http://smumcdnems03.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/B4U_Movies/B4U_Movies_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/B4U_Movies/B4U_Movies_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 http://redflixtv.online/uploads.php?link=08c30d79dbed181f1012fae08c95c197&token=687474703a2f2f6c6976652e61697274656c2e74762f6234756d6f766965732f736d696c3a636f6d6d6f6e2e736d696c2f6368756e6b6c6973745f623839363030305f736c656e672e6d337538
 
 #EXTINF:-1, Rishtey
@@ -268,7 +268,7 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.
 #EXTINF:-1,Star Movies
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1,Star Movies HD
-http://jprdigitalott.com/media/StarMoviesHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+http://jprdigitalott.com/media/StarMoviesHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36 ExoPlayer"
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO  
 http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
