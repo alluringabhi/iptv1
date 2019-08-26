@@ -96,9 +96,9 @@ http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 #EXTINF:-1, 	BIG Magic
 http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 #EXTINF:-1, 	Sony Wah 
-https://sony247channels.akamaized.net/hls/live/2002556/SONYWAHSD/master_2000.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2002556/SONYWAHSD/master_900.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	Sony YAY
-https://sony247channels.akamaized.net/hls/live/2002598/SonyYaySD/master_2000.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2002598/SonyYaySD/master_900.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Hungama
 http://jprdigitalott.com/media/Hungama.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -107,7 +107,6 @@ http://jprdigitalott.com/media/DisneyXD.mpd|user-agent="Mozilla/5.0 (Linux; Andr
 
 #EXTINF:-1, 	Discovery Kids Hindi
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_2/Discovery_Kids_2_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225775/index.m3u8|user-agent="ua"	
 
 #EXTINF:-1, Nickelodeon Jr Hindi
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -515,4 +514,4 @@ http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
 #EXTINF:-1, SM
-http://redflixtv.online/uploads.php?link=cfde73014496cf93b4ec42b1ead39859&token=68747470733a2f2f726564666c697874762e6d652f5354422f537461724d6f7669657348442e6d337538
+http://redflixtv.online/uploads.php?link=cfde73014496cf93b4ec42b1ead39859&token=68747470733a2f2f726564666c697874762e6d652f5354422f537461724d6f7669657348442e6d337538|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
