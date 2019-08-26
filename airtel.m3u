@@ -47,8 +47,8 @@ http://jprdigitalott.com:80/media/SonyMaxHD.mpd
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8|user-agent="ua"
-#EXTINF:-1, 	Sony TV
-https://live.airtelxstream.in/set/smil:common.smil/manifest.mpd|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+#EXTINF:-1, 	Sony Pix
+https://live.airtelxstream.in/pixhd/smil:common.smil/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vKi5haXJ0ZWx4c3RyZWFtLmluLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1NjY4MzAzNjF9fX1dfQ__&Signature=LBiKJPF8C-sLgCMGLbTEFC4hE~BEc5u0zOGDUd9KHYTCKOakI8cnjnkimt991y-Sax0U6ofCBlsr1XKKmP9p2ywBV7wdFqnn4haqY3Hm5z8GaMqkKRlHqbBA9DzUpi0-DyJz2soZXvZhFL23O1JJNIVuwblh8hd0bAs4dl6paMVNRCQy6ZafEVBuML4qviGLbafmncJrvAvT-9XWx40UGnI48BGUmxZqJrojNnVADNh1oyo5hoXehNv-dIbK6rDNieZ3i8PSj6Uj2rEDE81DPI2LYf5n1Ew06K~VOnhqon20HHlTaxgXRq6nGVI6h8JmfiRhakfB9hKmudDZRT53oQ__&Key-Pair-Id=APKAIWHAQM7JDJRYIKDA|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	Zee Cinema
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8|user-agent="ua" 	
