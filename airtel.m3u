@@ -267,7 +267,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.m3u8
 #EXTINF:-1,Star Movies
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1,Star Movies HDD
+#EXTINF:-1,Star Movies HD
 http://jprdigitalott.com/media/StarMoviesHD.mpd?codecs="avc1.64001f,mp4a.40.2"|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36 ExoPlayer"
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO  
@@ -514,3 +514,5 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
+#EXTINF:-1, SM
+http://redflixtv.online/uploads.php?link=cfde73014496cf93b4ec42b1ead39859&token=68747470733a2f2f726564666c697874762e6d652f5354422f537461724d6f7669657348442e6d337538
