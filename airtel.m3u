@@ -28,8 +28,8 @@ http://jprdigitalott.com/media/ColorsHD.mpd|user-agent="Mozilla/5.0 (Linux; Andr
 https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_1428.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, 	Sony Max
-https://sony247channels.akamaized.net/hls/live/2002597/SonyMaxSD/master_2000.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+#EXTINF:-1, 	Sony Max SD
+https://sony247channels.akamaized.net/hls/live/2002597/SonyMaxSD/master_900.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://20gbpslb.blazeintv.online/Sony_Max_HD/video.m3u8?token=testing
 #EXTINF:-1, Sony Max HD
 http://jprdigitalott.com:80/media/SonyMaxHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
