@@ -456,8 +456,6 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jyotish_TV/Jyotish_TV
 #EXTINF:-1, 	Paras
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Paras_tv/Paras_tv_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1, 	Home Shop 18 
-http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Arré
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Q Tv
@@ -513,5 +511,7 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-#EXTINF:-1, SM
-http://redflixtv.online/uploads.php?link=cfde73014496cf93b4ec42b1ead39859&token=68747470733a2f2f726564666c697874762e6d652f5354422f537461724d6f7669657348442e6d337538|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+#EXTINF:-1, 	Home Shop 18 600
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="plaYtv\5.7.2 (Linux;Android 6.0.1) ExoPlayerLib\2.8.0"
+#EXTINF:-1, 	Home Shop 18 800
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="plaYtv\5.7.2 (Linux;Android 6.0.1) ExoPlayerLib\2.8.0"
