@@ -513,5 +513,6 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-#EXTINF:-1, 	RN
-http://dlsg.dishactive.tech/stb/abhi/dabstb.php?c=Romedy_Now_HD&q=400|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0, LifeOk stream 
+#EXT-X-KEY:METHOD=AES-128,URI="81701500000810b21eabcaf5ee873b434791893a42231000",IV=0x
+http://live.tatasky.com.edgesuite.net/23/350.m3u8|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
