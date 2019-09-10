@@ -518,5 +518,5 @@ http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
 #EXTINF:-1, LifeOk stream 
 #EXT-X-KEY:METHOD=AES-128,URI="81701500000810b21eabcaf5ee873b434791893a42231000",IV=0x
 http://live.tatasky.com.edgesuite.net/23/350.m3u8|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
-#EXTINF:-1, Sonyyyyy 
-http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/4.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1, Sony5
+http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/5.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
