@@ -3,7 +3,6 @@
 #EXTINF:-1,  Star Plus
 http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
-#EXTINF:-1,  Star Plus HD
 http://ad.mysisli.com/live/starplushd/index.m3u8
 http://jprdigitalott.com/media/StarPlusHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
@@ -50,10 +49,10 @@ http://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8|u
 #EXTINF:-1, Star Gold HS
 http://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
-#EXTINF:-1, Star Gold HD
+
 http://ad.mysisli.com/live/stargoldhd/index.m3u8
 http://jprdigitalott.com/media/StarGoldHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1, Star Gold Select
+
 http://ad.mysisli.com/live/stargoldselecthd/index.m3u8
 http://jprdigitalott.com/media/StarGoldSelectHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, 	Sony Max2
@@ -268,7 +267,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive
 #EXTINF:-1,Vats Hollywood
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.m3u8
 #EXTINF:-1,Star Movies
-http://ad.mysisli.com/live/starmovieshd/index.m3u8
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1,Star Movies HDD
 http://jprdigitalott.com/media/StarMoviesHD.mpd?codecs="avc1.64001f,mp4a.40.2"|user-agent="ExoPlayerDemo/2.0 (Linux;Android 5.0.1) ExoPlayerLib/2.7.3/19.0"
@@ -299,7 +297,7 @@ http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_600.m3u
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now HD
-http://noidsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, WB
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Colors Infinity
@@ -308,10 +306,8 @@ http://jprdigitalott.com/media/ColorsInfinityHD.mpd|user-agent="Mozilla/5.0 (Lin
 #EXTINF:-1, 	AXN HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_600.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, 	Star World Premier
-http://ad.mysisli.com/live/starworldpremierhd/index.m3u8
 http://jprdigitalott.com/media/StarWorldPremiereHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, 	Star World
-http://ad.mysisli.com/live/starworldhd/index.m3u8
 http://jprdigitalott.com/media/StarWorldHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Zee Cafe
 http://pockettv.xyz/api/zee.m3u8?c=zeecafesd
@@ -519,6 +515,8 @@ http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
 #EXTINF:-1, ESPN
 http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
-#EXTINF:0, LifeOk stream 
+#EXTINF:-1, LifeOk stream 
 #EXT-X-KEY:METHOD=AES-128,URI="81701500000810b21eabcaf5ee873b434791893a42231000",IV=0x
 http://live.tatasky.com.edgesuite.net/23/350.m3u8|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
+#EXTINF:-1, Sonyyyyy 
+http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/4.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
