@@ -68,7 +68,6 @@ http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|use
 #EXTINF:-1, Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918-b/moviesok/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 
-#EXTINF:-1, Jio Bollywood
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_600.m3u8??jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
 #EXTINF:-1,SHEMAROO Classic
