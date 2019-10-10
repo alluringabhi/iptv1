@@ -68,9 +68,9 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_60
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 #EXTINF:-1, Movies OK (HS)
 http://moviesok-i.akamaihd.net/hls/live/569918-b/moviesok/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-#EXTINF:-1, Jio movie
+
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_600.m3u8??jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-#EXTINF:-1, Jio Classic
+EXTINF:-1, Jio Classic
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1,SHEMAROO Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
@@ -149,7 +149,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeenews
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1, 	Aaj Tak  
 https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8
-https://sony247channels.akamaized.net/hls/live/2002596/AAJTAK/master_2128.m3u8
+https://sony247channels.akamaized.net/hls/live/2002596/AAJTAK/master_1428.m3u8
 https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live1/chunks.m3u8
 
 #EXTINF:-1, Aajtak HD
@@ -260,7 +260,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
 #EXTINF:-1,Vats Hollywood
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD374L240P/playlist.m3u8
 http://130.185.150.79:1935/trunk/STAR-MOVIES/playlist.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1,Star Movies HD
+EXTINF:-1,Star Movies HD
 http://jprdigitalott.com/media/StarMoviesHD.mpd?codecs="avc1.64001f,mp4a.40.2"|user-agent="ExoPlayerDemo/2.0 (Linux;Android 5.0.1) ExoPlayerLib/2.7.3/19.0"
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 http://130.185.150.79:1935/trunk/HBO/playlist.m3u8
@@ -314,10 +314,7 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 , Sky Movies Select
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 , Bein Series 1
-http://109.236.92.216:9090/Bein_Series1/mpegts
-#EXTINF:-1 , AMC
-http://109.236.92.216:9090/Bein_Series2/mpegts
+
 
 http://jprdigitalott.com:80/media/StarSports1HD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 http://jprdigitalott.com:80/media/StarSports2HD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -357,20 +354,20 @@ https://sony247channels.akamaized.net/hls/live/2008245/SonyTen3HD/master_1428.m3
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 https://sony247channels.akamaized.net/hls/live/2002596/SonyTen3HD/master_3868.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, SONY SIX
-https://sony247channels.akamaized.net/hls/live/2008246/SonySIXSD/master_964.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2008245/SonySIXSD/master_964.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF:-1, SONY SIX HD
-https://sony247channels.akamaized.net/hls/live/2008246/SonySIXHD/master_1428.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2008244/SonySIXHD/master_2128.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	ESPN 
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_SD/Sony_ESPN_SD_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 https://sony247channels.akamaized.net/hls/live/2004340/SonyESPNSD/master_1428.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	ESPN HD
-https://sony247channels.akamaized.net/hls/live/2008246/SonyESPNHD/master_1428.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2008244/SonyESPNHD/master_2128.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 #EXTINF:-1, 	D Sport 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1, 	Sony Mix
-https://sony247channels.akamaized.net/hls/live/2002598/SonyMixSD/master.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+https://sony247channels.akamaized.net/hls/live/2002598/SonyMixSD/master_900.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 #EXTINF-1, 9X Jhakaas
 http://snoidcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_600.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -502,22 +499,12 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 , Hollywood Movies 4
+EXTINF:-1 , Hollywood Movies 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 , Hollywood Movies 5
+EXTINF:-1 , Hollywood Movies 5
 https://cxlj7t6cvzfjpp5j4ws9ap6f41gmq2sffgs0nplq.flxdns.com/dlhdl-cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
 
 
-#EXTINF:-1, Star Sports 1
-http://voxtv.dynns.com:8000/live/movies/movies/529.m3u8|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
 
-#EXTINF:-1,Star Sports 2
-http://voxtv.dynns.com:8000/live/movies/movies/528.m3u8|user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3 IndiaDownloader/10"
-http://144.217.70.223:8080/StarSports_Hd1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,  Star Sports First
-http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-#EXTINF:-1, ESPN
-http://yrsprts.xyz/hls/stream.m3u8?ch=espnu
 #EXT-X-KEY:METHOD=AES-128,URI="81701500000810b21eabcaf5ee873b434791893a42231000",IV=0x
 http://live.tatasky.com.edgesuite.net/23/350.m3u8|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
