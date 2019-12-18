@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1,  Star Plus
-http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|user-agent="Mozilla\/5.0 (Mobile; LYF\/F90M\/LYF-F90M-000-02-17-270917; rv:48.0) Gecko\/48.0 Firefox\/48.0 KAIOS\/2.0","adslink":"https:\/\/yim3eyv5.top\/h25uvgnbk?key=d0dc0e9d9fa3f5a4f3c0ee470aef7133"
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8|user-agent="Mozilla\/5.0 (Mobile; LYF\/F90M\/LYF-F90M-000-02-17-270917; rv:48.0) Gecko\/48.0 Firefox\/48.0 KAIOS\/2.0"
 "Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
 http://ad.mysisli.com/live/starplushd/index.m3u8
 http://jprdigitalott.com/media/StarPlusHD.mpd|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 #EXTINF:-1, Sony
+http://144.217.70.223:8080/SONYTVHDIND-Hin/tracks-v1a1/mono.m3u8
 http://jiotvppl.indmovies.in/jionew/Sony_HD_1200.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=ikOzLRDPu7KI9sfsyiOupQ&pxe=1575479731&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-http://144.217.70.223:8080/SONYTVHDIND-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Sonyyyy HD
+#EXTINF:-1, Sony HD
 http://jiotvppl.indmovies.in/jionew/Star_Gold_HD_1200.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 http://snoidcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/5.m3u8?jct=vIcpqhxM2aDZLhd0gfGiDg&pxe=1574876407&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
