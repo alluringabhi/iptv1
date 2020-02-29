@@ -32,12 +32,12 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklis
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, 	News Nation
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
-#EXTINF:-1, TV9 Bharatvarsh
-https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh/playlist.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, 	NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1,CNBC 18 News
