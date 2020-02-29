@@ -97,14 +97,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
 
 
-#EXTINF:-1, Movies Now
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1, MNX
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1, Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-	
-
 
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
@@ -159,11 +151,6 @@ http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
-#EXTINF:-1, 	Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
-#EXTINF:-1, Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
-
 
 
 
@@ -184,7 +171,16 @@ http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
-
+#EXTINF:-1, Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+#EXTINF:-1, MNX
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+#EXTINF:-1, Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+#EXTINF:-1, 	Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
+#EXTINF:-1, Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
 #EXTINF:-1, Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 2
@@ -195,14 +191,14 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 5
 http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:0 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" "English",Insight J
+#EXTINF:0 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" "English",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-4-hd.png" "English",MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-action-hd.png" "English",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-max-hd.png" "English",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 
