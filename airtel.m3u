@@ -5,20 +5,18 @@ https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:0 "Hindi",Star Utsav
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:0 "Hindi",Shemaroo Bollywood Classic
+#EXTINF:0 "Hindi", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:0 "Hindi",Shemaroo Bollywood Premier 
+#EXTINF:0 "Hindi", Bollywood Premier 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
 
 #EXTINF:0 "Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, India TV
@@ -39,7 +37,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 #EXTINF:-1, TV9 Bharatvarsh
-https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh/playlist.m3u8?hdnea=st=1582988997~exp=1582989597~acl=/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh/*~data=ip=9544fb3ee61f446b5d82dc67c8d97c49f7f14b092db87f3d29d6a12f83226108-userid=8b19f33b09cf6cf671748943247afd853df850e4319d4d4cf7057b650ee1c732~hmac=699f6141eb1f1306a25b5af2c950f2f606fb381cf5f83194349141da6c6f83f2
+https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh/playlist.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 #EXTINF:-1, 	NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1,CNBC 18 News
@@ -60,9 +58,8 @@ https://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bq
 #EXTINF:0 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" "News",CNBC TV 18 D
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
-#EXTINF:0 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" "News",CNN News 18 V
+#EXTINF:0 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" "News",CNN News 18 
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:0 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" "News",CNN News 18 D
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:0 tvg-id="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" "News",India Today
 https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
@@ -70,15 +67,15 @@ https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:0 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" "News",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0 "News",Russia Today
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
 #EXTINF:0 tvg-id="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" "News",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:0 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" "News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
 #EXTINF:0 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" "News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
-
+#EXTINF:0 "News",Russia Today
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 , Lok Sabha
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, DD News
@@ -107,8 +104,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 	
-#EXTINF:-1, Disha
-http://live.wmncdn.net/dishatv/stream.stream/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
@@ -116,9 +112,9 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/divyatv/index.m3u8
-#EXTINF:0 "Live Darshan",Shirdi Sai
+#EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-#EXTINF:0 "Devotional",Amritvaani
+#EXTINF:0 "Devotional", Amritvaani
 https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8
 
 #EXTINF:0 "Music Hindi",Artist Aloud
