@@ -52,6 +52,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1583093509~acl=%2f*~data=hdntl~hmac=912e2c5c696011f689c3f75e4dc88969781421353d207c343be4db859a42bc78/master_2000.m3u8
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:0 "Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
