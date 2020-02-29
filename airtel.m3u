@@ -11,6 +11,7 @@ http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|use
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Sony 
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+
 #EXTINF:-1,&PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1,Zee Cinema HD
@@ -40,7 +41,8 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
+#EXTINF:-1,& TV
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0 "Hindi", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
@@ -53,6 +55,11 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:0 "Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
+#EXTINF:-1,Cartoon Network
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+#EXTINF:-1,Disney
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, India TV
@@ -69,7 +76,8 @@ https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, 	News Nation
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
-
+#EXTINF:-1, Zee News
+http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
@@ -138,7 +146,30 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,ten 2
+#EXTINF:-1,  ID
+http://84.22.33.254/unicast.id/index.m3u8
+#EXTINF:-1,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+
+
+#EXTINF:-1,Star sport 1
+http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1,Start Sport 2
+http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+#EXTINF:-1,Star Sports Select1
+http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
+#EXTINF:-1,Start Sport select 2
+http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
+#EXTINF:-1,Sony Ten 1
+http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
+#EXTINF:-1,Sony Ten 2
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1,Sony Ten 3
+http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
+#EXTINF:-1, D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,ten 1
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
@@ -161,6 +192,10 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+#EXTINF:-1, Star Movies
+http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
+#EXTINF:-1, Star World
+http://51.15.8.16:8081/ind1live/starworld/playlist.m3u8
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
@@ -191,7 +226,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-max-hd.png" "English",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-
+#EXTINF:-1, AXN
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 
 #EXTINF:0 "Music Hindi",Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
@@ -232,6 +268,8 @@ https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 http://rus.dishactive.xyz/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
 #EXTINF:0 "Music English",Viva
 http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1, VH1
+http://95.211.254.11:44477/vh1/mpegts
 #EXTINF:-1, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1, 92 News
