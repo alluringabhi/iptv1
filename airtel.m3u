@@ -209,6 +209,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1,&PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1,&xplorHD
+http://aiplex.skytv.website/live/gee/zee.m3u8?c=andxplore&oauth=c3Q9MTU4MTM5ODIyNH5leHA9MTU4MTM5OTIyNH5hY2w9LypobWFjPTNmZTQyN2NkYzBhNmVmZGU0YjViMDkyMDhiM2E0NWQwMDQxYmUxNDFlYzY4YTUxNjc2ZDg1Nzg1NDgzOGE1NzE="
 #EXTINF:-1, Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, Hollywood Movies 2
