@@ -74,8 +74,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
 #EXTINF:0 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" "News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
-#EXTINF:0 "News",Russia Today
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
 #EXTINF:-1 , Lok Sabha
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, DD News
@@ -83,19 +82,17 @@ https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=
 https://playhls.media.nic.in/live/ddkisan/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" "Hindi",DD National D
-https://streamer.multitvsolution.in:443/live/DDNational-c/p4.m3u8
 
 #EXTINF:-1, 	Food Food 
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8?sd=10&rebase=on
+http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1 , National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 , National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 
 
 
@@ -195,11 +192,11 @@ http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687
 #EXTINF:0 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" "English",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-4-hd.png" "English",MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-action-hd.png" "English",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-max-hd.png" "English",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 
