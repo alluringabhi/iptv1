@@ -162,11 +162,11 @@ http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
 #EXTINF:-1,Start Sport select 2
 http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
 #EXTINF:-1,Sony Ten 1
-http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
+http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:-1,Sony Ten 2
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:-1,Sony Ten 3
-http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
+http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,ten 1
@@ -288,5 +288,5 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1, New color
+#EXTINF:-1, New colors
 http://163.172.223.102:8081/lolind2/colorstv/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
