@@ -34,6 +34,12 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1, Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 
+#EXTINF:-1, Colors
+http://51.15.8.16:8081/lolind2/colorstvhd/chunks.m3u8
+
+#EXTINF:-1, Star Gold Select
+http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8
+
 EXTINF:-1,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 EXTINF:-1,ZEE cinema
@@ -141,8 +147,15 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1, 	Food Food 
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 
+#EXTINF:-1, Discovery
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p2.m3u8
+
 #EXTINF:-1, Sony BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1, Animal Planet HD
+
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p2.m3u8
 
 #EXTINF:-1, 	Discovery ID
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
