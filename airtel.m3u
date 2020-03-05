@@ -200,7 +200,10 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 
-
+#EXTINF:-1, 	Sanskaar
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:-1, 	Satsang
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
