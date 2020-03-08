@@ -37,10 +37,10 @@ https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740
 #EXTINF:-1, Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 
-#EXTINF:-1, Colors
+EXTINF:-1, Colors
 http://51.15.8.16:8081/lolind2/colorstvhd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 
-#EXTINF:-1, Star Gold Select
+EXTINF:-1, Star Gold Select
 http://51.15.8.16:8081/ind1live/stargoldselect/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 
 EXTINF:-1,ZEE TV
@@ -58,7 +58,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1, Colors TV
-https://triangle.iptv.digijadoo.net/live/colors_hd/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 EXTINF:0 "Hindi", Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
@@ -93,7 +93,7 @@ https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, 	News Nation
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
-#EXTINF:-1, Zee News
+EXTINF:-1, Zee News
 http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -179,19 +179,19 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 
 
-#EXTINF:-1,Star sport 1
+EXTINF:-1,Star sport 1
 http://103.68.116.50/live/feed1006/index.m3u8
-#EXTINF:-1,Start Sport 2
+EXTINF:-1,Start Sport 2
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
-#EXTINF:-1,Star Sports Select1
+EXTINF:-1,Star Sports Select1
 http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
-#EXTINF:-1,Start Sport select 2
+EXTINF:-1,Start Sport select 2
 http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
-#EXTINF:-1,Sony Ten 1
+EXTINF:-1,Sony Ten 1
 http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
-#EXTINF:-1,Sony Ten 2
+EXTINF:-1,Sony Ten 2
 http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
-#EXTINF:-1,Sony Ten 3
+EXTINF:-1,Sony Ten 3
 http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -225,9 +225,9 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 #EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1, Star Movies
+EXTINF:-1, Star Movies
 http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
-#EXTINF:-1, Star World
+EXTINF:-1, Star World
 http://51.15.8.16:8081/ind1live/starworld/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
@@ -253,7 +253,7 @@ EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 EXTINF:-1, Hollywood Movies 5
 http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:0 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" "English",Insight
+EXTINF:0 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" "English",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
