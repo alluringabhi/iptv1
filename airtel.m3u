@@ -164,8 +164,8 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,Discovery Channel ENG
-http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
+#EXTINF:-1,UK Discovery
+http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1, History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, National Geographic
