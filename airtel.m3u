@@ -225,6 +225,8 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
+#EXTINF:-1,PLUTO MOVIES
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 EXTINF:-1, Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -236,7 +238,34 @@ EXTINF:-1, Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 EXTINF:-1, Hollywood Movies 5
 http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
+#EXTINF:-1,Unknown_1
+http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,Unknown_3
+http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,Unknown_4
+http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Unknown_5
+http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:-1,Unknown_6
+http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1,Unknown_7
+http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,Unknown_8
+http://160.119.77.50/iptv/uk-attheraces.stream/playlist.m3u8
+#EXTINF:-1,Unknown_9
+http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1,Unknown_10
+http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:-1,Unknown_11
+http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1,Unknown_12
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,Unknown_13
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1,Unknown_14
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1,Unknown_15
+http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
