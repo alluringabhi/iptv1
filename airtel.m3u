@@ -76,7 +76,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1,Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, Tom & Jerry Channel
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, India TV
