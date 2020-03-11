@@ -156,7 +156,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 #EXTINF:-1, Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
 #EXTINF:-1, 	Discovery ID
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/p3.m3u8
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 #EXTINF:-1,Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Turbo
