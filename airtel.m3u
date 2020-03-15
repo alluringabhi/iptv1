@@ -342,11 +342,11 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1, Epicc
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
+#EXTINF:-1, Epic
+http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer@__gN2AjN2kjN0UTM"
 
-#EXTINF:-1, Sony Max HDD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="plaYtv/5.8.1 (Linux;Android 5.1) ExoPlayerLib/2.8.0"
+#EXTINF:-1, Sony Max HD
+http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="plaYtv/5.8.1 (Linux;Android 5.1) ExoPlayerLib/2.8.0"
 
-#EXTINF:-1, 	Zee Cinema HDD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1, 	Zee Cinema HD
+http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
