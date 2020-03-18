@@ -325,5 +325,6 @@ http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m
 EXTINF:-1, Sony Max HD
 http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|user-agent="plaYtv/5.8.1 (Linux;Android 5.1) ExoPlayerLib/2.8.0"
 
-EXTINF:-1, 	Zee Cinema HD
+#EXTINF:-1, 	Zee Cinema HD
+http://mhdtvworld.live/delta/planet/planet.php?url=http://163.172.223.102:8081/liveuk1/disneyhd/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tv/1.0.0 Chrome/66.0.3359.181 Safari/537.36
 http://sbbsrcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=hSr8_GK8c4PG_rClrebQbQ&pxe=1584273069&st=CD_zOp3kZn9KvgNJF-X2Pg|Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
