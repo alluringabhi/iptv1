@@ -11,9 +11,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1, And TV
+#EXTINF:-1, And TV ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1,Zee TV HD ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 
 #EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
@@ -22,20 +22,20 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 
-#EXTINF:-1,&PictureHD
+#EXTINF:-1,&PictureHD ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1,Zee Bollywood ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1,AND PICTURES HD
+#EXTINF:-1,AND PICTURES HD ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1, &Explore HD
+#EXTINF:-1, &Explore HD ND
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 #EXTINF:-1,Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
-#EXTINF:-1,Zee Theatre
+#EXTINF:-1,Zee Theatre ND
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/9b9f434518cc489f9260e24b5768ef55/index.m3u8
 #EXTINF:-1, Epic
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/71d7807e101d470fbac38441de9c674e/index.m3u8|Decoder=Native
@@ -81,7 +81,7 @@ https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, 	News Nation
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
-#EXTINF:-1, Zee News
+#EXTINF:-1, Zee News ND
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1, Sudarshan News
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
@@ -135,8 +135,8 @@ https://playhls.media.nic.in/live/ddkisan/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, DD bharati Z5
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbharati/index.m3u
+#EXTINF:-1, DD Bharati ND
+http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/03d04d1461114e9083d382ab0054ac2c/index.m3u8
 
 #EXTINF:-1, DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
