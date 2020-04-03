@@ -138,7 +138,8 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, DD Bharati ND
 http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/03d04d1461114e9083d382ab0054ac2c/index.m3u8
 
-#EXTINF:-1, DD National
+#EXTINF:-1, DD National ND
+http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 
 
