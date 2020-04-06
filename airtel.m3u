@@ -53,8 +53,7 @@ http://zee18.site/zee/get.php?channel=out/v1/71d7807e101d470fbac38441de9c674e
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
 #EXTINF:-1, Mahamovie
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
-#EXTINF:-1, Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 
@@ -277,15 +276,12 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 EXTINF:-1, Hollywood Movies 5
 http://tx.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:0 "Music Hindi",Artist Aloud
+#EXTINF:-1,Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
-#EXTINF:0 "Music Hindi",Dil Se
+#EXTINF:-1,Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:0 "Music Hindi",Kadak Hits
+#EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-
-EXTINF:-1, MTV Now
-http://unilivemtveu-lh.akamaihd.net:80/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1, Karaoke
 https://www.djing.com/tv/karaoke.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 EXTINF:-1, AAho Music
@@ -296,28 +292,17 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:0 "Music English",1 HD Music
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8 
-#EXTINF:0 "Music English",Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:0 "Music English",Djing
+#EXTINF:-1,Djing
 https://www.djing.com/tv/28693-04.m3u8
-#EXTINF:0 "Music English",Hit Music
+#EXTINF:-1,Hit Music
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 "Music English",Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0 "Music English",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0 "Music English",NRJ Hits
+#EXTINF:-1,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:0 "Music English",Music Box Russia
+#EXTINF:-1,Music Box Russia
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:0 "Music English",VH1
-http://rus.dishactive.xyz/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
-#EXTINF:0 "Music English",Viva
-http://85.143.202.116/hls/viva.m3u8
 #EXTINF:-1, VH1
 http://95.211.254.11:44477/vh1/mpegts
+
 #EXTINF:-1, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,HUM TV HD
@@ -335,5 +320,4 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1, Star Sports 2 HD
-http://gnsonline.xyz/cdn/mplay.php?channel=StarSports2_HD|user-agent="oxoo/2.0 (Linux;Android 9) ExoPlayerLib/2.7.3"
+
