@@ -79,7 +79,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:-1,Nickelodeon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/27001_Disneyhindinew.jpg", Disney Hindi Kids
+EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/27001_Disneyhindinew.jpg", Disney Hindi Kids
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbXAxYm04bE1rWmthWE51Wlhsb2FXNWthU1V5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com.m3u8
 
 #EXTINF:-1, 	ABP News
@@ -321,3 +321,19 @@ http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
+#EXTINF:-1,Star Sports1
+http://109.169.56.170/hls/starsports1.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
+
+#EXTINF:-1,Sony Six
+http://109.169.56.170/hls/sonysix.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
+
+#EXTINF:-1, star movies
+http://109.169.56.170/hls/starmovies.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
+
+
+#EXTINF:-1, Star Bharat
+http://109.169.56.170/hls/lifeok.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
+
+
+#EXTINF:-1,Star Plus
+http://109.169.56.170/hls/starplus.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
