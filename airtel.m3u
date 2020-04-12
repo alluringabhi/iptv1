@@ -4,8 +4,6 @@ https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m
 #EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
-#EXTINF:-1,COLORS SD
-http://103.203.231.2:2052/play/a03y
 
 #EXTINF:-1,Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
