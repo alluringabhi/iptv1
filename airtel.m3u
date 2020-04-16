@@ -238,7 +238,8 @@ https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-#EXTINF:-1  "Hindi",STAR MOVIES ND
+#EXTINF:-1  "Hindi",Star Movies ND
+http://ca.finetv.xyz:80/StarMoviesHd/index.m3u8?token=
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
