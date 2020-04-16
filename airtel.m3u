@@ -52,14 +52,15 @@ http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
-EXTINF:-1  "Hindi",D2H MOVIES
-http://channels.ooguy.com:80/auth?channel=D2hMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1  "Hindi",UTV MOVIES
-http://channels.ooguy.com:80/auth?channel=UtvMoviesHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1  "Hindi",UTV ACTION
-http://channels.ooguy.com:80/auth?channel=UtvActionHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1  "Hindi",MOVIES ACTIVE
-http://channels.ooguy.com:80/auth?channel=MoviesActiveHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1  "Hindi",D2H MOVIES
+http://ca.finetv.xyz:80/D2hMoviesHd/index.m3u8?token=
+#EXTINF:-1  "Hindi",UTV MOVIES
+http://ca.finetv.xyz:80/UtvMoviesHD/index.m3u8?token=
+#EXTINF:-1  "Hindi",UTV ACTION
+http://ca.finetv.xyz:80/UtvActionHD/index.m3u8?token=
+#EXTINF:-1  "Hindi",MOVIES ACTIVE
+http://ca.finetv.xyz:80/MoviesActiveHd/index.m3u8?token=
+
 #EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
 #EXTINF:-1, Mahamovie
@@ -177,13 +178,12 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, Discovery
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
-EXTINF:-1  "Hindi",SONY BBC EARTH HINDI 
-http://channels.ooguy.com:80/auth?channel=SonyBbcEarthHindiHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1  "Hindi",NATIONAL GEOGRAPHIC HINDI
-http://channels.ooguy.com:80/auth?channel=NationalGeographicHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1  "English",NATIONAL GEOGRAPHIC WILD 
-http://channels.ooguy.com:80/auth?channel=NationalGeographicWildHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-
+#EXTINF:-1  "Hindi",NATIONAL GEOGRAPHIC HINDI
+http://ca.finetv.xyz:80/NationalGeographicHindi/index.m3u8?token=
+#EXTINF:-1  "Hindi",NATIONAL GEOGRAPHIC WILD HINDI
+http://ca.finetv.xyz:80/NationalGeographicWildHindi/index.m3u8?token=
+#EXTINF:-1  "Hindi",SONY BBC EARTH HINDI INDIA
+http://ca.finetv.xyz:80/SonyBbcEarthHindiHdIndia/index.m3u8?token=
 #EXTINF:-1, Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
 #EXTINF:-1, 	Discovery ID
@@ -261,8 +261,9 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1, Zee Cafe HD ND
 http://bolly360.xyz/zee.php?c=zeecafehd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
+#EXTINF:-1, Star World HD
+http://ca.finetv.xyz:80/StarWorldHd/index.m3u8?token=
 #EXTINF:-1, Star World
-http://channels.ooguy.com:80/auth?channel=StarWorldHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
