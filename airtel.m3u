@@ -339,7 +339,8 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,Star Sports1 ND
+EXTINF:-1,Star Sports1 ND
 http://109.169.56.170/hls/starsports1.m3u8
-#EXTINF:-1,Star Plus ND
+#EXTINF:-1,Star Gold
+http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 http://109.169.56.170/hls/starplus.m3u8?Decoder=Native
