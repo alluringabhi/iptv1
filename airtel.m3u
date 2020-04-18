@@ -37,7 +37,8 @@ EXTINF:-1,Zee Cinema HD ND
 http://bolly360.xyz/zee.php?c=zeecinemahd
 #EXTINF:-1,Zee Bollywood ND
 http://bolly360.xyz/zee.php?c=classic
-#EXTINF:-1,AND PICTURES ND
+#EXTINF:-1,AND PICTURES SD
+http://boxtv.unaux.com/jam.php?c=andpicsd|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
 http://bolly360.xyz/zee.php?c=andpicssd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 EXTINF:-1, &Explore HD ND
