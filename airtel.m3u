@@ -226,6 +226,10 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Star Sports 1
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=RED_syRC6g3haQqVByOGVQZ2tg==,1587304800.0123456789
+#EXTINF:-1, Star Sports Hindi
+http://89.187.169.204:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_2SmQ3lisYTEJFzhb5IoVEw==,1587304806.0123456789
+#EXTINF:-1, Star Sports 2
+http://89.187.169.204:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_DOGcF1FqLSUB9RoRwxlvdw==,1587304807.0123456789
 #EXTINF:-1,Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 http://163.172.85.133:8080/TenS/1/index.m3u8
