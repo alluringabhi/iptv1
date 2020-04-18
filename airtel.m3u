@@ -16,7 +16,8 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1, And TV ND
 http://45.120.188.76:8080/0.ts
 http://bolly360.xyz/zee.php?c=andtvhd
-
+#EXTINF:-1,ZEE_TV
+http://89.187.169.204:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 EXTINF:-1,Zee TV HD ND
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 http://bolly360.xyz/zee.php?c=zeetvhd
@@ -26,8 +27,10 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-
-EXTINF:-1,&PictureHD ND
+#EXTINF:-1,AND_PICTURES
+http://89.187.169.202:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=RED_EXLIayyBgkMuks01nZYukg==,1587217654.1679989495
+#EXTINF:-1,ZEE_CINEMA_HD
+http://185.59.222.236:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=RED_R32TA8qe3X1isU41Qvj9YQ==,1587217730.1679989495EXTINF:-1,&PictureHD ND
 http://bolly360.xyz/zee.php?c=andpicshd
 EXTINF:-1,Zee Cinema HD ND
 http://bolly360.xyz/zee.php?c=zeecinemahd
@@ -44,6 +47,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b"
 
 #EXTINF:-1  , UTV
+http://185.246.210.52:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 
 http://103.127.31.186/demo/234562/iptv.m3u8?id=48143&e=.m3u8
 
@@ -240,7 +244,7 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 EXTINF:-1  "Hindi",Star Movies ND
 http://ca.finetv.xyz:80/StarMoviesHd/index.m3u8?token=
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1, Movies Now
+EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -252,7 +256,10 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 http://bolly360.xyz/zee.php?c=andflixhd
 #EXTINF:-1,&Prive ND
 http://bolly360.xyz/zee/get.php?c=andprivehd
-
+#EXTINF:-1,STAR_MOVIES
+http://185.59.222.171:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_X4-FZmbINak4BNyN5N9WWg==,1587217885.1679989495
+#EXTINF:-1,HBO_HD
+http://185.246.210.54:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=RED_OM69bckJM1ixtGjZ_JT3HQ==,1587217934.1679989495
 #EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe HD ND
@@ -276,7 +283,8 @@ http://78.110.169.226:8000/play/a03a
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1, Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
+#EXTINF:-1,MOVIES_NOW
+http://185.246.210.53:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=RED_WdiEo2wwHPDHfi-XatQe0Q==,1587222019.1679989495
 
 #EXTINF:-1,Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
