@@ -37,7 +37,7 @@ EXTINF:-1,Zee Cinema HD ND
 http://bolly360.xyz/zee.php?c=zeecinemahd
 #EXTINF:-1,Zee Bollywood ND
 http://bolly360.xyz/zee.php?c=classic
-#EXTINF:-1,AND PICTURES HD ND
+#EXTINF:-1,AND PICTURES ND
 http://bolly360.xyz/zee.php?c=andpicssd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 EXTINF:-1, &Explore HD ND
@@ -54,7 +54,7 @@ http://103.127.31.186/demo/234562/iptv.m3u8?id=48143&e=.m3u8
 #EXTINF:-1  , UTV
 http://89.187.169.204:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_wjgwoopeZzoCeZtwmJgNpQ==,1587191415.0123456789
 
-#EXTINF:-1  , Star Gold Select
+#EXTINF:-1  , Star Gold Select ND
 http://channels.ooguy.com:80/auth?channel=StarGoldSelectHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,Zee Theatre
 http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
