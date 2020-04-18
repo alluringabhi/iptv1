@@ -37,8 +37,7 @@ EXTINF:-1,Zee Cinema HD ND
 http://bolly360.xyz/zee.php?c=zeecinemahd
 #EXTINF:-1,Zee Bollywood ND
 http://bolly360.xyz/zee.php?c=classic
-#EXTINF:-1,AND PICTURES SD
-http://boxtv.unaux.com/jam.php?c=andpicsd|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+#EXTINF:-1,AND PICTURES ND
 http://bolly360.xyz/zee.php?c=andpicssd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 EXTINF:-1, &Explore HD ND
@@ -55,7 +54,8 @@ http://103.127.31.186/demo/234562/iptv.m3u8?id=48143&e=.m3u8
 #EXTINF:-1  , UTV
 http://89.187.169.204:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=RED_wjgwoopeZzoCeZtwmJgNpQ==,1587191415.0123456789
 
-#EXTINF:-1  , Star Gold Select ND
+#EXTINF:-1  , Star Gold Select
+http://185.246.210.51:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_Dh42NPJwMnxoCGzyuDdudw==,1587304803.0123456789 
 http://channels.ooguy.com:80/auth?channel=StarGoldSelectHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,Zee Theatre
 http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
@@ -63,7 +63,11 @@ http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
+#EXTINF:-1,  Tata Sky Bollywood
 
+http://185.59.222.234:2200/R-EX/HINDI_TATA_SKY_BOLLYWOOD_HD-in/tracks-v1a1/mono.m3u8?token=RED_xNc8nctEX4tOuK0umLPl0g==,1587304824.0123456789 
+#EXTINF:-1, Cineplex
+http://185.59.222.234:2200/R-EX/HINDI_CINEPLEX_HD-in/tracks-v1a1/mono.m3u8?token=RED_-Yoao3yuL3_RTNtkFH5AlQ==,1587304815.0123456789 
 
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -83,6 +87,8 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Disney Hindi
 http://89.187.169.204:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
+#EXTINF:-1,POGO
+http://185.246.210.50:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=RED_vV36aIsfxcWqKhhO5tgPdQ==,1587304823.0123456789
 #EXTINF:-1, Big Magic ND
 http://bolly360.xyz/zee.php?c=bigmagic
 #EXTINF:-1,Cartoon Network
@@ -185,8 +191,8 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, Discovery
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
-
-
+#EXTINF:-1, History
+http://185.246.210.51:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=RED_AZtPmhCCjQEHaR4bTcWAgw==,1587304827.0123456789 
 #EXTINF:-1, Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
 #EXTINF:-1, 	Discovery ID
@@ -196,6 +202,8 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p2.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1, Sony BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1, Nat Geo
+http://185.246.210.51:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=RED_VRULmZkLGSLhlSuyfLkz-A==,1587304802.0123456789 
 
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
@@ -271,9 +279,19 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1, Zee Cafe HD ND
 http://bolly360.xyz/zee.php?c=zeecafehd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
+#EXTINF:-1,COLORS INFINITY
+http://89.187.169.202:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=RED_9Z6rx4mK7jAzpcoVKX6Sfg==,1587294021.0123456789
+
+
+
+
+
+
+
+
 #EXTINF:-1, Star World HD
-http://ca.finetv.xyz:80/StarWorldHd/index.m3u8?token=
-#EXTINF:-1, Star World
+http://89.187.169.202:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_V2Y-YMufxqrvSHSZdZJ7hg==,1587294003.0123456789
+EXTINF:-1, Star World
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
@@ -289,6 +307,11 @@ http://78.110.169.226:8000/play/a03a
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1, Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1,MTV Plus
+http://185.59.222.234:2200/R-EX/HINDI_MTV_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=RED_vgcpM_llfizl8TI6nMpsgQ==,1587304813.0123456789 
+#EXTINF:-1, VH1 India
+http://89.187.169.202:2200/R-EX/ENGLISH_VH1_HD-in/tracks-v1a1/mono.m3u8?token=RED_It7HYBubUDE54rpn44WJQQ==,1587294055.0123456789
 
 #EXTINF:-1,Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
@@ -317,7 +340,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1, VH1
 http://95.211.254.11:44477/vh1/mpegts
 
-#EXTINF:-1, VH1 India
+#EXTINF:-1, VH1 
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 
 #EXTINF:-1, PTC Gold
