@@ -85,7 +85,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1,Disney Hindi
+EXTINF:-1,Disney Hindi
 http://89.187.169.204:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/mono.m3u8?token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
 EXTINF:-1,POGO
 http://185.246.210.50:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=RED_vV36aIsfxcWqKhhO5tgPdQ==,1587304823.0123456789
@@ -309,7 +309,7 @@ EXTINF:-1,HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
 EXTINF:-1,horror channel
 http://78.110.169.226:8000/play/a03a
-#EXTINF:-1, Fox Movies
+EXTINF:-1, Fox Movies
 http://vtv.iptvfree.gq:2086/live/foxmovies.m3u8
 #EXTINF:-1, Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
