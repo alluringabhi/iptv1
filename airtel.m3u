@@ -335,4 +335,10 @@ EXTINF:-1,Star Sports1 ND
 http://109.169.56.170/hls/starsports1.m3u8
 #EXTINF:-1,Star Gold
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
-http://109.169.56.170/hls/starplus.m3u8?Decoder=Native
+#EXTINF:-1,Star Goldy
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
+#EXTINF:-1,Star Plusy
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
+#EXTINF:-1,Star Sporty
+http://hotstar.live.cdn.jio.com/hotstar_isl/sshindiwv/master.mpd|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
+
