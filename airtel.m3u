@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
 https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:-1,STAR PLUS ND
+EXTINF:-1,STAR PLUS ND
 http://channels.ooguy.com:80/auth?channel=StarPlusIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1,STAR GOLD ND
+EXTINF:-1,STAR GOLD ND
 http://channels.ooguy.com:80/auth?channel=StarGoldHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
@@ -29,7 +29,7 @@ http://bolly360.xyz/zee.php?c=zeetvhd
 #EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
-#EXTINF:-1,STAR BHARAT ND
+EXTINF:-1,STAR BHARAT ND
 http://channels.ooguy.com:80/auth?channel=StarBharatSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -63,7 +63,7 @@ EXTINF:-1,UTV MOVIES ND
 http://channels.ooguy.com:80/auth?channel=UtvMoviesHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,UTV ACTION ND
 http://channels.ooguy.com:80/auth?channel=UtvActionHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1,MOVIES ACTIVE ND
+EXTINF:-1,MOVIES ACTIVE ND
 http://channels.ooguy.com:80/auth?channel=MoviesActiveHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1, Manoranjan TV
@@ -245,7 +245,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-#EXTINF:-1  "Hindi",Star Movies ND
+EXTINF:-1  "Hindi",Star Movies ND
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,HBO ND
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
@@ -260,7 +260,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,&Flix ND
 http://bolly360.xyz/zee.php?c=andflixhd
-#EXTINF:-1,&Prive ND
+EXTINF:-1,&Prive ND
 http://bolly360.xyz/zee/get.php?c=andprivehd
 #EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -287,7 +287,7 @@ https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-#EXTINF:-1, Karaoke
+EXTINF:-1, Karaoke
 https://www.djing.com/tv/karaoke.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
 EXTINF:-1, AAho Music
 https://v.viralshit.in/live/aahomusic.m3u8
@@ -297,7 +297,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:-1,Djing
+EXTINF:-1,Djing
 https://www.djing.com/tv/28693-04.m3u8
 #EXTINF:-1,Hit Music
 http://hitmusic.hu/hitmusic.m3u8
@@ -305,7 +305,7 @@ http://hitmusic.hu/hitmusic.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1,Music Box Russia
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1, VH1
+EXTINF:-1, VH1
 http://95.211.254.11:44477/vh1/mpegts
 
 #EXTINF:-1, VH1 
