@@ -50,18 +50,18 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1  , Star Gold Select
+EXTINF:-1  , Star Gold Select
 http://channels.ooguy.com:80/auth?channel=StarGoldSelectHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,Zee Theatre
 http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
-#EXTINF:-1,STAR GOLD 2 ND
+EXTINF:-1,STAR GOLD 2 ND
 http://channels.ooguy.com:80/auth?channel=StarGold2India&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
-#EXTINF:-1,UTV MOVIES ND
+EXTINF:-1,UTV MOVIES ND
 http://channels.ooguy.com:80/auth?channel=UtvMoviesHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1,UTV ACTION ND
+EXTINF:-1,UTV ACTION ND
 http://channels.ooguy.com:80/auth?channel=UtvActionHD&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,MOVIES ACTIVE ND
 http://channels.ooguy.com:80/auth?channel=MoviesActiveHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
@@ -183,9 +183,9 @@ http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
 
 #EXTINF:-1, Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
-#EXTINF:-1,SONY BBC EARTH ND
+EXTINF:-1,SONY BBC EARTH ND
 http://channels.ooguy.com:80/auth?channel=SonyBbcEarthHindiHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1,NATIONAL GEOGRAPHIC ND
+EXTINF:-1,NATIONAL GEOGRAPHIC ND
 http://channels.ooguy.com:80/auth?channel=NationalGeographicHindi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 
@@ -247,7 +247,7 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 
 #EXTINF:-1  "Hindi",Star Movies ND
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1,HBO ND
+EXTINF:-1,HBO ND
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -267,7 +267,7 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1, Zee Cafe HD ND
 http://bolly360.xyz/zee.php?c=zeecafehd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
-#EXTINF:-1,STAR WORLD ND
+EXTINF:-1,STAR WORLD ND
 http://channels.ooguy.com:80/auth?channel=StarWorldHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Star World
 https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
@@ -333,12 +333,11 @@ http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 EXTINF:-1,Star Sports1 ND
 http://109.169.56.170/hls/starsports1.m3u8
-#EXTINF:-1,Star Gold
+EXTINF:-1,Star Gold
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
-#EXTINF:-1,Star Goldy
+#EXTINF:-1,Star Gold FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
-#EXTINF:-1,Star Plusy
+#EXTINF:-1,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
-#EXTINF:-1,Star Sporty
-http://hotstar.live.cdn.jio.com/hotstar_isl/sshindiwv/master.mpd|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
+
 
