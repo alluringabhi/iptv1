@@ -339,5 +339,5 @@ http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargo
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 #EXTINF:-1,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
-
-
+#EXTINF:-1,Star
+http://hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8|user-agent="Hotstar:in.startv.hotstar"
