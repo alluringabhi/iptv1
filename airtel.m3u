@@ -54,7 +54,9 @@ EXTINF:-1  , Star Gold Select
 http://channels.ooguy.com:80/auth?channel=StarGoldSelectHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 EXTINF:-1,Zee Theatre
 http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
-EXTINF:-1,STAR GOLD 2 ND
+#EXTINF:-1,STAR GOLD 2 
+https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+
 http://channels.ooguy.com:80/auth?channel=StarGold2India&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
@@ -252,7 +254,9 @@ http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authoriza
 http://89.187.179.131:25461/live/Testing1/Testing1/21255.m3u8?token=QhIKUENQFQ9BVAcBVQIBVQZWBwACUQtTBQEABFECUlVfAFMDUwwFBVdDHRNDFxBUVV5vWwBGCANQVABUHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAU1GQgxUQQpdTFwOHRJdT0EGE19QXDwGVEJaU1dGXlxEDQgeR18Nb1dcXQNfVBoNF1JDHRNZEBITDl1FXghIEFMIEEAERAYSCVdFDl0cGlRaFg9FQ0lBWBN9fRIeRgFKRQQKQQxfDRIJG11RRAgaGxcKEm5DVRAWQ1FSXVcWRggTUUYeR10CSGxaXwxfVVtDXAwPQhMKQVMTGBFdXQoNRl4TO0IMVEEKXUxcDkw=
 
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1, Movies Now
+#EXTINF:-1, Star Movies Select
+http://89.187.179.131:25461/live/Testing1/Testing1/21266.m3u8?token=QhIKUENQFQ9BVAcBVQIBVQZWBwACUQtTBQEABFECUlVfAFMDUwwFBVdDHRNDFxBUVV5vWwBGCANQVABUHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAU1GQgxUQQpdTFwOHRJdT0EGE19QXDwGVEJaU1dGXlxEDQgeR18Nb1dcXQNfVBoNF1JDHRNZEBITDl1FXghIEFMIEEAERAYSCVdFDl0cGlRaFg9FQ0lBWBN9fRIeRgFKRQQKQQxfDRIJG11RRAgaGxcKEm5DVRAWQ1FSXVcWRggTUUYeR10CSGxaXwxfVVtDXAwPQhMKQVMTGBFdXQoNRl4TO0IMVEEKXUxcDkw=
+
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 #EXTINF:-1, MNX
