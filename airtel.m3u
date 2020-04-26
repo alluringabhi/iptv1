@@ -1,13 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
 https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-EXTINF:-1,STAR PLUS ND
-http://channels.ooguy.com:80/auth?channel=StarPlusIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-EXTINF:-1,STAR GOLD ND
-http://channels.ooguy.com:80/auth?channel=StarGoldHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-
 
 #EXTINF:-1,Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
@@ -27,7 +22,6 @@ http://bolly360.xyz/zee.php?c=zeetvhd
 
 #EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-http://channels.ooguy.com:80/auth?channel=StarBharatSdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
