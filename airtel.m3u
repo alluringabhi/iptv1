@@ -253,7 +253,24 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 
 #EXTINF:-1, Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
+#EXTINF:-1,UK: Sky Cinema Select
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/122|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Family
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/123|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/124|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Greats
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/125|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/126|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/127|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/128|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/129|User-agent="WSS_User_Agent_FREE1"
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/130|User-agent="WSS_User_Agent_FREE1"
 #EXTINF:-1,Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
 #EXTINF:-1,Dil Se
@@ -316,5 +333,3 @@ https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starpl
 #EXTINF:-1,Star Bharat FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 http://hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8|user-agent="Hotstar:in.startv.hotstar"
-#EXTINF:-1, ten 3
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/161|User-agent="WSS_User_Agent_FREE1"
