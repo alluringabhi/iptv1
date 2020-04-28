@@ -1,7 +1,14 @@
 #EXTM3U
-#EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Hindi",Star Plus HD
+
+#EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
+#EXTINF:-1,Star Bharat FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
+#EXTINF:-1,Star Gold FHD
+https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
+
+
 https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:0 tvg-id="1133" tvg-id="Star_Gold_HD_IND" tvg-logo="https://www.startv.com/media/3351/star-gold-hd_800x600.png" "Hindi",Star Gold HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
 #EXTINF:-1,Colors HD
@@ -20,9 +27,9 @@ http://bolly360.xyz/zee.php?c=andtvhd
 EXTINF:-1,Zee TV HD ND
 http://bolly360.xyz/zee.php?c=zeetvhd
 
-#EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
+EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
-#EXTINF:-1, Star Utsav
+EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 EXTINF:-1,&PictureHD ND
@@ -242,26 +249,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1, Fox Action Movies
+EXTINF:-1, Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1,UK: Sky Cinema Select
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/122|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Family
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/123|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/124|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Greats
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/125|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/126|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/127|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/128|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/129|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/130|User-agent="WSS_User_Agent_FREE1"
 
 #EXTINF:-1,Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -275,16 +264,7 @@ https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1,SkySports Main Event HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/70|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Cricket HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/69|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Action HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/68|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Golf HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/67|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Premier League HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/66|User-agent="WSS_User_Agent_FREE1"
+
 #EXTINF:-1,SkySports F1 HQ
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/65|User-agent="WSS_User_Agent_FREE1"
 #EXTINF:-1,WWE Network HD
@@ -301,7 +281,7 @@ http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/5|User-agent="WSS_U
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/4|User-agent="WSS_User_Agent_FREE1"
 #EXTINF:-1,SkySports Main Event
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/3|User-agent="WSS_User_Agent_FREE1"
-EXTINF:-1,Willow Cricket HD
+#EXTINF:-1,Willow Cricket HD
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/190|User-agent="WSS_User_Agent_FREE1"
 #EXTINF:-1,2g: Willow Cricket
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/191|User-agent="WSS_User_Agent_FREE1"
@@ -360,10 +340,4 @@ http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/7.0 (Linux;Android 7
 
 EXTINF:-1,Star Gold
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
-#EXTINF:-1,Star Gold FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
-#EXTINF:-1,Star Plus FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
-#EXTINF:-1,Star Bharat FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 http://hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8|user-agent="Hotstar:in.startv.hotstar"
