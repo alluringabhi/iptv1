@@ -35,7 +35,7 @@ http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|use
 
 EXTINF:-1,&PictureHD ND
 http://bolly360.xyz/zee.php?c=andpicshd
-#EXTINF:-1,Zee Cinema HD
+#EXTINF:-1,Zee Cinema ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemahd/playlist.m3u8
 http://bolly360.xyz/zee.php?c=zeecinemahd
 #EXTINF:-1,Zee Bollywood ND
@@ -56,7 +56,7 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
-#EXTINF:-1, UTV Movies
+#EXTINF:-1, UTV Movies ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 
 #EXTINF:-1, Manoranjan TV
@@ -224,8 +224,9 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-#EXTINF:-1  "Hindi",Star Movies 
+#EXTINF:-1  "Hindi",Star Movies ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
+#EXTINF:-1  "Hindi",Star Movies HD
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,HBO
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
@@ -347,13 +348,13 @@ http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1,Star Sports1 ND
 http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/7.0 (Linux;Android 7.0) ExoPlayerLib/2.7.3"
-#EXTINF:-1,Star Sports Select1
+#EXTINF:-1,Star Select1 ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
 
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1,Star Select2 ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
 
-#EXTINF:-1,Star Sports2
+#EXTINF:-1,Star Sports2 ND
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 EXTINF:-1,Star Gold
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
