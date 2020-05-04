@@ -95,11 +95,9 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 EXTINF:-1, 	Aaj Tak  
 https://vidcdn.vidgyor.com/at-origin/live2/chunks.m3u8
 #EXTINF:-1, Aajtak HD
-
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aajtakhdht_6/chunklist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aajtakhdht_6/chunklist.m3u8
 
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aajtakhdht_6/chunklist.m3u8|user-agent= "Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="hotstar:in.startv.hotstar"
 #EXTINF:-1, 	Aaj Tak Tej
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
