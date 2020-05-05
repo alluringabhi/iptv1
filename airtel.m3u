@@ -12,9 +12,10 @@ https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
 #EXTINF:-1,Colors HD
+http://45.120.188.219:80/0.ts
+http://103.111.120.46/hls/Colors.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-http://103.111.120.46/hls/Colors.m3u8
 
 #EXTINF:-1,Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -50,7 +51,9 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 EXTINF:-1,Zee Theatre
 http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
-#EXTINF:-1,STAR GOLD 2 
+#EXTINF:-1,Bindass
+http://45.120.188.65:8080/0.ts
+
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
@@ -60,7 +63,10 @@ http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
 #EXTINF:-1, Mahamovie
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
-
+#EXTINF:-1,Shemaroo Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
+#EXTINF:-1,N TV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 #EXTINF:-1,TATA SKY
@@ -105,6 +111,7 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklis
 #EXTINF:-1, 	Aaj Tak Tej
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, 	News Nation
+https://www.dailymotion.com/cdn/live/video/x7t0g3i.m3u8?sec=ubABHYTLWa3Kkn5tuz7eS79XAV2yvI-4aSLnREgwIfqm1nEdLtqmXCzqFWLqdwF12crBJtwT_2BlalvBN4EaWg
 https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUJYCGDWLDaPTNBqAus9u0c)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&qos_geostore=1
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
@@ -112,8 +119,7 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
 #EXTINF:-1, Zee News ND
 http://bolly360.xyz/zee.php?c=zeenews
 
-#EXTINF:-1, Sudarshan News
-http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
+
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
@@ -187,14 +193,14 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p2.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1, Sony BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-#EXTINF:-1,NatGeo Wild
+EXTINF:-1,NatGeo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,NatGeo People
+EXTINF:-1,NatGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
 #EXTINF:-1, History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, National Geographic
@@ -230,8 +236,8 @@ http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authoriza
 #EXTINF:-1,HBO
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Movies Now
-https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
 #EXTINF:-1, MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -248,7 +254,7 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 #EXTINF:-1, Zee Cafe HD ND
 http://bolly360.xyz/zee.php?c=zeecafehd
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
-#EXTINF:-1,COLORS INFINITY
+EXTINF:-1,COLORS INFINITY
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1, Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -295,121 +301,6 @@ http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/3|User-agent="WSS_U
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/190|User-agent="WSS_User_Agent_FREE1"
 #EXTINF:-1,2g: Willow Cricket
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/191|User-agent="WSS_User_Agent_FREE1"
-
-
-
-
-#EXTINF:-1,1-UK: CBS DRAMA
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/198|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: CBS REALITY
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/199|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: CHANNEL 4 HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/200|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: CHANNEL 5 HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/201|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: DISCOVERY H&H
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/202|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: DISCOVERY SCi
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/203|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: DISCOVERY TURBO
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/204|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: DMAX
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/205|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: DRAMA
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/206|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,1-UK: FILM 4
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/208|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: FOX NEWS
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/209|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MORE 4
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/210|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/211|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV BASE
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/212|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV CLASSICS
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/213|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV DANCE
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/214|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV HITS
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/215|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV MUSIC
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/216|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: MTV ROCKS
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/217|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: NAT GEO CHANNEL HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/218|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: NICK JR KD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/219|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: NICK JR TOO KD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/220|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: PICK TV
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/221|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,1-UK: RACING HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/223|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: REALLY
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/224|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,1-UK: SONY CHANNEL
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/226|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: TCM HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/227|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,1-UK: TRUE MOVIES 1
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/228|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,2-UK: BBC PARLIMENT
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/230|User-agent="WSS_User_Agent_FREE1"
-
-
-#EXTINF:-1,2-UK: COMEDY CENTRAL EXTRA
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/233|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: CRIME AND INVESTIGATION HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/234|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,2-UK: FOOD NETWORK
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/236|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: FOX
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/237|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,2-UK: HISTORY
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/239|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: HISTORY 2
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/240|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: HORROR CHANNEL
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/241|User-agent="WSS_User_Agent_FREE1"
-
-
-#EXTINF:-1,2-UK: SKY ARTS
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/246|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: SKY ATLANTIC
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/247|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: SKY LIVING
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/248|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,2-UK: TLC
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/254|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2-UK: TRAVEL CHANNEL
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/255|User-agent="WSS_User_Agent_FREE1"
-
-
-#EXTINF:-1,3-UK: CBS ACTION
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/270|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,3-UK: COMEDY CENTRAL
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/272|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,3-UK: DISCOVERY HISTORY
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/274|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,3-UK: DISCOVERY TV
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/275|User-agent="WSS_User_Agent_FREE1"
-
-#EXTINF:-1,3-UK: DISNEY XD HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/278|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,3-UK: TINY POP
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/283|User-agent="WSS_User_Agent_FREE1"
-
 
 
 #EXTINF:-1,Artist Aloud
