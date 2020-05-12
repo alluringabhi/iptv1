@@ -87,7 +87,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
-#EXTINF:-1,Disney
+EXTINF:-1,Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
@@ -110,7 +110,7 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aaj
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="hotstar:in.startv.hotstar"
 #EXTINF:-1, 	Aaj Tak Tej
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
-#EXTINF:-1, 	News Nation
+EXTINF:-1, 	News Nation
 https://www.dailymotion.com/cdn/live/video/x7t0g3i.m3u8?sec=ubABHYTLWa3Kkn5tuz7eS79XAV2yvI-4aSLnREgwIfqm1nEdLtqmXCzqFWLqdwF12crBJtwT_2BlalvBN4EaWg
 https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUJYCGDWLDaPTNBqAus9u0c)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&qos_geostore=1
 https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
@@ -123,6 +123,8 @@ http://bolly360.xyz/zee.php?c=zeenews
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
+https://webliverb.republicworld.com/live/bharat_hls/masterlive_234p.m3u8
+
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 #EXTINF:-1, 	NDTV India
@@ -234,6 +236,8 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 #EXTINF:-1  "Hindi",Star Movies HD
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,HBO
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; POCO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36
+
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -330,6 +334,8 @@ http://95.211.254.11:44477/vh1/mpegts
 https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
 
 #EXTINF:-1, PTC Gold
+http://tv.castawaytv.club:83/51839784/71484553/379988
+
 http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
 
 #EXTINF:-1, Q Tv
