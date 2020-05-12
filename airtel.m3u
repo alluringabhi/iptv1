@@ -71,7 +71,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
-#EXTINF:-1,TATA SKY
+EXTINF:-1,TATA SKY
 http://45.120.188.56:8080/0.ts
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
@@ -255,6 +255,8 @@ http://bolly360.xyz/zee.php?c=zeecafehd
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1, Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1,starworld HD
+http://185.246.209.251:9090/starworld/index.m3u8?token=test
 #EXTINF:-1, 	Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
 #EXTINF:-1, Star World
