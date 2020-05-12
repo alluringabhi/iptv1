@@ -26,7 +26,8 @@ http://bolly360.xyz/zee.php?c=andtvsd
 http://45.120.188.76:8080/0.ts
 http://bolly360.xyz/zee.php?c=andtvhd
 
-EXTINF:-1,Zee TV HD ND
+#EXTINF:-1,Zee TV HD ND
+http://tv.flametv.design/zee5.php?c=zeetvhd
 http://bolly360.xyz/zee.php?c=zeetvhd
 
 EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
@@ -65,8 +66,7 @@ http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
 #EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
-#EXTINF:-1,N TV MOVIES
-http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 #EXTINF:-1,TATA SKY
@@ -87,8 +87,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
-EXTINF:-1,Disney
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 
@@ -103,18 +102,11 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_4
 https://vidcdn.vidgyor.com/at-origin/live2/chunks.m3u8
 #EXTINF:-1, Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aajtakhdht_6/chunklist.m3u8
-
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakhdht/aajtakhdhtlive/aajtakhdht_6/chunklist.m3u8|user-agent= "Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="hotstar:in.startv.hotstar"
 #EXTINF:-1, 	Aaj Tak Tej
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 EXTINF:-1, 	News Nation
-https://www.dailymotion.com/cdn/live/video/x7t0g3i.m3u8?sec=ubABHYTLWa3Kkn5tuz7eS79XAV2yvI-4aSLnREgwIfqm1nEdLtqmXCzqFWLqdwF12crBJtwT_2BlalvBN4EaWg
-https://stream-03.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUJYCGDWLDaPTNBqAus9u0c)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&qos_geostore=1
-https://newsnation-i.akamaihd.net/hls/live/681878-b/newsnation04122019/master_2000k.m3u8
-https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+http://bolly360.xyz/zee.php?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:-1, Zee News ND
 http://bolly360.xyz/zee.php?c=zeenews
@@ -123,6 +115,7 @@ http://bolly360.xyz/zee.php?c=zeenews
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 https://webliverb.republicworld.com/live/bharat_hls/masterlive_234p.m3u8
 
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
@@ -198,9 +191,9 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-EXTINF:-1,NatGeo Wild
+#EXTINF:-1,NatGeo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-EXTINF:-1,NatGeo People
+#EXTINF:-1,NatGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1, History 2
@@ -213,8 +206,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1,Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, 	Sanskaar
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
@@ -233,12 +225,15 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-#EXTINF:-1  "Hindi",Star Movies HD
+#EXTINF:-1  "Hindi",Star Movies
+http://tv.castawaytv.club:83/51839784/71484553/379956
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1  "Hindi",Star Movies HD
+http://tv.castawaytv.club:83/51839784/71484553/379957
 #EXTINF:-1,HBO
-http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1933.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
+http://tv.castawaytv.club:83/51839784/71484553/379964.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 
-http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
@@ -257,8 +252,7 @@ http://bolly360.xyz/zee/get.php?c=andprivehd
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe HD ND
 http://bolly360.xyz/zee.php?c=zeecafehd
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3u8
-EXTINF:-1,COLORS INFINITY
+#EXTINF:-1,COLORS INFINITY
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1, Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -269,8 +263,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-EXTINF:-1, Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
 
 #EXTINF:-1,Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -358,3 +351,21 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 EXTINF:-1,Star Goldy
 http://hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8|user-agent="Hotstar:in.startv.hotstar"
 http://sbglrecdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: STAR SPORTS 1 HD
+http://tv.castawaytv.club:83/51839784/71484553/380056
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: STAR SPORTS 2 HD
+http://tv.castawaytv.club:83/51839784/71484553/380055
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: STAR SPORTS 3 HD
+http://tv.castawaytv.club:83/51839784/71484553/380054
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: STAR SPORTS 4 HD
+http://tv.castawaytv.club:83/51839784/71484553/380053
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports1-SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: Star Sports1-SD
+http://tv.castawaytv.club:83/51839784/71484553/379934
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports2-SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: Star Sports2-SD
+http://tv.castawaytv.club:83/51839784/71484553/379933
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Bindass" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: UTV Bindass
+http://tv.castawaytv.club:83/51839784/71484553/379928
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: UTV MOVIES
+http://tv.castawaytv.club:83/51839784/71484553/379927
+#EXTINF:-1 tvg-id="" tvg-name="IN: VIP Star Movies select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="INDIA",IN: VIP Star Movies select HD
+http://tv.castawaytv.club:83/51839784/71484553/379965
