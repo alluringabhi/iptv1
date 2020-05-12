@@ -236,7 +236,7 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 #EXTINF:-1  "Hindi",Star Movies HD
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1,HBO
-http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; POCO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36
+http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 
 http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1, Movies Now
