@@ -26,7 +26,8 @@ http://bolly360.xyz/zee.php?c=andtvsd
 http://45.120.188.76:8080/0.ts
 http://bolly360.xyz/zee.php?c=andtvhd
 
-EXTINF:-1,Zee TV HD ND
+#EXTINF:-1,Zee TV HD 
+http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 http://tv.flametv.design/zee5.php?c=zeetvhd
 http://bolly360.xyz/zee.php?c=zeetvhd
 
@@ -59,8 +60,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
-#EXTINF:-1, Colors Cineplex
-http://tv.castawaytv.club:83/51839784/71484553/379988
+
 
 #EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
@@ -148,14 +148,14 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
 #EXTINF:0 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" "News",Et Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:0 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" "News",Mirror Now
+#EXTINF:0 ,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-#EXTINF:0 tvg-id="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" "News",Times Now HD
+#EXTINF:0 ,Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" "News",NDTV Profit
+#EXTINF:0 ,NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
-#EXTINF:0 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" "News",NDTV 24x7
+#EXTINF:0 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:-1 , Lok Sabha
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
