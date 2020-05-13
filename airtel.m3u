@@ -7,14 +7,13 @@ https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbh
 #EXTINF:-1,Star Gold FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
-
 https://starplushd-i.akamaihd.net:443/hls/live/569928-b/starplushd/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 
 #EXTINF:-1,Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://45.120.188.219:80/0.ts
 http://103.111.120.46/hls/Colors.m3u8
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
@@ -23,6 +22,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 http://bolly360.xyz/zee.php?c=andtvsd
 
 #EXTINF:-1, And TV HD 
+https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
+
 http://45.120.188.76:8080/0.ts
 http://bolly360.xyz/zee.php?c=andtvhd
 
