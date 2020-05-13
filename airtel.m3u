@@ -27,7 +27,8 @@ http://45.120.188.76:8080/0.ts
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
 http://bolly360.xyz/zee.php?c=andtvhd
 
-#EXTINF:-1,Zee TV HD 
+#EXTINF:-1,Zee TV Native Decoder
+http://tv.flametv.design/zee5.php?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
 http://tv.flametv.design/zee5.php?c=zeetvhd
@@ -41,7 +42,8 @@ http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|use
 #EXTINF:-1,&PictureHD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 http://bolly360.xyz/zee.php?c=andpicshd
-#EXTINF:-1,Zee Cinema 
+#EXTINF:-1,Zee Cinema Native Decoder
+http://tv.flametv.design/zee5.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 http://bolly360.xyz/zee.php?c=zcinemahd
 #EXTINF:-1,Zee Bollywood 
@@ -239,6 +241,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
 EXTINF:-1  "Hindi",Star Movies
+http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
 
 #EXTINF:-1,HBO
