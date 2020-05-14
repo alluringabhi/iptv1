@@ -368,6 +368,6 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,Star Goldy
-http://tamilgo.com/tamilip/getplay.php?id=25760&e=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-1,Star Go
+http://tamilgo.com/tamilip/getplay.php?id=25760&e=.m3u8&uid=49&pid=133&visitorId=f8abc9d640fa035d&fvts=1588667266&vc=2&idn=0&refts=0&lvts=1589365775&fullRef=www.tamilgo.com%2F&send_image=1&pdf=1&qt=0&rp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=1366x768&gtms=2018&pvId=GGE67M&browser=Chrome_81&os=Windows_10&device=Desktop|user-agent=Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 
