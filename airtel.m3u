@@ -25,7 +25,7 @@ http://bolly360.xyz/zee.php?c=andtvsd
 #EXTINF:-1, And TV HD 
 http://45.120.188.76:8080/0.ts
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=andtvhd
+http://tv.flametv.design/zeee.m3u8?c=andtvhd
 
 #EXTINF:-1,Zee TV
 http://tv.flametv.design/zeee.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
@@ -39,36 +39,39 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-#EXTINF:-1,&PictureHD
+EXTINF:-1,&Picture 
+http://tv.flametv.design/zeee.m3u8?c=andpicshd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=andpicshd
+http://tv.flametv.design/zeee.m3u8?c=andpicshd
 
 #EXTINF:-1,Zee Cinema
 http://tv.flametv.design/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=zcinemahd
+http://tv.flametv.design/zeee.m3u8?c=zcinemahd
+
 #EXTINF:-1,Zee Bollywood 
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=classic
+http://tv.flametv.design/zeee.m3u8?c=classic
+
 #EXTINF:-1,AND PICTURES 
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=andpicssd
+http://tv.flametv.design/zeee.m3u8?c=andpicssd
 EXTINF:-1, &Explore HD 
-http://bolly360.xyz/zee.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 
 #EXTINF:-1,Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-EXTINF:-1,Zee Theatre
-http://bolly360.xyz/zee.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
+#EXTINF:-1,Zee Theatre
+http://tv.flametv.design/zeee.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 #EXTINF:-1,Bindass
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-http://bolly360.xyz/zee.php?c=out/v1/71d7807e101d470fbac38441de9c674e
+http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 
 
 #EXTINF:-1, Manoranjan TV
@@ -88,7 +91,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=bigmagic
+http://tv.flametv.design/zeee.m3u8?c=bigmagic
 #EXTINF:-1,Cartoon Network
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
@@ -121,11 +124,11 @@ https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 https://feeds.intoday.in/aajtak/api/dat/master.m3u8
 #EXTINF:-1, 	News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
-http://bolly360.xyz/zee.php?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
+http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:-1, Zee News
+http://tv.flametv.design/zeee.m3u8?c=zeenews
 https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=zeenews
 
 
 #EXTINF:-1, 	News 24
@@ -182,11 +185,9 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, DD Bharati ND
 http://tv.flametv.design/zeee.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
 
-
 #EXTINF:-1, DD National ND
 http://tv.flametv.design/zeee.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-
 
 #EXTINF:-1,TLC 
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
@@ -233,7 +234,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya ND
-http://cv.khushitv.xyz/channels.php?c=divyatv
+http://tv.flametv.design/zeee.m3u8?c=divyatv
 #EXTINF:-1,Ishwar
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
 #EXTINF:-1,Katyayani
@@ -241,7 +242,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-#EXTINF:-1  "Hindi",Star Movies
+EXTINF:-1  "Hindi",Star Movies
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
 
@@ -261,16 +262,16 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee.php?c=andflixhd
+http://tv.flametv.design/zeee.m3u8?c=andflixhd
 #EXTINF:-1,&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-http://bolly360.xyz/zee/get.php?c=andprivehd
+http://tv.flametv.design/zeee.m3u8?c=andprivehd
 #EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+http://tv.flametv.design/zeee.m3u8?c=zeecafehd
 
-http://bolly360.xyz/zee.php?c=zeecafehd
 #EXTINF:-1,COLORS INFINITY
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1, Star World
@@ -367,7 +368,7 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,Star Goldy
+EXTINF:-1,Star Goldy
 http://tv.flametv.design/zeee.m3u8?c=out/v1/4bed868c22f0449a8489fda12186b85a
 
 http://hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master.m3u8|user-agent="Hotstar:in.startv.hotstar"
