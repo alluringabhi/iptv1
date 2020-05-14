@@ -130,7 +130,8 @@ http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 http://tv.flametv.design/zeee.m3u8?c=zeenews
 https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
 
-
+#EXTINF:-1, Tv9 Bharatvarsh
+http://tv.flametv.design/zeee.m3u8?c=out/v1/a4d6c601df89461d9ca297aca6579d3b
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
@@ -207,6 +208,8 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1,Travelxp
+https://sony247channels.akamaized.net/hls/live/2008247/TravelxpHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,NatGeo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
@@ -321,21 +324,24 @@ http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/190|User-agent="WSS
 #EXTINF:-1,2g: Willow Cricket
 http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/191|User-agent="WSS_User_Agent_FREE1"
 
-
-#EXTINF:-1,Artist Aloud
-https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/index_828_av-p.m3u8
-#EXTINF:-1,Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8
-#EXTINF:-1,Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_828_av-p.m3u8
-
+#EXTINF:-1, Sony Mix
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1, 9xm
+http://tv.flametv.design/zeee.m3u8?c=9xm
+#EXTINF:-1, 9xjalwa
+http://tv.flametv.design/zeee.m3u8?c=9xjalwa
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,  Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-
+#EXTINF:-1,Artist Aloud
+https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/index_828_av-p.m3u8
+#EXTINF:-1,Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8
+#EXTINF:-1,Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_828_av-p.m3u8
 #EXTINF:-1,Hit Music
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,NRJ Hits
@@ -368,6 +374,5 @@ http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,Star Go
-http://tamilgo.com/tamilip/getplay.php?id=25760&e=.m3u8&uid=49&pid=133&visitorId=f8abc9d640fa035d&fvts=1588667266&vc=2&idn=0&refts=0&lvts=1589365775&fullRef=www.tamilgo.com%2F&send_image=1&pdf=1&qt=0&rp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=1366x768&gtms=2018&pvId=GGE67M&browser=Chrome_81&os=Windows_10&device=Desktop|user-agent=Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
 
