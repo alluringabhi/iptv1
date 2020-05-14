@@ -17,7 +17,6 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And TV
 http://tv.flametv.design/zeee.m3u8?c=andtvsd
-
 https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, And TV HD 
@@ -241,11 +240,13 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-EXTINF:-1  "Hindi",Star Movies
+#EXTINF:-1  "Hindi",Star Movies
+http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
 
-EXTINF:-1,HBO
+#EXTINF:-1,HBO
+http://202.163.117.6:9981/stream/channelid/1860181278
 http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 
 #EXTINF:-1, Movies Now
