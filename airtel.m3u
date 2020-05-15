@@ -94,10 +94,10 @@ http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
-#EXTINF:-1,Disney
-http://202.163.117.6:9981/stream/channelid/349051393.m3u8?profile=pass|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
-#EXTINF:-1,Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196.m3u8?profile=pass|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
+#EXTINF:-1,Disney (Auto Decoder)
+http://202.163.117.6:9981/stream/channelid/349051393?profile=pass|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
+#EXTINF:-1,Hungama (Auto Decoder)
+http://202.163.117.6:9981/stream/channelid/1357890196?profile=pass|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:0 "Kids",Boomerang
@@ -250,7 +250,7 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
 
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO (Auto Decoder)
 http://202.163.117.6:9981/stream/channelid/1860181278
 http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 
