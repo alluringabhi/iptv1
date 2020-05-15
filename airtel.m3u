@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 #EXTINF:-1,Star Bharat FHD
@@ -93,6 +94,10 @@ http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
+#EXTINF:-1,Disney
+http://202.163.117.6:9981/stream/channelid/349051393?profile=pass|User-Agent=VGConnect/4.3.22596 (Windows NT 6.2)
+#EXTINF:-1,Hugama
+http://202.163.117.6:9981/stream/channelid/1357890196?profile=webtv-h264-aac-matroska
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:0 "Kids",Boomerang
