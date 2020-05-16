@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus
+http://175.41.46.16:8081/hls/1.m3u8
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
