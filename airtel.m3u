@@ -71,7 +71,12 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
-
+#EXTINF:-1 , STAR GOLD SELECT HD
+http://sansat.net:25461/027070044405/V9Jm9EBhFw/53850|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
+#EXTINF:-1 , UTV HD
+http://sansat.net:25461/027070044405/V9Jm9EBhFw/53937|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
+#EXTINF:-1 , UTV ACTION
+http://sansat.net:25461/027070044405/V9Jm9EBhFw/53936|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
 
 #EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
@@ -254,7 +259,8 @@ http://tv.castawaytv.club:83/51839784/71484553/379956
 EXTINF:-1,HBO
 http://a1.hdflix.live:8880/live/LZLM5786/Akk60pCne2/1930.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://202.163.117.6:9981/stream/channelid/1860181278?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
-
+#EXTINF:-1 , HBO INDIA HD
+http://sansat.net:25461/027070044405/V9Jm9EBhFw/54423|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1, Movies Now HD
