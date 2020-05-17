@@ -6,6 +6,11 @@ http://185.246.209.251:9090/starplus/index.m3u8?token=test
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 #EXTINF:-1,Star Bharat FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
+
+#EXTINF:-1,Star Gold
+
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 #EXTINF:-1,Star Gold FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
