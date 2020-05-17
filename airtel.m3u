@@ -250,7 +250,7 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
 
-#EXTINF:-1,HBO
+EXTINF:-1,HBO
 http://202.163.117.6:9981/stream/channelid/1860181278?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
 EXTINF:-1 , HBO INDIA HD
 http://sansat.net:25461/027070044405/V9Jm9EBhFw/54423|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
