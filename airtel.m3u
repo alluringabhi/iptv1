@@ -380,3 +380,7 @@ http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
+#EXTINF:-1, test 1
+http://tv.flametv.design/swift.php?cat_id=2&sid=2189&e.m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1, test 2
+http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
