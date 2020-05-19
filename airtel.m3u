@@ -95,7 +95,7 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 #EXTINF:-1, Big Magic
 http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Cartoon Network
+EXTINF:-1,Cartoon Network
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
@@ -124,7 +124,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_4
 https://vidcdn.vidgyor.com/at-origin/live2/chunks.m3u8
 #EXTINF:-1, Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1, 	Aaj Tak Tej
+EXTINF:-1, 	Aaj Tak Tej
 https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1, Delhi	Aaj Tak
@@ -203,6 +203,8 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, Discovery
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
+#EXTINF:-1, History
+https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 
 #EXTINF:-1, Animal Planet HD
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
@@ -364,23 +366,23 @@ http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_
 
 #EXTINF:-1, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1,HUM TV HD
+EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
 #EXTINF:-1, 92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1, Dawn News
+EXTINF:-1, Dawn News
 http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-#EXTINF:-1, Play Tv
+EXTINF:-1, Play Tv
 http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
-#EXTINF:-1, Express Tv
+EXTINF:-1, Express Tv
 http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
-#EXTINF:-1, Khyber Tv
+EXTINF:-1, Khyber Tv
 http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
 #EXTINF:-1, test 1
 http://tv.flametv.design/swift.php?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1, test 2
+EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
