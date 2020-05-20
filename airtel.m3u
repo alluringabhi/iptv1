@@ -38,9 +38,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
 http://tv.flametv.design/zee5.php?c=zeetvhd
 http://bolly360.xyz/zee.php?c=zeetvhd
 
-#EXTINF:-1, Star Gold Select
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=2733&e.m3u8 |user-agent=SWIFTAGENT V1.1
-
 EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
 EXTINF:-1, Star Utsav
@@ -98,6 +95,11 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 #EXTINF:-1, Big Magic
 http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Disney
+http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e.m3u8 |user-agent=SWIFTAGENT V1.1
+
+
 EXTINF:-1,Cartoon Network
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
