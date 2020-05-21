@@ -272,6 +272,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
 #EXTINF:-1  "Hindi",Star Movies
+http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
 http://tv.castawaytv.club:83/51839784/71484553/379956
@@ -385,19 +386,9 @@ http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_
 
 #EXTINF:-1, Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-EXTINF:-1,HUM TV HD
-https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
+
 #EXTINF:-1, 92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-EXTINF:-1, Dawn News
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-EXTINF:-1, Play Tv
-http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
-EXTINF:-1, Express Tv
-http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
-EXTINF:-1, Khyber Tv
-http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 
@@ -405,59 +396,3 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  296
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=296&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  3188
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=3188&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  456
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=456&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  3133
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=3133&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  143
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=143&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  3155
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=3155&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  157
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=157&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  162
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=162&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  3143
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=3143&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  195
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=195&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  472
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=472&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  207
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=207&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  216
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=216&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2275
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=2275&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  230
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=230&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  205
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=205&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  291
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=291&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  293
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=293&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  433
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=433&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  1292
-http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  290
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=290&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  237
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=237&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  222
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=222&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2956
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2956&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2957
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2957&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2960
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2962
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2962&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  2959
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2959&e=m3u8|user-agent=SWIFTAGENT V1.1
