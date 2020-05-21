@@ -391,8 +391,24 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1,  star sports select 2
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2956&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports select 1
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2957&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  sharnam
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports 2 hd
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2962&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports 1 hd
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2959&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports 1 sd
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2958&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports hindi sd
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2964&e=m3u8|user-agent=SWIFTAGENT V1.1
+#EXTINF:-1,  star sports hindi hd
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 
-#EXTINF:-1, test 1
+EXTINF:-1, test 1
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
