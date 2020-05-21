@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus FHD
@@ -110,7 +111,7 @@ http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, Disney
-http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e.m3u8 |user-agent=SWIFTAGENT V1.1
+http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e.m3u8|user-agent=SWIFTAGENT V1.1
 
 
 EXTINF:-1,Cartoon Network
