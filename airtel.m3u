@@ -271,7 +271,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-#EXTINF:-1  "Hindi",Star Movies
+EXTINF:-1  "Hindi",Star Movies
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
@@ -405,8 +405,7 @@ http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2959&e=m3u8|user-agent=SWIFTAGE
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2958&e=m3u8|user-agent=SWIFTAGENT V1.1
 #EXTINF:-1,  star sports hindi sd
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2964&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  star sports hindi hd
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
+
 
 EXTINF:-1, test 1
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
