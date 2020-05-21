@@ -9,9 +9,7 @@ https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starpl
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 
 #EXTINF:-1,Star Gold
-
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
 #EXTINF:-1,Star Gold FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
@@ -28,14 +26,15 @@ http://tv.flametv.design/zeee.m3u8?c=andtvsd
 https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, And TV HD 
+http://tv.flametv.design/zeee.m3u8?c=andtvhd
 http://45.120.188.76:8080/0.ts
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
-http://tv.flametv.design/zeee.m3u8?c=andtvhd
 
 #EXTINF:-1,Zee TV
 http://tv.flametv.design/zeee.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee TV HD
 http://tv.flametv.design/zee5.php?c=zeetvhd
 http://bolly360.xyz/zee.php?c=zeetvhd
 
@@ -47,21 +46,21 @@ http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|use
 EXTINF:-1,&Picture 
 http://tv.flametv.design/zeee.m3u8?c=andpicshd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+EXTINF:-1,&Picture HD
 http://tv.flametv.design/zeee.m3u8?c=andpicshd
 
 #EXTINF:-1,Zee Cinema
 http://tv.flametv.design/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema HD
 http://tv.flametv.design/zeee.m3u8?c=zcinemahd
 
 #EXTINF:-1,Zee Bollywood 
 http://tv.flametv.design/zeee.m3u8?c=classic
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,AND PICTURES 
-http://tv.flametv.design/zeee.m3u8?c=andpicssd
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
-EXTINF:-1, &Explore HD 
+
+#EXTINF:-1, &Explore HD 
 http://tv.flametv.design/zeee.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 
 #EXTINF:-1,Sony Max HD
@@ -75,8 +74,11 @@ http://45.120.188.65:8080/0.ts
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic ND
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+
+#EXTINF:-1, Star Gold Select
+https://us.finetv.xyz:443/auth?channel=StarGoldSelectIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
 
 #EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
@@ -86,15 +88,12 @@ http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 
 #EXTINF:-1, UTV HD
-
 http://tv.flametv.design/swift.m3u8?cat_id=2&sid=290&e.m3u8|user-agent=SWIFTAGENT V1.1
 
 #EXTINF:-1,UTV Movies
-
 http://tv.flametv.design/swift.m3u8?cat_id=2&sid=291&e.m3u8|user-agent=SWIFTAGENT V1.1
 
 #EXTINF:-1,UTV Action
-
 http://tv.flametv.design/swift.m3u8?cat_id=2&sid=293&e.m3u8|user-agent=SWIFTAGENT V1.1
 
 
@@ -113,9 +112,6 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1, Disney
 http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e.m3u8|user-agent=SWIFTAGENT V1.1
 
-
-EXTINF:-1,Cartoon Network
-https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,POGO
 http://45.120.188.207:80/0.ts
 EXTINF:-1,Disney (Auto Decoder)
@@ -180,8 +176,6 @@ https://hshlsdai-i.akamaihd.net/hls/live/568572-b/hsrepublic06122019/chunklist_2
 #EXTINF:-1, 	NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
-#EXTINF:0 "News",Bloomberg Quint
-https://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_6.m3u8
 #EXTINF:0 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" "News",CNBC TV 18 D
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
@@ -310,14 +304,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1,starworld HD
 http://185.246.209.251:9090/starworld/index.m3u8?token=test
-#EXTINF:-1, 	Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
-#EXTINF:-1, Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
 
 #EXTINF:-1,Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -395,8 +384,7 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2956&e=m3u8|user-agent=SWIFTAGENT V1.1
 #EXTINF:-1,  star sports select 1
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2957&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  sharnam
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
+
 #EXTINF:-1,  star sports 2 hd
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2962&e=m3u8|user-agent=SWIFTAGENT V1.1
 #EXTINF:-1,  star sports 1 hd
@@ -406,7 +394,8 @@ http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2958&e=m3u8|user-agent=SWIFTAGE
 #EXTINF:-1,  star sports hindi sd
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2964&e=m3u8|user-agent=SWIFTAGENT V1.1
 
-
+#EXTINF:-1,  sharnam
+http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 1
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 2
