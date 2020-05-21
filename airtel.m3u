@@ -84,6 +84,19 @@ http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8
 #EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 
+#EXTINF:-1, UTV HD
+
+http://tv.flametv.design/swift.m3u8?cat_id=2&sid=290&e.m3u8
+
+#EXTINF:-1,UTV Movies
+
+http://tv.flametv.design/swift.m3u8?cat_id=2&sid=291&e.m3u8
+
+#EXTINF:-1,UTV Action
+
+http://tv.flametv.design/swift.m3u8?cat_id=2&sid=293&e.m3u8
+
+
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 EXTINF:-1,TATA SKY
