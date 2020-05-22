@@ -77,25 +77,12 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
-#EXTINF:-1, Star Gold Select
-https://us.finetv.xyz:443/auth?channel=StarGoldSelectIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-
 #EXTINF:-1, Manoranjan TV
 http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8 
 #EXTINF:-1, Mahamovie
 http://streamidvo.multitvsolution.in/live/MahaMovie-a/p4.m3u8 
 #EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
-
-#EXTINF:-1, UTV HD
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=290&e.m3u8|user-agent=SWIFTAGENT V1.1
-
-#EXTINF:-1,UTV Movies
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=291&e.m3u8|user-agent=SWIFTAGENT V1.1
-
-#EXTINF:-1,UTV Action
-http://tv.flametv.design/swift.m3u8?cat_id=2&sid=293&e.m3u8|user-agent=SWIFTAGENT V1.1
-
 
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
@@ -109,7 +96,7 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 http://tv.flametv.design/zeee.m3u8?c=bigmagic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, Disney
+EXTINF:-1, Disney
 http://tv.flametv.design/swift.m3u8?cat_id=15&sid=1292&e.m3u8|user-agent=SWIFTAGENT V1.1
 
 #EXTINF:-1,POGO
@@ -120,7 +107,7 @@ EXTINF:-1,Hungama (Auto Decoder)
 http://202.163.117.6:9981/stream/channelid/1357890196?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:0 "Kids",Boomerang
+EXTINF:0 "Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:0 "Kids",Kids Central
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
@@ -236,13 +223,13 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NatGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
-#EXTINF:-1, History 2
+EXTINF:-1, History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
-#EXTINF:-1, National Geographic
+EXTINF:-1, National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
-#EXTINF:-1 , National Geo Wild
+EXTINF:-1 , National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1 , National Geo People
+EXTINF:-1 , National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
