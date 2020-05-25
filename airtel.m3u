@@ -383,7 +383,10 @@ http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2964&e=m3u8|user-agent=SWIFTAGE
 
 #EXTINF:-1,  sharnam
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
-EXTINF:-1, test 1
+#EXTINF:-1, test 1
+
+http://sklktcdnems06.cdnsrv.jio.com//jiotv.live.cdn.jio.com/packagerx_mpd3/Colors_HD_HLS/5.m3u8?jct=Id5BVd7iWYy-T5hN4K-9Jw&pxe=1590398502&st=9p-O_v1qIyd6E-rf8_gEOQ|user-agent=jiotv
+
 http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
