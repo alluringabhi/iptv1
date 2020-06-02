@@ -43,13 +43,13 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-EXTINF:-1,&Picture 
+#EXTINF:-1,&Picture 
 http://tv.flametv.design/zeee.m3u8?c=andpicshd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-EXTINF:-1,&Picture HD
-http://tv.flametv.design/zeee.m3u8?c=andpicshd
+#EXTINF:-1,&Picture 
+http://tv.flametv.design/zeee.m3u8?c=andpicssd
 
-#EXTINF:-1,Zee Cinema
+EXTINF:-1,Zee Cinema
 http://tv.flametv.design/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema HD
@@ -73,7 +73,7 @@ http://tv.flametv.design/zeee.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1, Epic ND
+#EXTINF:-1, Epic
 http://tv.flametv.design/zeee.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
@@ -107,14 +107,10 @@ EXTINF:-1,Hungama (Auto Decoder)
 http://202.163.117.6:9981/stream/channelid/1357890196?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-EXTINF:0 "Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
-#EXTINF:0 "Kids",Kids Central
-https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
-
 #EXTINF:-1, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-
+#EXTINF:-1, Nickelodeon
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, India TV
@@ -223,14 +219,6 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NatGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
-EXTINF:-1, History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
-EXTINF:-1, National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
-EXTINF:-1 , National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-EXTINF:-1 , National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
@@ -367,26 +355,6 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,  star sports select 2
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2956&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  star sports select 1
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2957&e=m3u8|user-agent=SWIFTAGENT V1.1
 
-#EXTINF:-1,  star sports 2 hd
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2962&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  star sports 1 hd
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2959&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  star sports 1 sd
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2958&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1,  star sports hindi sd
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2964&e=m3u8|user-agent=SWIFTAGENT V1.1
-
-#EXTINF:-1,  sharnam
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2960&e=m3u8|user-agent=SWIFTAGENT V1.1
-#EXTINF:-1, test 1
-
-http://sklktcdnems06.cdnsrv.jio.com//jiotv.live.cdn.jio.com/packagerx_mpd3/Colors_HD_HLS/5.m3u8?jct=Id5BVd7iWYy-T5hN4K-9Jw&pxe=1590398502&st=9p-O_v1qIyd6E-rf8_gEOQ|user-agent=jiotv
-
-http://tv.flametv.design/swift.m3u8?cat_id=8&sid=2965&e=m3u8|user-agent=SWIFTAGENT V1.1
 EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
