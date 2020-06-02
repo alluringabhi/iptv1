@@ -364,14 +364,7 @@ https://us.finetv.xyz:443/auth?channel=Utv&type=index.m3u8&authorization=YWxsdXR
 https://us.finetv.xyz:443/auth?channel=UtvMovies&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
 #EXTINF:-1 ,UTV ACTION
 https://us.finetv.xyz:443/auth?channel=UtvAction&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,STAR SPORTS 1
-https://us.finetv.xyz:443/auth?channel=StarSports1&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,STAR SPORTS SELECT 1
-https://us.finetv.xyz:443/auth?channel=StarSportsSelect1&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,STAR SPORTS 2
-https://us.finetv.xyz:443/auth?channel=StarSports2&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,STAR SPORTS SELECT 2
-https://us.finetv.xyz:443/auth?channel=StarSportsSelect2&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+
 
 
 EXTINF:-1, test 2
