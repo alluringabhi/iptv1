@@ -240,7 +240,8 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-EXTINF:-1  "Hindi",Star Movies
+#EXTINF:-1  "Hindi",Star Movies
+https://us.finetv.xyz:443/auth?channel=StarMoviesIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
@@ -355,6 +356,23 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1 ,STAR GOLD SELECT
+https://us.finetv.xyz:443/auth?channel=StarGoldSelectIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,UTV
+https://us.finetv.xyz:443/auth?channel=Utv&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,UTV MOVIES
+https://us.finetv.xyz:443/auth?channel=UtvMovies&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,UTV ACTION
+https://us.finetv.xyz:443/auth?channel=UtvAction&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,STAR SPORTS 1
+https://us.finetv.xyz:443/auth?channel=StarSports1&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,STAR SPORTS SELECT 1
+https://us.finetv.xyz:443/auth?channel=StarSportsSelect1&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,STAR SPORTS 2
+https://us.finetv.xyz:443/auth?channel=StarSports2&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+#EXTINF:-1 ,STAR SPORTS SELECT 2
+https://us.finetv.xyz:443/auth?channel=StarSportsSelect2&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
+
 
 EXTINF:-1, test 2
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
