@@ -192,6 +192,8 @@ http://tv.flametv.design/zeee.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
 #EXTINF:-1, DD National 
 http://tv.flametv.design/zeee.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1, DD Retro
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8
 
 #EXTINF:-1,TLC 
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
