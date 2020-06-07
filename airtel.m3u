@@ -243,7 +243,6 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
 #EXTINF:-1  "Hindi",Star Movies
-https://us.finetv.xyz:443/auth?channel=StarMoviesIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 http://175.41.46.16:8081/hls/2.m3u8
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/1896.m3u8|User-Agent=VLC/3.0.7.1 LibVLC/3.0.7.1
@@ -251,7 +250,7 @@ http://tv.castawaytv.club:83/51839784/71484553/379956
 
 EXTINF:-1,HBO
 http://202.163.117.6:9981/stream/channelid/1860181278?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
-EXTINF:-1 , HBO INDIA HD
+#EXTINF:-1 , HBO INDIA HD
 http://sansat.net:25461/027070044405/V9Jm9EBhFw/54423|user-agent="Mozilla/5.0 (KHTML, like Gecko) MyTVOnline MAC2M3U"
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
@@ -280,10 +279,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1, Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1,starworld HD
+EXTINF:-1,starworld HD
 http://185.246.209.251:9090/starworld/index.m3u8?token=test
 
-#EXTINF:-1,Pluto Movies
+EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Ten 1
@@ -298,27 +297,6 @@ https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-#EXTINF:-1,SkySports F1 HQ
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/65|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,WWE Network HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/56|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports F1
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/8|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Premier League
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/7|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Golf
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/6|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Action
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/5|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Cricket
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/4|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,SkySports Main Event
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/3|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,Willow Cricket HD
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/190|User-agent="WSS_User_Agent_FREE1"
-#EXTINF:-1,2g: Willow Cricket
-http://185.180.223.89:25461/stevecanada95@gmail.com/12389055/191|User-agent="WSS_User_Agent_FREE1"
 
 #EXTINF:-1, 9xm
 http://tv.flametv.design/zeee.m3u8?c=9xm
@@ -358,16 +336,7 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1, Nazrana
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1 ,STAR GOLD SELECT
-https://us.finetv.xyz:443/auth?channel=StarGoldSelectIndia&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,UTV
-https://us.finetv.xyz:443/auth?channel=Utv&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,UTV MOVIES
-https://us.finetv.xyz:443/auth?channel=UtvMovies&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-#EXTINF:-1 ,UTV ACTION
-https://us.finetv.xyz:443/auth?channel=UtvAction&type=index.m3u8&authorization=YWxsdXR2LThBaExjWTlIa2owS3Z3aWFPcVNQ
-
 
 
 EXTINF:-1, test 2
-http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8|user-agent=SWIFTAGENT V1.1
+http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8
