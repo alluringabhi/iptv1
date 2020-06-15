@@ -25,7 +25,8 @@ EXTINF:-1, And Tv
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvsd
 https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 
-EXTINF:-1, And TV HD 
+#EXTINF:-1, And TV HD 
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvhd
 http://45.120.188.76:8080/0.ts
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
@@ -34,9 +35,9 @@ EXTINF:-1,Zee TV
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
-EXTINF:-1,Zee TV HD
+#EXTINF:-1,Zee TV HD
+http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeetvhd
-http://bolly360.xyz/zee.php?c=zeetvhd
 
 EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0"
