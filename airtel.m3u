@@ -44,19 +44,24 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8|use
 EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-EXTINF:-1,&Picture 
+#EXTINF:-1,&Picture 
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andpicshd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 EXTINF:-1,&Picture SD
+http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andpicssd
 
 EXTINF:-1,Zee Cinema
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 EXTINF:-1,Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zcinemahd
 
-EXTINF:-1,Zee Bollywood 
+#EXTINF:-1,Zee Bollywood 
+http://z5amshls.akamaized.net/classic/index.m3u8
+
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=classic
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
