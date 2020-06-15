@@ -59,8 +59,8 @@ EXTINF:-1,Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zcinemahd
 
-#EXTINF:-1,Zee Bollywood 
-http://z5amshls.akamaized.net/classic/index.m3u8
+#EXTINF:-1,Zee Bollywoood 
+http://z5amshls.akamaized.net/classic/playlist.m3u8
 
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=classic
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
@@ -140,7 +140,9 @@ https://feeds.intoday.in/aajtak/api/dat/master.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
-EXTINF:-1, Zee News
+#EXTINF:-1, Zee News
+http://z5amshls.akamaized.net/zeenews/tracks-v1a1/playlist.m3u8
+
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeenews
 https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
 
@@ -243,6 +245,8 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 EXTINF:-1,Divya
+http://z5amshls.akamaized.net/divyatv/tracks-v1a1/playlist.m3u8
+
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=divyatv
 #EXTINF:-1,Ishwar
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
