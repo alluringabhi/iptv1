@@ -21,12 +21,13 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-EXTINF:-1, And Tv
+#EXTINF:-1, And Tv
+http://z5amshls.akamaized.net/andtvsd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvsd
 https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, And TV HD 
-http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvhd
 http://45.120.188.76:8080/0.ts
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
@@ -36,7 +37,7 @@ http://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee TV HD
-http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeetvhd
 
 EXTINF:0 tvg-id="1127" tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" "Hindi",Star Bharat HD
@@ -45,18 +46,18 @@ EXTINF:-1, Star Utsav
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1,&Picture 
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andpicshd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 EXTINF:-1,&Picture SD
-http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andpicssd
 
 EXTINF:-1,Zee Cinema
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-EXTINF:-1,Zee Cinema HD
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zcinemahd
 
 #EXTINF:-1,Zee Bollywoood 
@@ -102,6 +103,8 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 EXTINF:-1, Big Magic
+http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
+
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=bigmagic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 
@@ -141,7 +144,7 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:-1, Zee News
-http://z5amshls.akamaized.net/zeenews/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/zeenews/playlist.m3u8
 
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeenews
 https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
@@ -245,7 +248,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 EXTINF:-1,Divya
-http://z5amshls.akamaized.net/divyatv/tracks-v1a1/playlist.m3u8
+http://z5amshls.akamaized.net/divyatv/playlist.m3u8
 
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=divyatv
 #EXTINF:-1,Ishwar
@@ -281,14 +284,18 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 #EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,&Flix
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andflixhd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-EXTINF:-1,&Prive
+#EXTINF:-1,&Prive
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=andprivehd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 EXTINF:-1, Zee Cafe HD
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeecafehd
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
@@ -316,8 +323,10 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1, 9xm
+http://z5amshls.akamaized.net/9xm/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=9xm
 #EXTINF:-1, 9xjalwa
+http://z5amshls.akamaized.net/9xjalwa/playlist.m3u8
 http://tv.flametv.design/bhosdike/zeee.m3u8?c=9xjalwa
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
@@ -356,8 +365,6 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 
 
 #EXTINF:-1, test 1
-
-https://boxfire.000webhostapp.com/lam.php?c=out/v1/bbdf5ccb4a5f48c8911605cb5440598c/&i=5&.m3u8
 
 http://tamilgo.com/tamilip/getplay.php?id=56554&e=.m3u8
 
