@@ -35,8 +35,9 @@ http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
 http://findoutyou.com/Hi5.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259/&i=20&.m3u8
 
 #EXTINF:-1,Zee TV HD
-http://findoutyou.com/Hi6.m3u8?c=zeetvhd
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
+
+http://findoutyou.com/Hi6.m3u8?c=zeetvhd
 
 #EXTINF:-1,&Picture hd
 http://findoutyou.com/Hi6.m3u8?c=andpicshd
@@ -128,7 +129,7 @@ http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 http://findoutyou.com/Hi6.m3u8?c=zeenews
 http://z5amshls.akamaized.net/zeenews/playlist.m3u8
 
-#EXTINF:-1, Tv9 Bharatvarsh
+EXTINF:-1, Tv9 Bharatvarsh
 http://findoutyou.com/Hi5.m3u8?c=out/v1/a4d6c601df89461d9ca297aca6579d3b/&i=10&.m3u8
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
