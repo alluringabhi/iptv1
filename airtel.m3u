@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus
+#EXTINF:-1 ,Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png,Star Plus FHD
+
+#EXTINF:-1,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 #EXTINF:-1,Star Bharat FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
@@ -33,12 +34,12 @@ http://findoutyou.com/Hi5.m3u8?c=andtvhd
 
 
 #EXTINF:-1,Zee TV
-http://findoutyou.com/Hi5.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259/&i=20&.m3u8
+http://findoutyou.com/Hi5.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259/&i=20&e=.m3u8
 
 #EXTINF:-1,Zee TV HD
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
 
-http://findoutyou.com/Hi6.m3u8?c=zeetvhd
+http://findoutyou.com/Hi5.m3u8?c=zeetvhd/
 
 #EXTINF:-1,&Picture hd
 http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
