@@ -141,7 +141,7 @@ http://findoutyou.com/TJ.m3u8?e=.m3u8&c=zeenews
 http://z5amshls.akamaized.net/zeenews/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1, Tv9 Bharatvarsh
-http://findoutyou.com/TJ.m3u8?c=out/v1/a4d6c601df89461d9ca297aca6579d3b&i=_10&e=.m3u8
+http://findoutyou.com/TJ.m3u8?c=out/v1/a4d6c601df89461d9ca297aca6579d3b&e=.m3u8
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
