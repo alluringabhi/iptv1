@@ -23,13 +23,13 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Tv
-http://z5amshls.akamaized.net/andtvsd/playlist.m3u8
+http://z5amshls.akamaized.net/andtvsd/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/Hi6.m3u8?c=andtvsd
 http://z5amshls.akamaized.net/andtvsd/playlist.m3u8
 
 
 #EXTINF:-1, And TV HD 
-http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
+http://z5amshls.akamaized.net/andtvhd/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/Hi5.m3u8?c=andtvhd
 
 
@@ -37,12 +37,12 @@ http://findoutyou.com/Hi5.m3u8?c=andtvhd
 http://findoutyou.com/Hi5.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259/&i=20&e=.m3u8
 
 #EXTINF:-1,Zee TV HD
-http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
+http://z5amshls.akamaized.net/zeetvhd/tracks-v2a1/playlist.m3u8
 
 http://findoutyou.com/Hi5.m3u8?c=zeetvhd/
 
 #EXTINF:-1,&Picture hd
-http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/Hi6.m3u8?c=andpicshd
 
 #EXTINF:-1,&Picture SD
@@ -58,7 +58,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 #EXTINF:-1,Star Gold Select
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1,Zee Bollywoood 
-http://z5amshls.akamaized.net/classic/playlist.m3u8
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/Hi6.m3u8?c=classic
 #EXTINF:-1,SONY MAX 2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
@@ -135,7 +135,7 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:-1, Zee News
-http://z5amshls.akamaized.net/zeenews/playlist.m3u8
+http://z5amshls.akamaized.net/zeenews/tracks-v2a1/playlist.m3u8
 
 EXTINF:-1, Tv9 Bharatvarsh
 http://findoutyou.com/Hi5.m3u8?c=out/v1/a4d6c601df89461d9ca297aca6579d3b/&i=10&.m3u8
