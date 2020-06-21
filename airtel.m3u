@@ -48,6 +48,8 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://findoutyou.com/TJ.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8&i=_10&e=.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://findoutyou.com/TJ.m3u8?c=zcinemahd&e=.m3u8
+#EXTINF:-1, Sony Max SD
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
 
 #EXTINF:-1,Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -85,6 +87,15 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in_480p/index.m3u8
 #EXTINF:-1, Mahamovie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+#EXTINF:-1, Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+#EXTINF:-1, Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+#EXTINF:-1, Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1, 
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
 #EXTINF:-1,UTV MOVIES
 http://starshare.cc:41000/tuhin12/tuhin12/972|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,Shemaroo Classic
