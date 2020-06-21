@@ -117,6 +117,16 @@ http://starshare.cc:41000/tuhin12/tuhin12/206|User-Agent="Mozilla/5.0 (QtEmbedde
 http://starshare.cc:41000/tuhin12/tuhin12/207|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,Discovery_Kids_1
 http://starshare.cc:41000/tuhin12/tuhin12/208|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
+
+#EXTINF:-1, Pogo
+http://starshare.cc:41000/tuhin12/tuhin12/1918|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
+
+
+
+
+
+
+
 EXTINF:-1,Disney (Auto Decoder)
 http://202.163.117.6:9981/stream/channelid/349051393?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
 EXTINF:-1,Hungama (Auto Decoder)
@@ -219,8 +229,8 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Discovery World HD
 http://starshare.cc:41000/tuhin12/tuhin12/156|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1, Sony BBC Earth HD
-http://starshare.cc:41000/tuhin12/tuhin12/174|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
+EXTINF:-1, Sony BBC Earth HD
+http://starshare.cc:41000/tuhin12/tuhin12/5252|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,History_HD
 http://starshare.cc:41000/tuhin12/tuhin12/180|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1 , Travel XP HD
