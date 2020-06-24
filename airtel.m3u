@@ -24,60 +24,56 @@ https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, And Tv
-http://findoutyou.com/TJ.m3u8?c=andtvsd&e=.m3u8
 http://z5amshls.akamaized.net/andtvsd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1, And TV HD 
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=andtvhd
 http://z5amshls.akamaized.net/andtvhd/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1,Zee TV
+EXTINF:-1,Zee TV
 http://findoutyou.com/TJ.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259&i=_20&e=.m3u8
 #EXTINF:-1,Zee TV HD
 http://z5amshls.akamaized.net/zeetvhd/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/TJ.m3u8?e=.m3u8&c=zeetvhd
 
 #EXTINF:-1,&Picture HD
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=andpicshd
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1,&Picture SD
-http://findoutyou.com/TJ.m3u8?c=out/v1/680da5bc3c2341cebb5d25ce9ed06a11&i=_5&e=.m3u8
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 
-#EXTINF:-1,Zee Cinema
+EXTINF:-1,Zee Cinema
 http://findoutyou.com/TJ.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8&i=_10&e=.m3u8
 #EXTINF:-1,Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/tracks-v2a1/playlist.m3u8
 http://findoutyou.com/TJ.m3u8?c=zcinemahd&e=.m3u8
 #EXTINF:-1, Sony Max SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
 
 #EXTINF:-1,Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1,Star Gold Select
+EXTINF:-1,Star Gold Select
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 
 #EXTINF:-1,Zee Bollywoood 
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=classic
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1,SONY MAX 2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
-#EXTINF:-1, &Explore HD 
+EXTINF:-1, &Explore HD 
 http://findoutyou.com/TJ.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_19&e=.m3u8
 
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1,Zee Theatre
+EXTINF:-1,Zee Theatre
 http://findoutyou.com/TJ.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55&i=_17&e=.m3u8
 
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
-http://findoutyou.com/TJ.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e&i=_7&e=.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+http://findoutyou.com/TJ.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e&i=_7&e=.m3u8
 
 EXTINF:-1, Star Gold Select
 http://dc-4ae917858487.a6tv.biz:8080/yuYUVgxvRG/tPTyUJTs4r/21055
@@ -96,7 +92,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1, 
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
-#EXTINF:-1,UTV MOVIES
+EXTINF:-1,UTV MOVIES
 http://starshare.cc:41000/tuhin12/tuhin12/972|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
@@ -109,16 +105,15 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 #EXTINF:-1, BIG MAGIC
 http://103.144.200.7:8080/hls/bigmagic/index.m3u8
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
-#EXTINF:-1, Nick_Hindi
+EXTINF:-1, Nick_Hindi
 http://starshare.cc:41000/tuhin12/tuhin12/205|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1, Nick_Junior
+EXTINF:-1, Nick_Junior
 http://starshare.cc:41000/tuhin12/tuhin12/206|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1, sonic_Hindi
+EXTINF:-1, sonic_Hindi
 http://starshare.cc:41000/tuhin12/tuhin12/207|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1,Discovery_Kids_1
+EXTINF:-1,Discovery_Kids_1
 http://starshare.cc:41000/tuhin12/tuhin12/208|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-
-#EXTINF:-1, Pogo
+EXTINF:-1, Pogo
 http://starshare.cc:41000/tuhin12/tuhin12/1918|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 
 
@@ -158,7 +153,6 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 http://tv.flametv.design/zeee.m3u8?c=out/v1/9519f4d89ede404fa6b4dc86c616a7ef
 
 #EXTINF:-1, Zee News
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=zeenews
 http://z5amshls.akamaized.net/zeenews/tracks-v2a1/playlist.m3u8
 
 EXTINF:-1, Tv9 Bharatvarsh
@@ -213,9 +207,9 @@ https://playhls.media.nic.in/live/ddkisan/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, DD Bharati 
+EXTINF:-1, DD Bharati 
 http://findoutyou.com/TJ.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c&i=_6&e=.m3u8
-#EXTINF:-1, DD National 
+EXTINF:-1, DD National 
 http://findoutyou.com/TJ.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532&i=_6&e=.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1, DD Retro
@@ -227,21 +221,21 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1, Sony BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, Discovery World HD
+EXTINF:-1, Discovery World HD
 http://starshare.cc:41000/tuhin12/tuhin12/156|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 EXTINF:-1, Sony BBC Earth HD
 http://starshare.cc:41000/tuhin12/tuhin12/5252|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1,History_HD
+EXTINF:-1,History_HD
 http://starshare.cc:41000/tuhin12/tuhin12/180|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1 , Travel XP HD
+EXTINF:-1 , Travel XP HD
 http://starshare.cc:41000/tuhin12/tuhin12/181|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1 , Animal_Planet_HD
+EXTINF:-1 , Animal_Planet_HD
 http://starshare.cc:41000/tuhin12/tuhin12/182|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,FYI TV18 HD
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-#EXTINF:-1,Discovery Science Hindi
+EXTINF:-1,Discovery Science Hindi
 http://starshare.cc:41000/tuhin12/tuhin12/4745|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1, 	Sanskaar
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
@@ -252,7 +246,6 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=divyatv
 http://z5amshls.akamaized.net/divyatv/playlist.m3u8
 
 #EXTINF:-1,Ishwar
@@ -264,10 +257,10 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 
 #EXTINF:-1  "Hindi",Star Movies
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1  "Hindi",Star Movies HD
+EXTINF:-1  "Hindi",Star Movies HD
 http://starshare.cc:41000/tuhin12/tuhin12/979|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 
-#EXTINF:-1,HBO
+EXTINF:-1,HBO
 http://starshare.cc:41000/tuhin12/tuhin12/150|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 http://202.163.117.6:9981/stream/channelid/1860181278?codec=mpegts&profile=pass|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3"
 http://dc-4ae917858487.a6tv.biz:8080/yuYUVgxvRG/tPTyUJTs4r/21255
@@ -285,19 +278,16 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 #EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Flix
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=andflixhd
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1,&Prive
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=andprivehd
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, Zee Cafe HD
-http://findoutyou.com/TJ.m3u8?e=.m3u8&c=zeecafehd
+#EXTINF:-1, Zee Cafe
 http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
-#EXTINF:-1,Star World Premiere FHD
+EXTINF:-1,Star World Premiere FHD
 http://starshare.cc:41000/tuhin12/tuhin12/217|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
-#EXTINF:-1, STAR MOVIES SELECT FHD
+EXTINF:-1, STAR MOVIES SELECT FHD
 http://starshare.cc:41000/tuhin12/tuhin12/218|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -312,7 +302,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1,Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 http://203.154.243.89:11205/
-#EXTINF:-1,Color Infinity
+EXTINF:-1,Color Infinity
 http://starshare.cc:41000/tuhin12/tuhin12/187|User-Agent="Mozilla/5.0 (QtEmbedded; U; Linux; C)"
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
 EXTINF:-1,Pluto Movies
