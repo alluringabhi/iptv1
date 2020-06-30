@@ -221,11 +221,9 @@ https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
-EXTINF:-1  "Hindi",Star Movies
 
-EXTINF:-1,HBO
-
-
+#EXTINF:-1, HBO
+https://foobtv.co.in/iptv/iptv.php?id=47866
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1, Movies Now HD
@@ -260,9 +258,17 @@ https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1,Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 http://203.154.243.89:11205/
-EXTINF:-1,Color Infinity
+#EXTINF:-1,Color Infinity
+https://foobtv.co.in/iptv/iptv.php?id=47880
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
-
+#EXTINF:-1,STAR MOVIES SELECT
+https://foobtv.co.in/iptv/iptv.php?id=47861
+#EXTINF:-1,STAR WORLD PREMIER
+https://foobtv.co.in/iptv/iptv.php?id=47860
+#EXTINF:-1,STAR MOVIES HD
+https://foobtv.co.in/iptv/iptv.php?id=47859
+#EXTINF:-1,STAR WORLD HD
+https://foobtv.co.in/iptv/iptv.php?id=47858
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
