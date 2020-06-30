@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://bit.ly/alluepg"
+
 #EXTINF:-1 ,Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
@@ -20,7 +21,7 @@ http://45.120.188.219:80/0.ts
 http://103.111.120.46/hls/Colors.m3u8
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 
-#EXTINF:-1,Sony 
+#EXTINF:-1 tvg-id="291",Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, And Tv
