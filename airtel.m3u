@@ -314,12 +314,7 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1,Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1,Star Sports 1 HD Hindi
-http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+
 #EXTINF:-1, Motu Patlu 36 Ghante
 https://www.googleapis.com/drive/v3/files/1Dyvt0IFY7NERvpDdTf0dELojezKKs9jZ?alt=media&key=AIzaSyBU24teyChPON-pFofpmZkRFHiYNqIyO-g
 
