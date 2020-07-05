@@ -250,8 +250,7 @@ https://findoutyou.com/pam.m3u8?i=47860
 https://findoutyou.com/pam.m3u8?i=47859
 #EXTINF:-1,STAR WORLD HD
 https://findoutyou.com/pam.m3u8?i=47858
-#EXTINF:-1,MOVIES HINDI DUBBED
-https://findoutyou.com/pam.m3u8?i=14129
+
 #EXTINF:-1,COLORS INFINITY
 https://findoutyou.com/pam.m3u8?i=47880
 #EXTINF:-1,BINDAS MOVIES
@@ -333,14 +332,10 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-i="160" ,Star Sports 3
 https://findoutyou.com/pam.m3u8?i=48114
-#EXTINF:-1 tvg-i="1122" ,Star Sports First
-https://findoutyou.com/pam.m3u8?i=48120
-#EXTINF:-1 tvg-i="159" ,Star Sports HD1
+
+#EXTINF:-1 tvg-i="159" ,Star Sports HD2
 https://findoutyou.com/pam.m3u8?i=14000
 
-#EXTINF:-1,test
-
-https://findoutyou.com/Star/sam.php?c=stargold&q=2500|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
 
 
