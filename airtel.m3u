@@ -242,15 +242,32 @@ EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe
 http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+#EXTINF:-1,STAR MOVIES SELECT 
+https://findoutyou.com/pam.m3u8?i=47861
+#EXTINF:-1,STAR WORLD PREMIER
+https://findoutyou.com/pam.m3u8?i=47860
+#EXTINF:-1,STAR MOVIES HD
+https://findoutyou.com/pam.m3u8?i=47859
+#EXTINF:-1,STAR WORLD HD
+https://findoutyou.com/pam.m3u8?i=47858
+#EXTINF:-1,MOVIES HINDI DUBBED
+https://findoutyou.com/pam.m3u8?i=14129
+#EXTINF:-1,COLORS INFINITY
+https://findoutyou.com/pam.m3u8?i=47880
+#EXTINF:-1,BINDAS MOVIES
+https://findoutyou.com/pam.m3u8?i=48170
+#EXTINF:-1,UTV MOVIES
+https://findoutyou.com/pam.m3u8?i=48171
+#EXTINF:-1,MOVIES ACTIVE
+https://findoutyou.com/pam.m3u8?i=48133
+#EXTINF:-1,UTV ACTION
+https://findoutyou.com/pam.m3u8?i=48134
+#EXTINF:-1,UTV HD
+https://findoutyou.com/pam.m3u8?i=48143
 
-EXTINF:-1,Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-EXTINF:-1,Comedy Central
-https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
-EXTINF:-1,Comedy Central HD
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1, Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+
+
 #EXTINF:-1,Series Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1,Warner TV
@@ -314,10 +331,12 @@ http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd
 #EXTINF:-1,Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
-#EXTINF:-1, Motu Patlu 36 Ghante
-https://www.googleapis.com/drive/v3/files/1Dyvt0IFY7NERvpDdTf0dELojezKKs9jZ?alt=media&key=AIzaSyBU24teyChPON-pFofpmZkRFHiYNqIyO-g
-
-
+#EXTINF:-1 tvg-i="160" ,Star Sports 3
+https://findoutyou.com/pam.m3u8?i=48114
+#EXTINF:-1 tvg-i="1122" ,Star Sports First
+https://findoutyou.com/pam.m3u8?i=48120
+#EXTINF:-1 tvg-i="159" ,Star Sports HD1
+https://findoutyou.com/pam.m3u8?i=14000
 
 
 
