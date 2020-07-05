@@ -338,8 +338,9 @@ https://findoutyou.com/pam.m3u8?i=48120
 #EXTINF:-1 tvg-i="159" ,Star Sports HD1
 https://findoutyou.com/pam.m3u8?i=14000
 
+#EXTINF:-1,test
 
-
+https://findoutyou.com/Star/sam.php?c=stargold&q=2500|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
 
 
