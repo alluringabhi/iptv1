@@ -1,1 +1,2 @@
-http://boxtv.unaux.com/lam.php?c=andpicshd&e=.m3u8
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=512x290,FRAME-RATE=25.000,CODECS="avc1.42001e,mp4a.40.2",AVERAGE-BANDWIDTH=370000,BANDWIDTH=460000
+http://three.somee.com/lam.php?c=andpicshd&e=.m3u8
