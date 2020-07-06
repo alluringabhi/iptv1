@@ -336,8 +336,8 @@ https://findoutyou.com/pam.m3u8?i=48114
 #EXTINF:-1 tvg-i="159" ,Star Sports HD2
 https://findoutyou.com/pam.m3u8?i=14000
 
-
-
+#EXTINF:-1,test
+https://raw.githubusercontent.com/alluringabhi/iptv1/master/zcinema.m3u
 
 
 
