@@ -5,15 +5,12 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1,Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Star Gold FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
 #EXTINF:-1,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="291",Sony 
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
+#EXTINF:-1,Sony 
+https://github.com/alluringabhi/iptv1/raw/master/sony.m3u8
 #EXTINF:-1, And Tv
 http://z5amshls.akamaized.net/andtvsd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1, And TV HD 
@@ -31,11 +28,9 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v2a1/playlist.m3u8
  #EXTINF:-1, Sony Max SD
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
-
+https://github.com/alluringabhi/iptv1/raw/master/sonymaxsd.m3u8
 #EXTINF:-1,Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
+https://github.com/alluringabhi/iptv1/raw/master/sonymaxhd.m3u8
 #EXTINF:-1,Zee Bollywoood 
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 
@@ -43,8 +38,7 @@ http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
 #EXTINF:-1, Sab Tv
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
+https://github.com/alluringabhi/iptv1/raw/master/sabtv.m3u8
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
@@ -71,7 +65,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://github.com/alluringabhi/iptv1/raw/master/sonyyay.m3u8
 #EXTINF:-1, BIG MAGIC
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1, Shemaroo Kids
@@ -152,8 +146,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 #EXTINF:-1, History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1, Sony BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
+https://github.com/alluringabhi/iptv1/raw/master/bbceartheng.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
@@ -186,7 +179,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1, Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+https://github.com/alluringabhi/iptv1/raw/master/pixhd.m3u8
 #EXTINF:-1, And Flix
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1,&Prive
@@ -199,13 +192,13 @@ https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 http://203.154.243.89:11205/
 
 #EXTINF:-1,Ten 1
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+https://github.com/alluringabhi/iptv1/raw/master/ten1hd.m3u8
 #EXTINF:-1, TEN 2
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+https://github.com/alluringabhi/iptv1/raw/master/ten2hd.m3u8
 #EXTINF:-1, TEN 3
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+https://github.com/alluringabhi/iptv1/raw/master/ten3hd.m3u8
 #EXTINF:-1, Sony Six
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+https://github.com/alluringabhi/iptv1/raw/master/sixhd.m3u8
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,9XM
