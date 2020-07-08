@@ -73,7 +73,11 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
 http://three.somee.com/lam.php?c=out/v1/71d7807e101d470fbac38441de9c674e&i=_7&e=.m3u8
+EXTINF:-1, ZEE ANMOL CINEMA
+http://three.somee.com/lam.php?c=zanmolcnm&e=.m3u8
 
+EXTINF:-1, ZEE ACTION
+http://three.somee.com/lam.php?c=action&e=.m3u8
 #EXTINF:-1, Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1, Manoranjan TV
@@ -95,7 +99,8 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
-
+#EXTINF:-1,Living Foodz
+http://three.somee.com/lam.php?c=livingfoodz&e=.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, BIG MAGIC
@@ -145,7 +150,8 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&re
 https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d651ba153df2f8d31076898067fd2
 #EXTINF:-1, 	NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-
+#EXTINF:-1,Zee Business
+http://three.somee.com/lam.php?c=zeebusiness&e=.m3u8
 #EXTINF:1,CNBC TV 18 D
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
@@ -166,7 +172,10 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
 #EXTINF:0 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
-
+#EXTINF:-1,Wion
+http://three.somee.com/lam.php?c=wion&e=.m3u8
+#EXTINF:-1,  ddnews
+http://three.somee.com/lam.php?c=ddnews&e=.m3u8
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Bharati 
@@ -185,11 +194,11 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,Sanskar
+http://three.somee.com/lam.php?c=sanskartv&e=.m3u8
+#EXTINF:-1,Satsang
+http://three.somee.com/lam.php?c=satsangtv&e=.m3u8
 
-#EXTINF:-1, 	Sanskaar
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-#EXTINF:-1, 	Satsang
-https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
@@ -256,6 +265,8 @@ http://103.141.66.36/bpk-tv/10283/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10315/default/manifest.mpd
 #EXTINF:-1,MTV Beats
 http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
+#EXTINF:-1,Zee Etc
+http://three.somee.com/lam.php?c=etc&e=.m3u8
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,  Pop Pataka
