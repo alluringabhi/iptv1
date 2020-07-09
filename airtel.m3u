@@ -3,14 +3,15 @@
 #EXTINF:-1 ,Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-
 #EXTINF:-1,Star Plus FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
+
 #EXTINF:-1,Star Bharat FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 
 #EXTINF:-1,Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 #EXTINF:-1,Star Gold FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
@@ -21,26 +22,29 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, And Tv
-http://three.somee.com/web.php?c=andtvsd&e=.m3u8
+http://three.somee.com/web.php?c=andtvsd
+
 #EXTINF:-1, And TV HD 
-http://three.somee.com/web.php?c=andtvhd&e=.m3u8
+http://three.somee.com/web.php?c=andtvhd 
 
 #EXTINF:-1,Zee Tv SD
 http://three.somee.com/jam.php?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259&q=index
+
 #EXTINF:-1,Zee TV HD
-http://three.somee.com/web.php?c=zeetvhd&e=.m3u8
+http://three.somee.com/web.php?c=zeetvhd 
   
 #EXTINF:-1,&Picture HD
-http://three.somee.com/web.php?c=andpicshd&e=.m3u8
+http://three.somee.com/web.php?c=andpicshd 
 
 #EXTINF:-1,&Picture SD
-http://three.somee.com/web.php?c=andpicssd&e=.m3u8
+http://three.somee.com/web.php?c=andpicssd 
 
 EXTINF:-1,Zee Cinema
-http://three.somee.com/web.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8&i=_10&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8&i=index
+
 #EXTINF:-1,Zee Cinema HD
-http://three.somee.com/web.php?c=zcinemahd&e=.m3u8
-http://z5amshls.akamaized.net/zcinemahd/tracks-v2a1/playlist.m3u8
+http://three.somee.com/web.php?c=zcinemahd
+
 #EXTINF:-1, Sony Max SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
 
@@ -48,31 +52,30 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,Zee Bollywoood 
-http://three.somee.com/web.php?c=classic&e=.m3u8
-http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
-
+http://three.somee.com/web.php?c=classic 
+ 
 #EXTINF:-1,SONY MAX 2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
 #EXTINF:-1, &Explore HD 
-http://three.somee.com/lam.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_19&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=index
 
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,Zee Theatre
-http://three.somee.com/lam.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55&i=_17&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55&i=index
 
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
-http://three.somee.com/lam.php?c=out/v1/71d7807e101d470fbac38441de9c674e&i=_7&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/71d7807e101d470fbac38441de9c674e&i=index
 EXTINF:-1, ZEE ANMOL CINEMA
-http://three.somee.com/web.php?c=zanmolcnm&e=.m3u8
-
+http://three.somee.com/web.php?c=zanmolcnm 
 EXTINF:-1, ZEE ACTION
-http://three.somee.com/web.php?c=action&e=.m3u8
+http://three.somee.com/web.php?c=action 
+
 #EXTINF:-1, Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1, Manoranjan TV
@@ -88,18 +91,16 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1, Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
-
-
 #EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 #EXTINF:-1,Living Foodz
-http://three.somee.com/lam.php?c=livingfoodz&e=.m3u8
+http://three.somee.com/lam.php?c=livingfoodz 
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, BIG MAGIC
-http://three.somee.com/web.php?c=bigmagic&e=.m3u8
+http://three.somee.com/web.php?c=bigmagic 
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Tom & Jerry
@@ -122,7 +123,7 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 
 #EXTINF:-1, Zee News
-http://three.somee.com/web.php?c=zeenews&e=.m3u8
+http://three.somee.com/web.php?c=zeenews 
  
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -144,7 +145,7 @@ https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d65
 #EXTINF:-1, 	NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1,Zee Business
-http://three.somee.com/web.php?c=zeebusiness&e=.m3u8
+http://three.somee.com/web.php?c=zeebusiness 
 #EXTINF:1,CNBC TV 18 D
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
@@ -166,15 +167,15 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_
 #EXTINF:0 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:-1,Wion
-http://three.somee.com/lam.php?c=wion&e=.m3u8
+http://three.somee.com/lam.php?c=wion 
 #EXTINF:-1,  ddnews
-http://three.somee.com/lam.php?c=ddnews&e=.m3u8
+http://three.somee.com/lam.php?c=ddnews 
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Bharati 
-http://three.somee.com/lam.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&i=_6&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&i=index
 #EXTINF:-1, DD National 
-http://three.somee.com/lam.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&i=_6&e=.m3u8
+http://three.somee.com/jam.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&i=index
 #EXTINF:-1, DD Retro
 https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8
 
@@ -197,7 +198,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 EXTINF:-1,Divya
-http://three.somee.com/web.php?c=divyatv&e=.m3u8
+http://three.somee.com/web.php?c=divyatv
  
 #EXTINF:-1,Ishwar
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
@@ -218,13 +219,13 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 #EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Flix
-http://three.somee.com/web.php?c=andflixhd&e=.m3u8
+http://three.somee.com/web.php?c=andflixhd
  #EXTINF:-1,&Prive
-http://three.somee.com/web.php?c=andprivehd&e=.m3u8
+http://three.somee.com/web.php?c=andprivehd
  EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe
-http://three.somee.com/web.php?c=zeecafehd&e=.m3u8
+http://three.somee.com/web.php?c=zeecafehd
  #EXTINF:-1,Series Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1,Warner TV
@@ -244,7 +245,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1,Zee Etc
-http://three.somee.com/web.php?c=etc&e=.m3u8
+http://three.somee.com/web.php?c=etc
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,  Pop Pataka
