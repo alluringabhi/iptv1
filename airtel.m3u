@@ -28,7 +28,7 @@ http://three.somee.com/web.php?c=andtvsd
 http://three.somee.com/web.php?c=andtvhd 
 
 #EXTINF:-1,Zee Tv SD
-http://three.somee.com/jam.php?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259&q=index
+http://three.somee.com/web.php?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 
 #EXTINF:-1,Zee TV HD
 http://three.somee.com/web.php?c=zeetvhd 
@@ -40,7 +40,7 @@ http://three.somee.com/web.php?c=andpicshd
 http://three.somee.com/web.php?c=andpicssd 
 
 EXTINF:-1,Zee Cinema
-http://three.somee.com/jam.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8&i=index
+http://three.somee.com/web.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 
 #EXTINF:-1,Zee Cinema HD
 http://three.somee.com/web.php?c=zcinemahd
@@ -58,19 +58,19 @@ http://three.somee.com/web.php?c=classic
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
 #EXTINF:-1, &Explore HD 
-http://three.somee.com/jam.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=index
+http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 
 #EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,Zee Theatre
-http://three.somee.com/jam.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55&i=index
+http://three.somee.com/web.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
-http://three.somee.com/jam.php?c=out/v1/71d7807e101d470fbac38441de9c674e&i=index
+http://three.somee.com/web.php?c=out/v1/71d7807e101d470fbac38441de9c674e
 EXTINF:-1, ZEE ANMOL CINEMA
 http://three.somee.com/web.php?c=zanmolcnm 
 EXTINF:-1, ZEE ACTION
@@ -173,9 +173,9 @@ http://three.somee.com/lam.php?c=ddnews
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Bharati 
-http://three.somee.com/jam.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&i=index
+http://three.somee.com/web.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c
 #EXTINF:-1, DD National 
-http://three.somee.com/jam.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&i=index
+http://three.somee.com/web.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 #EXTINF:-1, DD Retro
 https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8
 
@@ -189,9 +189,9 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,Sanskar
-http://three.somee.com/web.php?c=sanskartv&e=.m3u8
+http://three.somee.com/web.php?c=sanskartv
 #EXTINF:-1,Satsang
-http://three.somee.com/web.php?c=satsangtv&e=.m3u8
+http://three.somee.com/web.php?c=satsangtv
 
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
