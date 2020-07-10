@@ -22,28 +22,28 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, And Tv
-http://lucifer.freetzi.com/rade/web.php?c=andtvsd
+http://lucifer.freetzi.com/rade/web.m3u8?c=andtvsd
 
 #EXTINF:-1, And TV HD 
-http://lucifer.freetzi.com/rade/web.php?c=andtvhd 
+http://lucifer.freetzi.com/rade/web.m3u8?c=andtvhd 
 
 EXTINF:-1,Zee Tv SD
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 
 #EXTINF:-1,Zee TV HD
-http://lucifer.freetzi.com/rade/web.php?c=zeetvhd 
+http://lucifer.freetzi.com/rade/web.m3u8?c=zeetvhd 
   
 #EXTINF:-1,&Picture HD
-http://lucifer.freetzi.com/rade/web.php?c=andpicshd 
+http://lucifer.freetzi.com/rade/web.m3u8?c=andpicshd 
 
 #EXTINF:-1,&Picture SD
-http://lucifer.freetzi.com/rade/web.php?c=andpicssd 
+http://lucifer.freetzi.com/rade/web.m3u8?c=andpicssd 
 
 #EXTINF:-1,Zee Cinema
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/14c290cdde854265b74f78b102f6ecd8
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 
 #EXTINF:-1,Zee Cinema HD
-http://three.somee.com/web.php?c=zcinemahd
+http://three.somee.com/web.m3u8?c=zcinemahd
 
 #EXTINF:-1, Sony Max SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
@@ -52,7 +52,7 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,Zee Bollywoood 
-http://lucifer.freetzi.com/rade/web.php?c=classic 
+http://lucifer.freetzi.com/rade/web.m3u8?c=classic 
  
 #EXTINF:-1,SONY MAX 2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
@@ -62,9 +62,9 @@ https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, &Explore HD 
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 #EXTINF:-1,Zee Theatre
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/9b9f434518cc489f9260e24b5768ef55
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
@@ -72,9 +72,9 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
-http://lucifer.freetzi.com/rade/web.php?c=zanmolcnm 
+http://lucifer.freetzi.com/rade/web.m3u8?c=zanmolcnm 
 #EXTINF:-1, ZEE ACTION
-http://lucifer.freetzi.com/rade/web.php?c=action 
+http://lucifer.freetzi.com/rade/web.m3u8?c=action 
 
 #EXTINF:-1, Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
@@ -99,7 +99,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, BIG MAGIC
-http://lucifer.freetzi.com/rade/web.php?c=bigmagic 
+http://lucifer.freetzi.com/rade/web.m3u8?c=bigmagic 
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Tom & Jerry
@@ -122,7 +122,7 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 
 #EXTINF:-1, Zee News
-http://lucifer.freetzi.com/rade/web.php?c=zeenews 
+http://lucifer.freetzi.com/rade/web.m3u8?c=zeenews 
  
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -144,7 +144,7 @@ https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d65
 #EXTINF:-1, 	NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1,Zee Business
-http://lucifer.freetzi.com/rade/web.php?c=zeebusiness 
+http://lucifer.freetzi.com/rade/web.m3u8?c=zeebusiness 
 #EXTINF:1,CNBC TV 18 D
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
@@ -166,15 +166,15 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_
 #EXTINF:0 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:-1,Wion
-http://lucifer.freetzi.com/rade/web.php?c=wion 
+http://lucifer.freetzi.com/rade/web.m3u8?c=wion 
 #EXTINF:-1,  ddnews
-http://lucifer.freetzi.com/rade/web.php?c=ddnews 
+http://lucifer.freetzi.com/rade/web.m3u8?c=ddnews 
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Bharati 
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
 #EXTINF:-1, DD National 
-http://lucifer.freetzi.com/rade/web.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532
+http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 #EXTINF:-1, DD Retro
 https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8
 
@@ -188,16 +188,16 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,Sanskar
-http://three.somee.com/web.php?c=sanskartv
+http://three.somee.com/web.m3u8?c=sanskartv
 #EXTINF:-1,Satsang
-http://three.somee.com/web.php?c=satsangtv
+http://three.somee.com/web.m3u8?c=satsangtv
 
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 EXTINF:-1,Divya
-http://lucifer.freetzi.com/rade/web.php?c=divyatv
+http://lucifer.freetzi.com/rade/web.m3u8?c=divyatv
  
 #EXTINF:-1,Ishwar
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
@@ -218,13 +218,13 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 #EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Flix
-http://lucifer.freetzi.com/rade/web.php?andflixhd
+http://lucifer.freetzi.com/rade/web.m3u8?andflixhd
 #EXTINF:-1,&Prive
-http://lucifer.freetzi.com/rade/web.php?c=andprivehd
+http://lucifer.freetzi.com/rade/web.m3u8?c=andprivehd
 EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Zee Cafe
-http://lucifer.freetzi.com/rade/web.php?c=zeecafehd
+http://lucifer.freetzi.com/rade/web.m3u8?c=zeecafehd
 #EXTINF:-1,Series Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1,Warner TV
@@ -244,7 +244,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1,Zee Etc
-http://lucifer.freetzi.com/rade/web.php?c=etc
+http://lucifer.freetzi.com/rade/web.m3u8?c=etc
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,  Pop Pataka
