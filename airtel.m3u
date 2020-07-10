@@ -39,9 +39,6 @@ http://lucifer.freetzi.com/rade/web.m3u8?c=andpicshd
 #EXTINF:-1,&Picture SD
 http://lucifer.freetzi.com/rade/web.m3u8?c=andpicssd 
 
-#EXTINF:-1,Zee Cinema
-http://lucifer.freetzi.com/rade/web.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
-
 #EXTINF:-1,Zee Cinema HD
 http://three.somee.com/web.m3u8?c=zcinemahd
 
