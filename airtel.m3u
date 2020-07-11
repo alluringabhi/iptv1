@@ -40,7 +40,7 @@ http://lucifer.freetzi.com/rade/web.m3u8?c=andpicshd
 http://lucifer.freetzi.com/rade/web.m3u8?c=andpicssd 
 
 #EXTINF:-1,Zee Cinema HD
-http://three.somee.com/web.m3u8?c=zcinemahd
+http://lucifer.freetzi.com/rade/web.m3u8?c=zcinemahd
 
 EXTINF:-1, Sony Max SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
@@ -101,8 +101,9 @@ http://lucifer.freetzi.com/rade/web.m3u8?c=bigmagic
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-EXTINF:-1, Nickelodeon
+#EXTINF:-1, Nickelodeon
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
 #EXTINF:-1, 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, India TV
