@@ -18,7 +18,7 @@ https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargo
 #EXTINF:-1,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="291",Sony 
+EXTINF:-1 tvg-id="291",Sony 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, And Tv
@@ -42,10 +42,10 @@ http://lucifer.freetzi.com/rade/web.m3u8?c=andpicssd
 #EXTINF:-1,Zee Cinema HD
 http://three.somee.com/web.m3u8?c=zcinemahd
 
-#EXTINF:-1, Sony Max SD
+EXTINF:-1, Sony Max SD
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp%3D1594424839~acl%3D%2F*~hmac%3D83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne=
 
-#EXTINF:-1,Sony Max HD
+EXTINF:-1,Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1,Zee Bollywoood 
@@ -55,7 +55,7 @@ http://lucifer.freetzi.com/rade/web.m3u8?c=classic
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
 
-#EXTINF:-1, Sab Tv
+EXTINF:-1, Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1, &Explore HD 
@@ -93,7 +93,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 
-#EXTINF:-1,Sony YAY
+EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, BIG MAGIC
 http://lucifer.freetzi.com/rade/web.m3u8?c=bigmagic 
@@ -212,7 +212,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-#EXTINF:-1, Sony Pix
+EXTINF:-1, Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Flix
 http://lucifer.freetzi.com/rade/web.m3u8?andflixhd
@@ -229,13 +229,13 @@ http://203.154.243.89:11205/
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1,Ten 1
+EXTINF:-1,Ten 1
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1, TEN 2
+EXTINF:-1, TEN 2
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1, TEN 3
+EXTINF:-1, TEN 3
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1, Sony Six
+EXTINF:-1, Sony Six
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
