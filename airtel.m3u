@@ -105,7 +105,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:-1, 	ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1, India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 #EXTINF:-1, News18 India 
