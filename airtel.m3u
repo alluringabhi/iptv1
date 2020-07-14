@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
 
-#EXTINF:-1 ,Star Plus
+#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:-1,Star Plus FHD
+#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 
 #EXTINF:-1,Star Bharat FHD
