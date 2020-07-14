@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
 
 #EXTINF:-1 ,Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
