@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="Star Plus HD-IN", Star Pluss
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
+#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 
- EXTINF:-1,Star Bharat FHD
+EXTINF:-1,Star Bharat FHD
 https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
 
 #EXTINF:-1,Star Gold
@@ -33,7 +33,7 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/ea6fe7c79c6f494792
 #EXTINF:-1,Zee TV HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvhd 
   
-EXTINF:-1,&Picture HD
+#EXTINF:-1,&Picture HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd 
 
 #EXTINF:-1,&Picture SD
@@ -70,21 +70,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zanmolcnm 
 #EXTINF:-1, ZEE ACTION
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=action 
-
-EXTINF:-1, Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-EXTINF:-1, Manoranjan TV
-https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in_480p/index.m3u8
-EXTINF:-1, Mahamovie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-EXTINF:-1, Filmy
-https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
-EXTINF:-1, Firangi
-https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
-EXTINF:-1, Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-EXTINF:-1, Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
 EXTINF:-1,Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
