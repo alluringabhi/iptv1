@@ -42,20 +42,31 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicssd
 #EXTINF:-1,Zee Cinema HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zcinemahd
 
-EXTINF:-1, Sony Max SD
+#EXTINF:-1, Sony Max SD
 
-EXTINF:-1,Sony Max HD
+http://indtv.online/SonyMaxSD.m3u8
+
+#EXTINF:-1,Sony Max HD
+
+http://indtv.online/SonyMaxhd.m3u8
 
 #EXTINF:-1,Zee Bollywoood 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=classic 
  
-EXTINF:-1,SONY MAX 2
+#EXTINF:-1,SONY Pal
+
+http://indtv.online/SonyPalSD.m3u8
+
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 
 
-EXTINF:-1, Sab Tv
- 
-EXTINF:-1, &Explore HD 
+#EXTINF:-1, Sab Tv
+
+http://indtv.online/SABHD.m3u8
+
+#EXTINF:-1, &Explore HD 
+http://indtv.online/0-9-209.m3u8
+
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 EXTINF:-1,Zee Theatre
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
@@ -63,7 +74,9 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/9b9f434518cc489f92
 #EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
-EXTINF:-1, Epic
+#EXTINF:-1, Epic
+http://indtv.online/0-9-229.m3u8
+
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
@@ -76,7 +89,9 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 EXTINF:-1, Movie Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 
-EXTINF:-1,Sony YAY
+#EXTINF:-1,Sony YAY
+http://indtv.online/SonyYaySD.m3u8
+
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, BIG MAGIC
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=bigmagic 
@@ -170,9 +185,12 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1,Sanskar
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=sanskartv
 #EXTINF:-1,Satsang
+http://indtv.online/0-9-channel_1144658965.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=sanskartv
+#EXTINF:-1,Sanskar
+http://indtv.online/0-9-channel_1565694979.m3u8
+
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=satsangtv
 
 #EXTINF:-1, 	Sadhna
@@ -180,6 +198,8 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya
+http://indtv.online/0-9-divyatv.m3u8
+
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=divyatv
  
 #EXTINF:0 "Live Darshan", Shirdi Live
@@ -194,7 +214,9 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-EXTINF:-1, Sony Pix
+#EXTINF:-1, Sony Pix
+http://indtv.online/PIXHD.m3u8
+
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, And Flix
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
