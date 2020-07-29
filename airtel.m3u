@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U  url-tvg=http://indtv.online/guide.xml
 
-#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Pluss
+#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
