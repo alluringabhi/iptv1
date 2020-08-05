@@ -22,25 +22,25 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://indtv.online/sonyliv/SETHD.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1, And Tv
+EXTINF:-1, And Tv
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andtvsd
 
-#EXTINF:-1, And TV HD 
+EXTINF:-1, And TV HD 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andtvhd 
 
 EXTINF:-1,Zee Tv SD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
 
-#EXTINF:-1,Zee TV HD
+EXTINF:-1,Zee TV HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvhd 
   
-#EXTINF:-1,&Picture HD
+EXTINF:-1,&Picture HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd 
 
-#EXTINF:-1,&Picture SD
+EXTINF:-1,&Picture SD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicssd 
 
-#EXTINF:-1,Zee Cinema HD
+EXTINF:-1,Zee Cinema HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zcinemahd
 
 #EXTINF:-1, Sony Max SD
@@ -49,7 +49,7 @@ http://indtv.online/sonyliv/SonyMaxSD.m3u8
 #EXTINF:-1,Sony Max HD
 http://indtv.online/sonyliv/SonyMaxhd.m3u8
 
-#EXTINF:-1,Zee Bollywoood 
+EXTINF:-1,Zee Bollywoood 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=classic 
  
 #EXTINF:-1,SONY Pal
@@ -77,9 +77,9 @@ http://indtv.online/zee5/0-9-229.m3u8
 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-#EXTINF:-1, ZEE ANMOL CINEMA
+EXTINF:-1, ZEE ANMOL CINEMA
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zanmolcnm 
-#EXTINF:-1, ZEE ACTION
+EXTINF:-1, ZEE ACTION
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=action 
 
 EXTINF:-1,Shemaroo Classic
@@ -91,7 +91,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
 http://indtv.online/sonyliv/SonyYaySD.m3u8
 
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, BIG MAGIC
+EXTINF:-1, BIG MAGIC
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=bigmagic 
  EXTINF:-1, Zee Kids
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/9b05285c38c54549a5afd04473bdd65c
@@ -118,7 +118,7 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 EXTINF:-1, 	News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 
-#EXTINF:-1, Zee News
+EXTINF:-1, Zee News
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeenews 
  
 #EXTINF:-1, 	News 24
@@ -165,13 +165,13 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1,Wion
 http://three.somee.com/rade/web.php?c=wion 
 
-#EXTINF:-1,  ddnews
+EXTINF:-1,  ddnews
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ddnews 
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
-#EXTINF:-1, DD Bharati 
+EXTINF:-1, DD Bharati 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
-#EXTINF:-1, DD National 
+EXTINF:-1, DD National 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 #EXTINF:-1, DD Retro
 https://streamitv.multitvsolution.in/idvo/ddretro_540p/index.m3u8
@@ -216,13 +216,13 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0
 http://indtv.online/sonyliv/PIXHD.m3u8
 
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, And Flix
+EXTINF:-1, And Flix
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
-#EXTINF:-1,&Prive
+EXTINF:-1,&Prive
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
 EXTINF:-1, AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, Zee Cafe
+EXTINF:-1, Zee Cafe
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
 #EXTINF:-1,Warner TV
 http://203.154.243.89:11205/
@@ -240,7 +240,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:-1,Zee Etc
+EXTINF:-1,Zee Etc
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=etc
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
