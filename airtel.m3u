@@ -28,6 +28,8 @@ EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0
 http://indtv.online/zee5/0-9-zeetvhd.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" ,Zee TV
 http://indtv.online/zee5/0-9-zeetv.m3u8
+#EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" "Entertainment",Zee TV HD
+http://indtv.online/jiotv/jojotv/Zee_TV_HD.m3u8
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" ,&TV HD
 http://indtv.online/zee5/0-9-tvhd_0.m3u8
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
@@ -228,7 +230,22 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
+#EXTINF:-1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" "SonyLIV",SONY TEN1 HD
+http://indtv.online/sonyliv/SONYTEN1HD.m3u8
+#EXTINF:-1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" "SonyLIV",SONY TEN 2 HD
+http://indtv.online/sonyliv/SONYTEN2HD.m3u8
+#EXTINF:-1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" "SonyLIV",SONY TEN 3 HD
+http://indtv.online/sonyliv/SONYTEN3HD.m3u8
+#EXTINF:-1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" "SonyLIV",Sony Ten 1 SD
+http://indtv.online/sonyliv/SonyTen1SD.m3u8
+#EXTINF:-1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" "SonyLIV",Sony Ten 2 SD
+http://indtv.online/sonyliv/SonyTen2SD.m3u8
+#EXTINF:-1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" "SonyLIV",Sony Ten 3 SD
+http://indtv.online/sonyliv/SonyTen3SD.m3u8
+#EXTINF:-1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" "SonyLIV",Sony Six SD
+http://indtv.online/sonyliv/SonySixSD.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" "SonyLIV",Sony SIX HD
+http://indtv.online/sonyliv/SonySIXHD.m3u8
 
 #EXTINF:-1 tvg-id="0-9-131" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png" "Zee5",9XM
 http://indtv.online/zee5/0-9-131.m3u8
