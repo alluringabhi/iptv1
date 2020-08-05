@@ -20,52 +20,33 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
 http://indtv.online/sonyliv/SETHD.m3u8
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-EXTINF:-1, And Tv
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andtvsd
-
-EXTINF:-1, And TV HD 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andtvhd 
-
-EXTINF:-1,Zee Tv SD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/ea6fe7c79c6f494792e1ee846b4a5259
-
-EXTINF:-1,Zee TV HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvhd 
-  
-EXTINF:-1,&Picture HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicshd 
-
-EXTINF:-1,&Picture SD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andpicssd 
-
-EXTINF:-1,Zee Cinema HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zcinemahd
-
 #EXTINF:-1, Sony Max SD
 http://indtv.online/sonyliv/SonyMaxSD.m3u8
-
 #EXTINF:-1,Sony Max HD
 http://indtv.online/sonyliv/SonyMaxhd.m3u8
+EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" ,Zee TV HD
+http://indtv.online/zee5/0-9-zeetvhd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" ,Zee TV
+http://indtv.online/zee5/0-9-zeetv.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" ,&TV HD
+http://indtv.online/zee5/0-9-tvhd_0.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
+http://indtv.online/zee5/0-9-tvpictureshd.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" "Zee5",&Pictures
+http://indtv.online/zee5/0-9-pictures.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png"  ,Zee Cinema HD
+http://indtv.online/zee5/0-9-zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png"  "Zee5",Zee Cinema
+http://indtv.online/zee5/0-9-zeecinema.m3u8
 
-EXTINF:-1,Zee Bollywoood 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=classic 
- 
 #EXTINF:-1,SONY Pal
 http://indtv.online/sonyliv/SonyPalSD.m3u8
-
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-
-
 #EXTINF:-1, Sab Tv
-
 http://indtv.online/sonyliv/SABHD.m3u8
 
 #EXTINF:-1, &Explore HD 
 http://indtv.online/zee5/0-9-209.m3u8
 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
 EXTINF:-1,Zee Theatre
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55
 
@@ -74,27 +55,20 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
 http://indtv.online/zee5/0-9-229.m3u8
-
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/71d7807e101d470fbac38441de9c674e
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-EXTINF:-1, ZEE ANMOL CINEMA
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zanmolcnm 
-EXTINF:-1, ZEE ACTION
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=action 
-
-EXTINF:-1,Shemaroo Classic
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1280x720_cf.m3u8
-EXTINF:-1, Movie Zone
-https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
-
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" "Zee5",Zee Classic
+http://indtv.online/zee5/0-9-176.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" "Zee5",Zee Bollywood
+http://indtv.online/zee5/0-9-zeeclassic.m3u8
+#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" "Zee5",Living Foodz
+http://indtv.online/zee5/0-9-livingfoodz.m3u8
 #EXTINF:-1,Sony YAY
 http://indtv.online/sonyliv/SonyYaySD.m3u8
-
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 EXTINF:-1, BIG MAGIC
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=bigmagic 
- EXTINF:-1, Zee Kids
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/9b05285c38c54549a5afd04473bdd65c
+#EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" "Zee5",ZEE5 Kids
+http://indtv.online/zee5/0-9-290.m3u8
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1, Tom & Jerry
@@ -107,6 +81,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1, India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+#EXTINF:-1 tvg-id="0-9-282" tvg-logo="https://akamaividz.zee5.com/resources/0-9-282/list/386x386/indiatv.png" "Zee5",India TV 2
+http://indtv.online/zee5/0-9-282.m3u8
 #EXTINF:-1, News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1, 	Aaj Tak 
@@ -118,14 +94,29 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 EXTINF:-1, 	News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 
-EXTINF:-1, Zee News
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeenews 
+#EXTINF:-1, Zee News
+http://indtv.online/zee5/0-9-zeenews.m3u8
  
 #EXTINF:-1, 	News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 
+#EXTINF:-1 tvg-id="0-9-251" tvg-logo="https://akamaividz.zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" "Zee5",TV9 Bharatvarsh
+http://indtv.online/zee5/0-9-251.m3u8
+#EXTINF:-1 tvg-id="0-9-162" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png" "Zee5",Republic Bharat
+http://indtv.online/zee5/0-9-162.m3u8
+
+#EXTINF:-1 tvg-id="0-9-170" tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" "Zee5",News Nation
+http://indtv.online/zee5/0-9-170.m3u8
+#EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" "Zee5",News24
+http://indtv.online/zee5/0-9-206.m3u8
+#EXTINF:-1 tvg-id="0-9-273" tvg-logo="https://akamaividz.zee5.com/resources/0-9-273/list/386x386/newsx.png" "Zee5",News X
+http://indtv.online/zee5/0-9-273.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" "Zee5",Zee Business
+http://indtv.online/zee5/0-9-zeebusiness.m3u8
+#EXTINF:-1 tvg-id="0-9-wion" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" "Zee5",WION
+http://indtv.online/zee5/0-9-wion.m3u8
 #EXTINF:-1, 	NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1,CNBC 18 News
@@ -165,17 +156,17 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1,Wion
 http://three.somee.com/rade/web.php?c=wion 
 
-EXTINF:-1,  ddnews
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ddnews 
+ 
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
-EXTINF:-1, DD Bharati 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/03d04d1461114e9083d382ab0054ac2c
-EXTINF:-1, DD National 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/061be0ece7a849939ac2d9031f8fc532
 #EXTINF:-1, DD Retro
 https://streamitv.multitvsolution.in/idvo/ddretro_540p/index.m3u8
-
+#EXTINF:-1 tvg-id="0-9-250" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png" "Zee5",DD National HD
+http://indtv.online/zee5/0-9-250.m3u8
+#EXTINF:-1 tvg-id="0-9-ddkisan" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddkisan/list/386x386/09ddkisanddkisan.png" "Zee5",DD Kisan
+http://indtv.online/zee5/0-9-ddkisan.m3u8
+#EXTINF:-1 tvg-id="0-9-ddindia" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddindia/list/386x386/09ddindiaddindia.png" "Zee5",DD India
+http://indtv.online/zee5/0-9-ddindia.m3u8
 EXTINF:-1, 	Food Food 
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, History
@@ -188,9 +179,6 @@ http://indtv.online/zee5/0-9-channel_1144658965.m3u8
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=sanskartv
 #EXTINF:-1,Sanskar
 http://indtv.online/zee5/0-9-channel_1565694979.m3u8
-
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=satsangtv
-
 #EXTINF:-1, 	Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
@@ -198,8 +186,19 @@ http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya
 http://indtv.online/zee5/0-9-divyatv.m3u8
 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=divyatv
- 
+EXTINF:-1 tvg-id="0-9-channel_1565694979" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1565694979/list/386x386/09channel_1565694979satsan.png" "Zee5",Satsang TV
+http://indtv.online/zee5/0-9-channel_1565694979.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/386x386/09channel_1144658965sanska.png" "Zee5",Sanskar TV
+http://indtv.online/zee5/0-9-channel_1144658965.m3u8
+#EXTINF:-1 tvg-id="0-9-284" tvg-logo="https://akamaividz.zee5.com/resources/0-9-284/list/386x386/sadhnatv.png" "Zee5",Sadhna TV
+http://indtv.online/zee5/0-9-284.m3u8
+#EXTINF:-1 tvg-id="0-9-166" tvg-logo="https://akamaividz.zee5.com/resources/0-9-166/list/386x386/09166krishnavani.png" "Zee5",Krishna Vani
+http://indtv.online/zee5/0-9-166.m3u8
+#EXTINF:-1 tvg-id="0-9-285" tvg-logo="https://akamaividz.zee5.com/resources/0-9-285/list/386x386/ishwartv.png" "Zee5",Ishwar  TV
+http://indtv.online/zee5/0-9-285.m3u8
+#EXTINF:-1 tvg-id="0-9-183" tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/386x386/09183harekrsna.png" "Zee5",Hare Krsna
+http://indtv.online/zee5/0-9-183.m3u8
+
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
@@ -207,44 +206,52 @@ https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1, Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
-
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" "Zee5",&Prive HD
+http://indtv.online/zee5/0-9-privehd.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" "Zee5",&flix
+http://indtv.online/zee5/0-9-channel_2105335046.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" "Zee5",&flix HD
+http://indtv.online/zee5/flixhd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" "Zee5",Zee Café HD
+http://indtv.online/zee5/0-9-zeecafehd.m3u8
 #EXTINF:-1, MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Sony Pix
 http://indtv.online/sonyliv/PIXHD.m3u8
-
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-EXTINF:-1, And Flix
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
-EXTINF:-1,&Prive
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
-EXTINF:-1, AXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-EXTINF:-1, Zee Cafe
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
 #EXTINF:-1,Warner TV
 http://203.154.243.89:11205/
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-EXTINF:-1,Ten 1
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-EXTINF:-1, TEN 2
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-EXTINF:-1, TEN 3
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-EXTINF:-1, Sony Six
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1, D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-EXTINF:-1,Zee Etc
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=etc
+
+#EXTINF:-1 tvg-id="0-9-131" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png" "Zee5",9XM
+http://indtv.online/zee5/0-9-131.m3u8
+#EXTINF:-1 tvg-id="0-9-132" tvg-logo="https://akamaividz.zee5.com/resources/0-9-132/list/386x386/091329xtashan.png" "Zee5",9X Tashan
+http://indtv.online/zee5/0-9-132.m3u8
+#EXTINF:-1 tvg-id="0-9-134" tvg-logo="https://akamaividz.zee5.com/resources/0-9-134/list/386x386/091349xjhakaas.png" "Zee5",9X Jhakaas
+http://indtv.online/zee5/0-9-134.m3u8
+#EXTINF:-1 tvg-id="0-9-133" tvg-logo="https://akamaividz.zee5.com/resources/0-9-133/list/386x386/091339xjalwa.png" "Zee5",9X Jalwa
+http://indtv.online/zee5/0-9-133.m3u8
 #EXTINF:-1, Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
-
+#EXTINF:-1 tvg-id="0-9-301" tvg-logo="https://akamaividz.zee5.com/resources/0-9-301/list/386x386/1170x658psd_899351993.png" "Zee5",Sounds of ZEE5 - Romance
+http://indtv.online/zee5/0-9-301.m3u8
+#EXTINF:-1 tvg-id="0-9-300" tvg-logo="https://akamaividz.zee5.com/resources/0-9-300/list/386x386/1170x658psd_1825414407.png" "Zee5",Sounds of ZEE5 - Punjabi Beats
+http://indtv.online/zee5/0-9-300.m3u8
+#EXTINF:-1 tvg-id="0-9-299" tvg-logo="https://akamaividz.zee5.com/resources/0-9-299/list/386x386/1170x658psd_1477247939.png" "Zee5",Sounds of ZEE5 - Originals
+http://indtv.online/zee5/0-9-299.m3u8
+#EXTINF:-1 tvg-id="0-9-298" tvg-logo="https://akamaividz.zee5.com/resources/0-9-298/list/386x386/1170x658psd_1468258188.png" "Zee5",Sounds of ZEE5 - Local Vocal
+http://indtv.online/zee5/0-9-298.m3u8
+#EXTINF:-1 tvg-id="0-9-302" tvg-logo="https://akamaividz.zee5.com/resources/0-9-302/list/386x386/1170x658psd_1116886297.png" "Zee5",Sounds of ZEE5 - EDM
+http://indtv.online/zee5/0-9-302.m3u8
+#EXTINF:-1 tvg-id="0-9-219" tvg-logo="https://akamaividz.zee5.com/resources/0-9-219/list/386x386/09219showbox.png" "Zee5",Showbox
+http://indtv.online/zee5/0-9-219.m3u8
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 #EXTINF:-1,Hit Music
