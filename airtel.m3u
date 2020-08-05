@@ -104,18 +104,18 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 
-#EXTINF:-1 tvg-id="0-9-251" tvg-logo="https://akamaividz.zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" "Zee5",TV9 Bharatvarsh
+EXTINF:-1 tvg-id="0-9-251" tvg-logo="https://akamaividz.zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" "Zee5",TV9 Bharatvarsh
 http://indtv.online/zee5/0-9-251.m3u8
 #EXTINF:-1 tvg-id="0-9-162" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png" "Zee5",Republic Bharat
 http://indtv.online/zee5/0-9-162.m3u8
 
 #EXTINF:-1 tvg-id="0-9-170" tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" "Zee5",News Nation
 http://indtv.online/zee5/0-9-170.m3u8
-#EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" "Zee5",News24
+EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" "Zee5",News24
 http://indtv.online/zee5/0-9-206.m3u8
 #EXTINF:-1 tvg-id="0-9-273" tvg-logo="https://akamaividz.zee5.com/resources/0-9-273/list/386x386/newsx.png" "Zee5",News X
 http://indtv.online/zee5/0-9-273.m3u8
-#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" "Zee5",Zee Business
+EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" "Zee5",Zee Business
 http://indtv.online/zee5/0-9-zeebusiness.m3u8
 #EXTINF:-1 tvg-id="0-9-wion" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" "Zee5",WION
 http://indtv.online/zee5/0-9-wion.m3u8
