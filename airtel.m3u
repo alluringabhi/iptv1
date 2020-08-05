@@ -83,7 +83,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1, India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
-#EXTINF:-1 tvg-id="0-9-282" tvg-logo="https://akamaividz.zee5.com/resources/0-9-282/list/386x386/indiatv.png" "Zee5",India TV 2
+EXTINF:-1 tvg-id="0-9-282" tvg-logo="https://akamaividz.zee5.com/resources/0-9-282/list/386x386/indiatv.png" "Zee5",India TV 2
 http://indtv.online/zee5/0-9-282.m3u8
 #EXTINF:-1, News18 India 
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -96,7 +96,7 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 EXTINF:-1, 	News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 
-#EXTINF:-1, Zee News
+EXTINF:-1, Zee News
 http://indtv.online/zee5/0-9-zeenews.m3u8
  
 #EXTINF:-1, 	News 24
