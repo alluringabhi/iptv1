@@ -3,17 +3,8 @@
 #EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
-
-EXTINF:-1,Star Bharat FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_2500.m3u8|user-agent="Hotstar:in.startv.hotstar"
-
 #EXTINF:-1,Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
- EXTINF:-1,Star Gold FHD
-https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_2500.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714"
 
 #EXTINF:-1,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
@@ -21,28 +12,23 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Sony 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 
-http://indtv.online/sonyliv/SETHD.m3u8
 EXTINF:-1, Sony Max SD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/3500.SonyMAXSD.in_720p/index.m3u8
-http://indtv.online/sonyliv/SonyMaxSD.m3u8
+
 #EXTINF:-1,Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
-EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" ,Zee TV HD
-http://indtv.online/zee5/0-9-zeetvhd.m3u8
+
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" ,Zee TV
-http://indtv.online/zee5/0-9-zeetv.m3u8
-#EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" "Entertainment",Zee TV HD
-http://indtv.online/jiotv/jojotv/Zee_TV_HD.m3u8
+http://three.somee.com/web.php?c=zeetvhd
+
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" ,&TV HD
-http://indtv.online/zee5/0-9-tvhd_0.m3u8
+http://three.somee.com/web.php?c=andtvhd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
-http://indtv.online/zee5/0-9-tvpictureshd.m3u8
+http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" "Zee5",&Pictures
-http://indtv.online/zee5/0-9-pictures.m3u8
+http://three.somee.com/web.php?c=Andpicssd
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png"  ,Zee Cinema HD
-http://indtv.online/zee5/0-9-zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png"  "Zee5",Zee Cinema
-http://indtv.online/zee5/0-9-zeecinema.m3u8
+http://three.somee.com/web.php?c=Zcinemahd
 
 #EXTINF:-1,SONY Pal
 http://indtv.online/sonyliv/SonyPalSD.m3u8
