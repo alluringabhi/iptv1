@@ -20,9 +20,12 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
 http://indtv.online/sonyliv/SETHD.m3u8
-#EXTINF:-1, Sony Max SD
+EXTINF:-1, Sony Max SD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/3500.SonyMAXSD.in_720p/index.m3u8
 http://indtv.online/sonyliv/SonyMaxSD.m3u8
 #EXTINF:-1,Sony Max HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
+
 http://indtv.online/sonyliv/SonyMaxhd.m3u8
 EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" ,Zee TV HD
 http://indtv.online/zee5/0-9-zeetvhd.m3u8
@@ -44,6 +47,8 @@ http://indtv.online/zee5/0-9-zeecinema.m3u8
 #EXTINF:-1,SONY Pal
 http://indtv.online/sonyliv/SonyPalSD.m3u8
 #EXTINF:-1, Sab Tv
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+
 http://indtv.online/sonyliv/SABHD.m3u8
 
 #EXTINF:-1, &Explore HD 
@@ -62,9 +67,11 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 http://indtv.online/zee5/0-9-176.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" "Zee5",Zee Bollywood
 http://indtv.online/zee5/0-9-zeeclassic.m3u8
-#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" "Zee5",Living Foodz
-http://indtv.online/zee5/0-9-livingfoodz.m3u8
-#EXTINF:-1,Sony YAY
+#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" "Zee5",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi/index.m3u8
+
+#EXTINF:-1,Sony YAY 
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 http://indtv.online/sonyliv/SonyYaySD.m3u8
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 EXTINF:-1, BIG MAGIC
