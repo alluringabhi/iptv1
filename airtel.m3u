@@ -42,7 +42,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" "Zee5",Zee Bollywood
-http://three.somee.com/rade/web.m3u8?c=classic
+http://three.somee.com/rade/web.php?c=classic
 #EXTINF:-1,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi/index.m3u8
 
@@ -127,12 +127,7 @@ http://three.somee.com/rade/web.php?c=wion
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Retro
 https://streamitv.multitvsolution.in/idvo/ddretro_540p/index.m3u8
-#EXTINF:-1 tvg-id="0-9-250" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png" "Zee5",DD National HD
-http://indtv.online/zee5/0-9-250.m3u8
-#EXTINF:-1 tvg-id="0-9-ddkisan" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddkisan/list/386x386/09ddkisanddkisan.png" "Zee5",DD Kisan
-http://indtv.online/zee5/0-9-ddkisan.m3u8
-#EXTINF:-1 tvg-id="0-9-ddindia" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddindia/list/386x386/09ddindiaddindia.png" "Zee5",DD India
-http://indtv.online/zee5/0-9-ddindia.m3u8
+
 EXTINF:-1, 	Food Food 
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, History
@@ -141,8 +136,7 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,Satsang
-http://indtv.online/zee5/0-9-channel_1144658965.m3u8
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=sanskartv
+http://three.somee.com/rade/web.php?c=sanskartv
 #EXTINF:-1,Sanskar
 http://indtv.online/zee5/0-9-channel_1565694979.m3u8
 #EXTINF:-1, 	Sadhna
@@ -150,20 +144,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1,Divya
-http://indtv.online/zee5/0-9-divyatv.m3u8
-
-EXTINF:-1 tvg-id="0-9-channel_1565694979" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1565694979/list/386x386/09channel_1565694979satsan.png" "Zee5",Satsang TV
-http://indtv.online/zee5/0-9-channel_1565694979.m3u8
-#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/386x386/09channel_1144658965sanska.png" "Zee5",Sanskar TV
-http://indtv.online/zee5/0-9-channel_1144658965.m3u8
-#EXTINF:-1 tvg-id="0-9-284" tvg-logo="https://akamaividz.zee5.com/resources/0-9-284/list/386x386/sadhnatv.png" "Zee5",Sadhna TV
-http://indtv.online/zee5/0-9-284.m3u8
-#EXTINF:-1 tvg-id="0-9-166" tvg-logo="https://akamaividz.zee5.com/resources/0-9-166/list/386x386/09166krishnavani.png" "Zee5",Krishna Vani
-http://indtv.online/zee5/0-9-166.m3u8
-#EXTINF:-1 tvg-id="0-9-285" tvg-logo="https://akamaividz.zee5.com/resources/0-9-285/list/386x386/ishwartv.png" "Zee5",Ishwar  TV
-http://indtv.online/zee5/0-9-285.m3u8
-#EXTINF:-1 tvg-id="0-9-183" tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/386x386/09183harekrsna.png" "Zee5",Hare Krsna
-http://indtv.online/zee5/0-9-183.m3u8
+http://three.somee.com/rade/web.php?c=divya
 
 #EXTINF:0 "Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
