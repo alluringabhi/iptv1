@@ -26,9 +26,9 @@ http://three.somee.com/web.php?c=andtvhd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
 http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" "Zee5",&Pictures
-http://three.somee.com/web.php?c=Andpicssd
+http://three.somee.com/web.php?c=andpicssd
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png"  ,Zee Cinema HD
-http://three.somee.com/web.php?c=Zcinemahd
+http://three.somee.com/web.php?c=zcinemahd
 
 #EXTINF:-1,SONY Pal
 http://indtv.online/sonyliv/SonyPalSD.m3u8
