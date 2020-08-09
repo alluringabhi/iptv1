@@ -19,14 +19,14 @@ https://sklktcdnems06.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargo
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
+
 http://indtv.online/sonyliv/SETHD.m3u8
 EXTINF:-1, Sony Max SD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/3500.SonyMAXSD.in_720p/index.m3u8
 http://indtv.online/sonyliv/SonyMaxSD.m3u8
 #EXTINF:-1,Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
-
-http://indtv.online/sonyliv/SonyMaxhd.m3u8
 EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" ,Zee TV HD
 http://indtv.online/zee5/0-9-zeetvhd.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" ,Zee TV
