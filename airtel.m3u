@@ -24,6 +24,7 @@ http://three.somee.com/web.php?c=zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" ,&TV HD
 http://three.somee.com/web.php?c=andtvhd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" "Zee5",&Pictures
 http://three.somee.com/web.php?c=andpicssd
