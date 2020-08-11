@@ -137,6 +137,12 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1, Nat Geo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
+#EXTINF:-1, TLC HD
+https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+
+#EXTINF:-1, Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
 #EXTINF:-1, History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
