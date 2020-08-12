@@ -125,8 +125,8 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:-1,Wion
 http://three.somee.com/rade/web.php?c=wion 
-
- 
+#EXTINF:-1, DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1, DD Retro
