@@ -62,7 +62,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 http://three.somee.com/rade/web.php?c=bigmagic 
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1, Tom & Jerry
+EXTINF:-1, Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 EXTINF:-1, Nickelodeon
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
