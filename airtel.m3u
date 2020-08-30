@@ -15,9 +15,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Sony 
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
-EXTINF:-1, Sony Max SD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/3500.SonyMAXSD.in_720p/index.m3u8
-
+ 
 #EXTINF:-1,Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
@@ -134,20 +132,20 @@ http://three.somee.com/rade/web.php?c=wion
 #EXTINF:-1, DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1, Rajyasabha
-https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
 #EXTINF:-1, DD Retro
 https://streamitv.multitvsolution.in/idvo/ddretro_540p/index.m3u8
 
 #EXTINF:-1, Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1, Nat Geo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1, TLC HD
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1, Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1, History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
@@ -172,8 +170,9 @@ http://three.somee.com/rade/web.php?c=andprivehd
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" "Zee5",&flix
 http://three.somee.com/rade/web.php?c=andflix
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" "Zee5",&flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://three.somee.com/rade/web.php?c=andflixhd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" "Zee5",Zee Café HD
@@ -184,7 +183,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 
 #EXTINF:-1,Warner TV
-http://203.154.243.89:11205/
+http://203.154.243.89:11205.ts
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1, Fox Action Movies
