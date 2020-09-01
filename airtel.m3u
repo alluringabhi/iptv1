@@ -90,6 +90,9 @@ http://three.somee.com/rade/web.php?c=zeenews
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1, Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:-1, TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live2/chunks.m3u8
+
 
 #EXTINF:-1, 	NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
