@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
+EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:-1,Star Gold
+EXTINF:-1,Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:-1, Star Bharat
+EXTINF:-1, Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
-#EXTINF:-1,Colors HD
+EXTINF:-1,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
  
 #EXTINF:-1,Sony Max HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" ,Zee TV
 http://three.somee.com/web.php?c=zeetvhd
@@ -26,7 +26,6 @@ http://three.somee.com/web.php?c=zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" ,&TV HD
 http://three.somee.com/web.php?c=andtvhd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png"  ,&Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" "Zee5",&Pictures
 http://three.somee.com/web.php?c=andpicssd
@@ -34,13 +33,11 @@ http://three.somee.com/web.php?c=andpicssd
 http://three.somee.com/web.php?c=zcinemahd
 
 #EXTINF:-1,SONY Max2
-https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
 #EXTINF:-1, Sab Tv
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 
- EXTINF:-1,Star Gold2
+EXTINF:-1,Star Gold2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1, Epic
@@ -54,8 +51,9 @@ http://three.somee.com/rade/web.php?c=classic
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 
 #EXTINF:-1,Sony YAY 
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
 #EXTINF:-1, BIG MAGIC
 http://three.somee.com/rade/web.php?c=bigmagic 
 #EXTINF:-1, Shemaroo Kids
@@ -153,7 +151,7 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1, Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 
-#EXTINF:-1, History
+EXTINF:-1, History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1,NASA TV
@@ -171,7 +169,7 @@ https://livechannel.shemaroome.com/linearplayout/bhakti-linear-channel/playlist_
 https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in_480p/index.m3u8
 #EXTINF:-1, Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
-#EXTINF:-1, Movies Now HD
+EXTINF:-1, Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" "Zee5",&Prive HD
 http://three.somee.com/rade/web.php?c=andprivehd
