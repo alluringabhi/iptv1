@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
+EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
 https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:-1,Star Gold
+EXTINF:-1,Star Gold
 https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:-1, Star Bharat
+EXTINF:-1, Star Bharat
 https://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
-#EXTINF:-1,Colors HD
+EXTINF:-1,Colors HD
 https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Sony 
