@@ -224,25 +224,25 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-id="" tvg-logo=""  ,Tennis 3
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
-#EXTINF:-1,Star Sports 1 HD
+EXTINF:-1,Star Sports 1 HD
 https://bit.ly/3hSoOWR
 
-#EXTINF:-1,Star Sports 1 HD Alt
+EXTINF:-1,Star Sports 1 HD Alt
 https://bit.ly/32JISq0
 
-#EXTINF:-1,Star Sports 2 HD
+EXTINF:-1,Star Sports 2 HD
 https://bit.ly/2RFcP47
-#EXTINF:-1,Star Sports 2 HD Alt
+EXTINF:-1,Star Sports 2 HD Alt
 https://bit.ly/3kzGPLh
-#EXTINF:-1,Star Sports Select 1
+EXTINF:-1,Star Sports Select 1
 http://zer0live.hjkm.info:11990/juno/starsportsselect1/playlist.m3u8
-#EXTINF:-1  tvg-id="1107"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",STAR SPORTS 1 HD 1080 50FPS H.264
+EXTINF:-1  tvg-id="1107"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",STAR SPORTS 1 HD 1080 50FPS H.264
 https://bit.ly/334z5cP
-#EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (Airtel DTH)
+EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (Airtel DTH)
 https://bit.ly/3kwNJAG
-#EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (Jiotv+)
+EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (Jiotv+)
 https://bit.ly/2EiKBZW
-#EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD 1 Hindi (Jiotv+)
+EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD 1 Hindi (Jiotv+)
 https://bit.ly/3cdcNtz
 #EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (4k Network)
 https://bit.ly/2FcWII9
@@ -250,11 +250,11 @@ https://bit.ly/2FcWII9
 https://bit.ly/323QKlG
 #EXTINF:-1  tvg-id="1108"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD2 (Airtel DTH)
 https://bit.ly/35NPy8f
-#EXTINF:-1  tvg-id="id"  "@tivimateplaylists" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/STAR_Sports_3_logo.png/revision/latest/scale-to-width-down/200?cb=20190712145844",Star Sports 3 SD (Jiotv+)
+EXTINF:-1  tvg-id="id"  "@tivimateplaylists" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/STAR_Sports_3_logo.png/revision/latest/scale-to-width-down/200?cb=20190712145844",Star Sports 3 SD (Jiotv+)
 https://bit.ly/33FrdPj
 #EXTINF:-1  tvg-id="1109"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",Star Sports HD2
 https://bit.ly/3jXOS3V
-#EXTINF:-1  tvg-id="460"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1 (Airtel DTH)
+EXTINF:-1  tvg-id="460"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1 (Airtel DTH)
 https://bit.ly/3ccwW32
 #EXTINF:-1  tvg-id="460"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1 (Airtel)
 https://bit.ly/2GxbKc9
@@ -262,13 +262,13 @@ https://bit.ly/2GxbKc9
 https://bit.ly/3mBISAg
 #EXTINF:-1  tvg-id="461"  "@tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2 (Airtel)
 https://bit.ly/327Kdql
-#EXTINF:-1  tvg-id="N/A"  "@tivimateplaylists" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket
+EXTINF:-1  tvg-id="N/A"  "@tivimateplaylists" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket
 https://bit.ly/32LbYVT
 #EXTINF:-1  tvg-id="id"  "@tivimateplaylists" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/wllow.png",Willow HD
 https://bit.ly/2DzmxS2
 #EXTINF:-1  tvg-id="N/A"  "@tivimateplaylists" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra
 https://bit.ly/326sLCl
-#EXTINF:-1  tvg-id="id"  "@tivimateplaylists" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png",SPORTS MAX CRICKET
+EXTINF:-1  tvg-id="id"  "@tivimateplaylists" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png",SPORTS MAX CRICKET
 https://bit.ly/2ZOLLDU
-#EXTINF:-1  tvg-id="155"  "@tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony SIX HD (Sony Liv)
+EXTINF:-1  tvg-id="155"  "@tivimateplaylists" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony SIX HD (Sony Liv)
 https://bit.ly/3h6sIXHd
