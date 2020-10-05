@@ -44,7 +44,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1,SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|user-agent=Mozilla/5.0 (Linux; BRAVIA 4K 2015 Build/LMY48E.S265) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36 OPR/28.0.1754.0
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" "Zee5",Zee Bollywood
 http://three.somee.com/rade/web.php?c=classic
 #EXTINF:-1,Discovery Kids
