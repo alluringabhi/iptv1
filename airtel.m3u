@@ -1,18 +1,6 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="Star Plus HD-IN", Star Plus
-https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-
-EXTINF:-1,Star Gold
-https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
-EXTINF:-1, Star Bharat
-https://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-
-EXTINF:-1,Colors HD
-https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
-#EXTINF:-1,Sony 
+#EXTINF:-1 group-title="Entertainment",Sony 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
  
@@ -47,7 +35,8 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|user-agent=Mozilla/5.0 (Linux; BRAVIA 4K 2015 Build/LMY48E.S265) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36 OPR/28.0.1754.0
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" "Zee5",Zee Bollywood
 http://three.somee.com/rade/web.php?c=classic
-#EXTINF:-1,Discovery Kids
+
+#EXTINF:-1 group-title="Kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 
 #EXTINF:-1,Sony YAY 
@@ -63,7 +52,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 EXTINF:-1, Nickelodeon
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
-#EXTINF:-1, 	ABP News
+#EXTINF:-1 group-title="News", 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1, India TV
@@ -145,7 +134,7 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1, Nat Geo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
-#EXTINF:-1, TLC HD
+#EXTINF:-1 group-title="Infotainment", TLC HD
 https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1, Discovery Science
@@ -161,13 +150,13 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1, 	Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 
-#EXTINF:0 "Live Darshan", Shirdi Live
+#EXTINF:0 group-title="Live Darshan", Shirdi Live
 https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStjHpP0yhYrGC8BuBbD7qlnU8RpvS5VDYYjK7GUGtmGZZwXWfl",Shemaroo Bhakti
+#EXTINF:-1 group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStjHpP0yhYrGC8BuBbD7qlnU8RpvS5VDYYjK7GUGtmGZZwXWfl",Shemaroo Bhakti
 https://livechannel.shemaroome.com/linearplayout/bhakti-linear-channel/playlist_cf.m3u8
 #EXTINF:-1, Sai Leela
 https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in_480p/index.m3u8
-#EXTINF:-1, Movies Now
+#EXTINF:-1 group-title="English", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 EXTINF:-1, Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
@@ -181,7 +170,7 @@ http://three.somee.com/rade/web.php?c=andflixhd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,SONY PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent=Mozilla/5.0 (Linux; BRAVIA 4K 2015 Build/LMY48E.S265) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36 OPR/28.0.1754.0
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" "Zee5",Zee Café HD
 http://three.somee.com/rade/web.php?c=zeecafehd
 #EXTINF:-1, MNX
@@ -195,7 +184,7 @@ http://203.154.243.89:11205.ts
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
 
 
-#EXTINF:-1, Zoom
+#EXTINF:-1 group-title="Music", Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
@@ -215,7 +204,7 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1, 92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=""  ,Tennis 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports"  ,Tennis 1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  ,Tennis 2
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
