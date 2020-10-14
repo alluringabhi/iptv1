@@ -1,41 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment",Sony 
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
- 
-#EXTINF:-1,Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
-
-
-#EXTINF:-1,SONY Max2
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-#EXTINF:-1, Sab Tv
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-
-EXTINF:-1,Star Gold2
-https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-
 #EXTINF:-1, Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-
-#EXTINF:-1,SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|user-agent=Mozilla/5.0 (Linux; BRAVIA 4K 2015 Build/LMY48E.S265) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36 OPR/28.0.1754.0
-
 
 #EXTINF:-1 group-title="Kids",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 
 #EXTINF:-1,Sony YAY 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-EXTINF:-1, Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-EXTINF:-1, Nickelodeon
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
 
 #EXTINF:-1 group-title="News", 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
@@ -141,10 +117,6 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 EXTINF:-1, Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
-
-#EXTINF:-1,SONY PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent=Mozilla/5.0 (Linux; BRAVIA 4K 2015 Build/LMY48E.S265) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36 OPR/28.0.1754.0
-
 #EXTINF:-1, MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8|user-agent="Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 #EXTINF:-1, Romedy Now
@@ -157,7 +129,6 @@ http://203.154.243.89:11205.ts
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, M20 Musics
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
-#EXTINF:-1,Hit Music
 
 #EXTINF:-1, PTC Gold
 http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
