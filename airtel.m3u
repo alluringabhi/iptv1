@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Epic
+#EXTINF:-1 group-title="Entertainment", Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Kids",Discovery Kids
