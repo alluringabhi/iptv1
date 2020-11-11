@@ -3,16 +3,6 @@
 #EXTINF:-1 group-title="Entertainment", Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="Kids",Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
-
-#EXTINF:-1,Sony YAY 
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
-
-#EXTINF:-1, Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-
-
 #EXTINF:-1 group-title="News", 	ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
@@ -80,8 +70,13 @@ https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
-
-#EXTINF:-1, Discovery Hindi
+#EXTINF:-1 group-title="Kids",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1,Sony YAY 
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:-1, Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 group-title="Infotainment", Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
 
