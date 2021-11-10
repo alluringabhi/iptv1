@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:5
+#EXTINF-1, a
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_1.m3u8
-#EXT-X-ENDLIST
+
