@@ -1,0 +1,1 @@
+https://sldhncdnems03.cdnsrv.jio.com/jiotv.data.cdn.jio.com/apis/v1.3/getMobileChannelList/get/?os=android&devicetype=phone
