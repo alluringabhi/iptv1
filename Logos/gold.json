@@ -1,0 +1,758 @@
+[
+	{
+		"name": "SONY AATH",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+		"id": "",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY BBC EARTH",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
+		"id": "",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
+		"id": "",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY MARATHI",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY MAX HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY MAX2",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY MAX",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY PAL",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY PIX HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY SAB HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY SIX HD",
+		"link": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY SIX",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 1",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 1 HD",
+		"link": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 2 HD",
+		"link": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 2",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 3 HD",
+		"link": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 3",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+		"id": "@TheTechieSia-144",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 4 HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8",
+		"id": "@TheTechieSia-892",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY TEN 4",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
+		"id": "@TheTechieSia-892",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SONY WAH",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+		"id": "",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "SET HD",
+		"link": "https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8",
+		"id": "sony1000009246",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony SAB HD",
+		"link": "https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8",
+		"id": "sony1000009248",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony PAL",
+		"link": "https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8",
+		"id": "sony1000009273",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony YAY",
+		"link": "https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8",
+		"id": "sony1000001971",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony Marathi",
+		"link": "https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8",
+		"id": "sony1000009259",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony AATH",
+		"link": "https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8",
+		"id": "sony1000009255",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX HD",
+		"link": "https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8",
+		"id": "sony1000009247",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX",
+		"link": "https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8",
+		"id": "sony1000009249",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony WAH",
+		"link": "https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8",
+		"id": "sony1000009253",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX2",
+		"link": "https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8",
+		"id": "sony1000044878",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony PIX HD",
+		"link": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
+		"id": "sony1000009258",
+		"logo": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony BBC Earth HD",
+		"link": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
+		"id": "sony1000009252",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 1",
+		"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+		"id": "sony1000009280",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 2",
+		"link": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8",
+		"id": "sony1000009279",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 3",
+		"link": "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8",
+		"id": "sony1000009283",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 4",
+		"link": "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8",
+		"id": "sony1000119187",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 5",
+		"link": "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8",
+		"id": "sony1000009281",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 1 HD",
+		"link": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+		"id": "sony1000009276",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 2 HD",
+		"link": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+		"id": "sony1000009277",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 3 HD",
+		"link": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+		"id": "sony1000009278",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 4 HD",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+		"id": "sony1000119186",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 5 HD",
+		"link": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+		"id": "sony1000009275",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony Kal",
+		"link": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+		"id": "sony",
+		"logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg",
+		"group": "Sony"
+	},
+	{
+		"name": "SET HD",
+		"link": "https://dai.google.com/linear/hls/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
+		"id": "sony1000009246",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony SAB HD",
+		"link": "https://dai.google.com/linear/hls/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
+		"id": "sony1000009248",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony PAL",
+		"link": "https://dai.google.com/linear/hls/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+		"id": "sony1000009273",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony YAY",
+		"link": "https://dai.google.com/linear/hls/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+		"id": "sony1000001971",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony Marathi",
+		"link": "https://dai.google.com/linear/hls/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
+		"id": "sony1000009259",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony AATH",
+		"link": "https://dai.google.com/linear/hls/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+		"id": "sony1000009255",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX HD",
+		"link": "https://dai.google.com/linear/hls/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+		"id": "sony1000009247",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX",
+		"link": "https://dai.google.com/linear/hls/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
+		"id": "sony1000009249",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony WAH",
+		"link": "https://dai.google.com/linear/hls/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+		"id": "sony1000009253",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony MAX2",
+		"link": "https://dai.google.com/linear/hls/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+		"id": "sony1000044878",
+		"logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony PIX HD",
+		"link": "https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+		"id": "sony1000009258",
+		"logo": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony BBC Earth HD",
+		"link": "https://dai.google.com/linear/hls/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
+		"id": "sony1000009252",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 1",
+		"link": "https://dai.google.com/linear/hls/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+		"id": "sony1000009280",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 2",
+		"link": "https://dai.google.com/linear/hls/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+		"id": "sony1000009279",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 3",
+		"link": "https://dai.google.com/linear/hls/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+		"id": "sony1000009283",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 4",
+		"link": "https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
+		"id": "sony1000119187",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 5",
+		"link": "https://dai.google.com/linear/hls/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
+		"id": "sony1000009281",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 1 HD",
+		"link": "https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
+		"id": "sony1000009276",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 2 HD",
+		"link": "https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+		"id": "sony1000009277",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 3 HD",
+		"link": "https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+		"id": "sony1000009278",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 4 HD",
+		"link": "https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8",
+		"id": "sony1000119186",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "Sony TEN 5 HD",
+		"link": "https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+		"id": "sony1000009275",
+		"logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+		"group": "Sony"
+	},
+	{
+		"name": "SONY YAY",
+		"link": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+		"id": "",
+		"logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+		"group-title": "Sony"
+	},
+	{
+		"name": "Colors HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8",
+		"id": "144",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Colors_Cineplex HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Nick HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Sonic Nickelodeon",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "MTV Beats HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "MTV HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Colors Rishtey",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/Colors_Rishtey_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Colors Cineplex Bollywood",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/Colors_Cineplex_Bollywood_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Rishtey Cineplex Bollywood",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Rishtey Cineplex",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Sports18",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB.m3u8",
+		"id": "v-1301985",
+		"country": "IN",
+		"logo": "https://a.rstream.me/images/v/VvVvtIzUkc.png group="
+	},
+	{
+		"name": "Colors_Infinity HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/Colors_Infinity_HD_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "Comedy_Central HD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "MTV Beats SD",
+		"link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/MTV_Beats_voot_MOB.m3u8",
+		"id": "",
+		"logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
+		"group": "VOOT"
+	},
+	{
+		"name": "STAR MOVIES HD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=1116488&extension=m3u8",
+		"id": "1116488",
+		"logo": "http://logo.protv.cc/picons/logos/starmovies.png",
+		"group": "Movies"
+	},
+	{
+		"name": "STAR MOVIES HD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=155727&extension=m3u8",
+		"id": "155727",
+		"logo": "http://logo.protv.cc/picons/logos/starmovies.png",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "STAR MOVIES FHD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=282639&extension=m3u8",
+		"id": "282639",
+		"logo": "http://logo.protv.cc/picons/logos/starmovies.png",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "STAR SELECT MOV",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=1116489&extension=m3u8",
+		"id": "1116489",
+		"logo": "http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "STAR MOVIES SELECT HD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=155729&extension=m3u8",
+		"id": "155729",
+		"logo": "http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "MOVIES NOW FHD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=1116477&extension=m3u8",
+		"id": "1116477",
+		"logo": "http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/MOVIESNOWHD.png",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "HBO HD",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=155734&extension=m3u8",
+		"id": "155734",
+		"logo": "http://logo.protv.cc/picons/logos/hbohd.png",
+		"group": "Movies-NTP"
+	},
+	{
+		"name": "STAR SPORTS KANNADA",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=156102&extension=m3u8",
+		"id": "156102",
+		"logo": "http://logo.protv.cc/picons/logos/SONY-SIX.png",
+		"group": "Sports-NTP"
+	},
+	{
+		"name": "STAR SPORTS TAMIL",
+		"link": "http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=155873&extension=m3u8",
+		"id": "155873",
+		"logo": "http://logo.protv.cc/picons/logos/STAR-SPORTS-TAMIL.jpg",
+		"group": "Sports-NTP"
+	},
+	{
+		"name": "CNN international",
+		"link": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
+	},
+	{
+		"name": "CBSN",
+		"link": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
+	},
+	{
+		"name": "Bloomberg",
+		"link": "https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"
+	},
+	{
+		"name": "Fox news now",
+		"link": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
+	},
+	{
+		"name": "DW",
+		"link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+	},
+	{
+		"name": "NHK world",
+		"link": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+	},
+	{
+		"name": "CNA",
+		"link": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+	},
+	{
+		"name": "Discovery HD",
+		"link": "http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e"
+	},
+	{
+		"name": "Cinevault Westerns HD",
+		"link": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8"
+	},
+	{
+		"name": "HBO HD",
+		"link": "http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403",
+		"id": "",
+		"logo": "",
+		"group-title": ""
+	},
+	{
+		"name": "STAR SPORTS 2 HD",
+		"link": "https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8",
+		"id": "",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png",
+		"group": "SPORTS CHANNELS"
+	},
+	{
+		"name": "ATN AFGHANISTAN",
+		"link": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8",
+		"id": "",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ariana_television_logo.png",
+		"group": "SPORTS CHANNELS"
+	},
+	{
+		"name": "STAR JALSHA",
+		"link": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8",
+		"id": "",
+		"logo": "https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png",
+		"group": "INDIAN CHANNELS"
+	},
+	{
+		"name": "SHEEMAROO BOLLYWOOD",
+		"link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+		"id": "",
+		"logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+		"group": "MOVIES CHANNELS"
+	},
+	{
+		"name": "BOLLYWOOD PRIME",
+		"link": "https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8",
+		"id": "",
+		"logo": "https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",
+		"group": "MOVIES CHANNELS"
+	},
+	{
+		"name": "STAR GOLD HD",
+		"link": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8",
+		"id": "",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg",
+		"group": "MOVIES CHANNELS"
+	},
+	{
+		"name": "STAR GOLD SELECT",
+		"link": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8",
+		"id": "",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639",
+		"group": "MOVIES CHANNELS"
+	},
+	{
+		"name": "STAR MOVIES HD",
+		"link": "http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8",
+		"id": "",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"
+	},
+	{
+		"name": "Star Plus HD -Rs 19",
+		"link": "http://121.91.60.67:8045/play/a004/index.m3u8",
+		"id": "",
+		"logo": "",
+		"group-title": ""
+	},
+	{
+		"name": "ppv",
+		"link": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.m3u8",
+		"id": "",
+		"logo": "",
+		"group-title": ""
+	},
+	{
+		"name": "afgvsuae",
+		"link": "https://dai.fancode.com/primary/90807_english_hls_4526ta-di/1080p.m3u8",
+		"id": "",
+		"logo": "",
+		"group-title": ""
+	},
+	{
+		"name": "ppv",
+		"link": "https://nayeem-parvez.pw/api/cooltv.m3u8?id=11112",
+		"id": "",
+		"logo": "",
+		"group-title": ""
+	}
+]
