@@ -288,17 +288,10 @@
         "artwork_uri": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
         "uri": "https:\/\/itspkg.in\/avyaan\/ttsky.mpd?contentID=463",
         "name": "Star Sports Select 2 HD"
-    },
+    }
 
   
   
-  {    
-    "drm_scheme": "widevine",
-    "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test",
-    "artwork_uri":"https://upload.wikimedia.org/wikipedia/en/f/f4/Widevine_logo.png",
-    "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
-    "name": "Widevine DASH"
-  }
-  
+
  
 ]
