@@ -608,7 +608,14 @@
     "link": "http://watchindia.net:8880/live/12171/04170628/2080.ts",
     "id": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"},
-
+{
+      
+       "name": "Star Gold 2",
+       "link": "http://itspkg.in/ttv/play.php?tv=976",
+      "id": "",
+      "logo": "",
+      "group-title": ""
+  },
 
   
 
@@ -618,7 +625,7 @@
  {
       
        "name": "Star Plus HD -Rs 19",
-       "link": "http://121.91.60.67:8045/play/a004.ts",
+       "link": "http://121.91.60.67:8045/play/a004/index.m3u8",
       "id": "",
       "logo": "",
       "group-title": ""
