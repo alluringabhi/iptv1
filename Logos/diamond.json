@@ -1,10 +1,10 @@
 [
 	{
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https:\/\/portal-jade-sigma.vercel.app\/api\/Getkey.php?id=463&key",
+        "drm_license_uri": "",
         "artwork_uri": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
         "uri": "https:\/\/itspkg.in\/avyaan\/ttsky.mpd?contentID=463",
-        "name": "Star Sports Select 2 HD"
+        "name": "non working"
    	 },
 
   
