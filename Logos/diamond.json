@@ -8,6 +8,60 @@
         "name": "non working"
    	 },
 
+    {
+        "drm_scheme": "2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb",
+        "drm_license_uri": "2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb",
+        "artwork_uri": null,
+        "uri": "https:\/\/linearjitp-playback.astro.com.my\/dash-wv\/linear\/5053\/default.mpd",
+        "name": "HBO Family"
+    },
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372",
+        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/HBO_Hits.png",
+        "uri": "https:\/\/linearjitp-playback.astro.com.my\/dash-wv\/linear\/5055\/default.mpd",
+        "name": " HBO Hits"
+    },
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9",
+        "artwork_uri": "https:\/\/i.ibb.co\/8ct62yr\/Hbo-sign-hometv.png",
+        "uri": "https:\/\/tglmp02.akamaized.net\/out\/v1\/b37a81eb3585471cb9c639c78edcdefa\/manifest.mpd",
+        "name": "HBO SIGNATURE"
+    },
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7",
+        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Warner-TV_v1.png",
+        "uri": "https:\/\/linearjitp-playback.astro.com.my\/dash-wv\/linear\/2605\/default.mpd",
+        "name": " WARNER TV"
+    },
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0",
+        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Paramount.png",
+        "uri": "https:\/\/linearjitp-playback.astro.com.my\/dash-wv\/linear\/5056\/default.mpd",
+        "name": " Paramount"
+    },
+
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
+        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Astro_Cricket_v1.png",
+        "uri": "https:\/\/linearjitp02-playback.astro.com.my\/dash-wv\/linear\/2504\/default.mpd",
+        "name": " ASTRO CRICKET"
+    },
+	
+
+
+
+
+
+
+
+
+
+	
   
  {
         "drm_scheme": "com.widevine.alpha",
