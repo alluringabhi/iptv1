@@ -632,7 +632,7 @@
   },
  {
       "name": "ppv",
-      "link": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.m3u8",
+      "link": "https://nayeem-parvez.pw/api/cooltv.m3u8?id=11123",
       "id": "",
       "logo": "",
       "group-title": ""
@@ -656,8 +656,8 @@
     },
 
 {
-        "name": "Ind vs Afg",
-        "link": "http://tv.cloudcdn.me/live.ts?channelId=288&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test",
+        "name": "Sky Cricket",
+        "link": "https://nayeem-parvez.pw/api/cooltv.m3u8?id=11122",
         "tvg-id": "",
         "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/ind_vs_afg_live_horizontal_carousel-1705384111964.jpg",
         "group-title": "Jio Cinema Match"
