@@ -546,13 +546,7 @@
       "group": "SPORTS CHANNELS"
   },
 
-  {
-      "name": "ATN AFGHANISTAN",
-      "link": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8",
-      "id": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ariana_television_logo.png",
-      "group": "SPORTS CHANNELS"
-  },
+  
 
   
   {
@@ -603,19 +597,7 @@
     "id": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"},
 
-	  {
-    "name": "STAR MOVIES HD1",
-    "link": "http://watchindia.net:8880/live/12171/04170628/2080.ts",
-    "id": "",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"},
-{
-      
-       "name": "Star Gold 2",
-       "link": "http://itspkg.in/ttv/play.php?tv=976",
-      "id": "",
-      "logo": "",
-      "group-title": ""
-  },
+	  
 
   
 
@@ -640,7 +622,7 @@
 
 
   {
-      "name": "Travel XP",
+      "name": "Travel XP open in moviandrm",
       "link": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "id": "",
       "logo": "",
@@ -655,25 +637,13 @@
         "group-title": "t4k-INDIA | HINDI"
     },
 
-{
-        "name": "Sky Cricket",
-        "link": "https://nayeem-parvez.pw/api/cooltv.m3u8?id=11122",
-        "tvg-id": "",
-        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/ind_vs_afg_live_horizontal_carousel-1705384111964.jpg",
-        "group-title": "Jio Cinema Match"
-    },
 
-   {
-      "name": "Fight-err",
-      "link": "http://fastdownload.world/movies/download/New-Hindi-Movies-Theatre-Print/12934/Fighter_2024_HD_720p_DVD_SCR__hd-By-FilmyHit.mp4",
-      "id": "",
-      "logo": "",
-      "group-title": ""
-  },
+
+   
   
   {
-      "name": "Animal-movie",
-      "link": "http://fastdownload.world/movies/download/Bollywood-Orignal-DvD-Rip/12935/Animal_2023_ORG_1080p_Full_HD_DVD_Rip__hd-By-FilmyHit.mp4",
+      "name": "ppv",
+      "link": "link",
       "id": "",
       "logo": "",
       "group-title": ""
