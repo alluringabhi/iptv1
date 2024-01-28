@@ -637,8 +637,34 @@
         "group-title": "t4k-INDIA | HINDI"
     },
 
-
-
+{
+        "name": "StarGold SelHD-Rs8",
+        "link": "http://121.91.60.67:8045/play/a00g/index.m3u8"
+    },
+    
+    {
+        "name": "StarMovieSelHD-Rs19",
+        "link": "http://121.91.60.67:8045/play/a016/index.m3u8"
+    },
+    {
+        "name": "STAR MOVIES HD-Rs19",
+        "link": "http://121.91.60.67:8045/play/a015/index.m3u8"
+    },
+    
+    
+    {
+        "name": "Star Gold Thrills- Rs 2",
+        "link": "http://121.91.60.67:8045/play/a01c/index.m3u8"
+    },
+    
+     {
+        "name": "Star Gold Romance- Rs 2",
+        "link": "http://121.91.60.67:8045/play/a01d/index.m3u8"
+    },
+    
+    
+    
+    
    
   
   {
