@@ -1,19 +1,958 @@
 {
-	"description": "Plugin to watch Streams",
-	"author": "Superfan",
-	"homepage": "https://api.deanbg.com",
-	"title": "Superstreams",
-	"synopsis": "A collection of streams",
-	"version": "3.2",
-	"file": "jiobyid.js",
-	"showtimeVersion": "5.0.300",
-	"type": "ecmascript",
-	"apiversion": 2,
-	"id": "jiotvbyid",
-	"icon": "logo.png",
-  "downloadURL": "https://raw.githubusercontent.com/alluringabhi/iptv1/master/Logos/jtv.zip",
-	"category": "tv",
-	"control": {
-		"uriprefixes": ["jiotvbyid:"]
-	}
+    "version": 1,
+    "plugins": [
+        {
+            "id": "drmTEST",
+            "version": "1.0.1",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.752",
+            "title": "drmTEST",
+            "synopsis": "movianDRM Test and example for testers and developers<br>Android 5.1, Movian 5.0.752 and movianDRM 5.1.752 or later required!",
+            "description": "https://apps.movian.eu",
+            "homepage": "https://apps.movian.eu",
+            "category": "video",
+            "downloadURL": "https://repo.movian.eu/drmTEST.zip",
+            "icon": "https://repo.movian.eu/drmTEST.png",
+            "popularity": 19000000,
+            "control": {
+                "uriprefixes": [
+                    "drmTEST:"
+                ]
+            }
+        },
+        {
+            "id": "pluginsBG",
+            "version": "1.4.7",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.300",
+            "title": "pluginsBG",
+            "synopsis": "A collection of 6 plugins (Zamunda, Arena, Zelka, Kolibka, subsBG, HBO)",
+            "description": "Тази добавка (pluginsBG) заменя всички отделни версии на старите приложения. Деинсталирайте старите версии!<br><br>https://apps.movian.eu",
+            "homepage": "https://apps.movian.eu",
+            "category": "video",
+            "downloadURL": "https://repo.movian.eu/pluginsBG.zip",
+            "icon": "https://repo.movian.eu/pluginsBG.png",
+            "popularity": 25000000,
+            "control": {
+                "uriprefixes": [
+                    "pluginsBG:"
+                ]
+            }
+        },
+        {
+            "id": "bgTV",
+            "version": "3.8.7",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.470",
+            "title": "bgTV",
+            "synopsis": "Bulgarian TV Channels",
+            "description": "BG IPTV with EPG",
+            "homepage": "https://apps.movian.eu",
+            "category": "tv",
+            "downloadURL": "https://repo.movian.eu/bgTV.zip",
+            "icon": "https://repo.movian.eu/bgTV.png",
+            "popularity": 22000000,
+            "control": {
+                "uriprefixes": [
+                    "bgTV:"
+                ]
+            }
+        },
+        {
+            "id": "skyF1",
+            "version": "7.1.11",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.000",
+            "title": "Formula 1",
+            "synopsis": "Formula 1 - Live, On-Demand and Archive",
+            "description": "Live Formula 1, F2, F3, F1 Academy, W Series & Porsche Supercup (F1TV)",
+            "homepage": "https://f1.movian.eu",
+            "category": "tv",
+            "downloadURL": "https://repo.movian.eu/skyF1.zip",
+            "icon": "https://repo.movian.eu/skyF1.png",
+            "popularity": 21000000,
+            "control": {
+                "uriprefixes": [
+                    "skyF1:"
+                ]
+            }
+        },
+        {
+            "id": "torrents",
+            "version": "3.0.6",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.300",
+            "title": "torrents",
+            "synopsis": "A collection of 3 plugins (tGX, ezTV, yts)",
+            "description": "This plugin replaces the standalone versions of the three plugins.<br><br>https://apps.movian.eu",
+            "homepage": "https://apps.movian.eu",
+            "category": "video",
+            "downloadURL": "https://repo.movian.eu/torrents.zip",
+            "icon": "https://repo.movian.eu/torrents.png",
+            "popularity": 21500000,
+            "control": {
+                "uriprefixes": [
+                    "tey:"
+                ]
+            }
+        },
+        {
+            "id": "ytp",
+            "version": "1.0.8",
+            "type": "ecmascript",
+            "author": "deank",
+            "showtimeVersion": "5.0.462",
+            "title": "Youtube Player",
+            "synopsis": "Youtube Player",
+            "description": "Simple YT Player (no interface)",
+            "homepage": "",
+            "category": "video",
+            "downloadURL": "https://repo.movian.eu/ytp.zip",
+            "icon": "https://repo.movian.eu/ytp.png",
+            "popularity": 20000000,
+            "control": {
+                "uriprefixes": [
+                    "ytp:"
+                ]
+            }
+        },
+        {
+            "id": "keysBG",
+            "version": "2.0.0",
+            "type": "views",
+            "author": "dean",
+            "showtimeVersion": "5.0.0",
+            "title": "Bulgarian Phonetic/BDS On-screen Keyboard",
+            "synopsis": "",
+            "description": "",
+            "homepage": "",
+            "category": "glwosk",
+            "downloadURL": "https://repo.movian.eu/keysBG.zip",
+            "icon": "https://repo.movian.eu/keysBG.png",
+            "popularity": 20000000
+        },
+        {
+            "id": "rua_osk",
+            "version": "1.3",
+            "type": "views",
+            "author": "Andreas Öman, lprot",
+            "showtimeVersion": "4.5.302",
+            "title": "Cyrillic On-Screen Keyboard",
+            "synopsis": "",
+            "description": "",
+            "homepage": "",
+            "category": "glwosk",
+            "downloadURL": "https://repo.movian.eu/rua_osk.zip",
+            "icon": "https://repo.movian.eu/rua_osk.png",
+            "popularity": 0
+        },
+        {
+            "id": "ell_osk",
+            "version": "1.0.1",
+            "type": "views",
+            "author": "nikkpap",
+            "showtimeVersion": "5.0.0",
+            "title": "Gr & Eng OSK",
+            "synopsis": "Greek and English OSK interface for Movian.",
+            "description": "This plugin installs on Movian, Greek and English OSK interface.",
+            "homepage": "www.paok.gr",
+            "category": "glwosk",
+            "downloadURL": "https://repo.movian.eu/ell_osk.zip",
+            "icon": "https://repo.movian.eu/ell_osk.png",
+            "popularity": 0
+        },
+        {
+            "id": "nebula",
+            "version": "1.1.3",
+            "type": "ecmascript",
+            "author": "deank",
+            "showtimeVersion": "5.0.300",
+            "title": "Nebula",
+            "synopsis": "Nebula",
+            "description": "Nebula - https://nebula.tv/",
+            "homepage": "https://nebula.tv",
+            "category": "video",
+            "downloadURL": "https://repo.movian.eu/nebula.zip",
+            "icon": "https://repo.movian.eu/nebula.png",
+            "popularity": 21600000,
+            "control": {
+                "uriprefixes": [
+                    "nebula:"
+                ]
+            }
+        },
+        {
+            "id": "opensubtitles",
+            "version": "2.3.3",
+            "type": "ecmascript",
+            "author": "Andreas Smas",
+            "showtimeVersion": "5.0.401",
+            "title": "Opensubtitles",
+            "synopsis": "Biggest multi-language subtitle database",
+            "description": "Installing this plugin will make Movian automatically search for subtitles online at opensubtitles.org when playing a movie",
+            "homepage": "http://www.opensubtitles.org/",
+            "category": "subtitles",
+            "downloadURL": "https://repo.movian.eu/opensubtitles.zip",
+            "icon": "https://repo.movian.eu/opensubtitles.png",
+            "popularity": 62046
+        },
+        {
+            "id": "xperience",
+            "version": "1.1.2",
+            "type": "ecmascript",
+            "author": "Fábio Ferreira",
+            "showtimeVersion": "5.0.312",
+            "title": "Xperience",
+            "synopsis": "Xperience is the newest skin plugin that promises to improve your experience with Movian. It tries to bring the best themes of other Media Centers to Movian, including Xperience 1080. Note: Touchscreen is not supported",
+            "description": "Xperience is the newest skin plugin that promises to improve your experience with Movian.",
+            "homepage": "",
+            "category": "other",
+            "downloadURL": "https://repo.movian.eu/xperience.zip",
+            "icon": "https://repo.movian.eu/xperience.png",
+            "popularity": 0
+        },
+        {
+            "id": "rutor",
+            "version": "0.3.4",
+            "type": "ecmascript",
+            "author": "lprot",
+            "showtimeVersion": "4.8",
+            "title": "Rutor",
+            "synopsis": "Rutor.info :: Свободный торрент трекер",
+            "description": "<p>Rutor.info :: Свободный торрент трекер<p>Для дополнительной информации, посетите  <a href=\"http://rutor.info\">http://rutor.org</a>",
+            "homepage": "http://github.com/lprot/movian-plugin-rutor",
+            "category": "video-ru",
+            "downloadURL": "https://repo.movian.eu/rutor.zip",
+            "icon": "https://repo.movian.eu/rutor.png",
+            "popularity": 175035
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "ArjLover",
+            "file": "ArjLover.js",
+            "showtimeVersion": "5",
+            "version": "0.0.3",
+            "author": "kovalDN",
+            "title": "ArjLover",
+            "icon": "https://repo.movian.eu/ArjLover.png",
+            "synopsis": "Онлайн архив ArjLover для просмотра советских и пост-советских фильмов и мультфильмов",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн архиву ArjLover через зеркала сайта, <a href=\"http://multiki.arjlover.net\">http://multiki.arjlover.net</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/ArjLover.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "FlarrowFilms",
+            "file": "FlarrowFilms.js",
+            "showtimeVersion": "5",
+            "version": "0.0.12",
+            "author": "kovalDN",
+            "title": "Flarrow Films",
+            "icon": "https://repo.movian.eu/FlarrowFilms.png",
+            "synopsis": "Онлайн кинотеатр Flarrow Films для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру Flarrow Films через зеркала сайта, <a href=\"https://flarrowfilms.com\">https://flarrowfilms.com</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/FlarrowFilms.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "RedHeadSound",
+            "file": "RedHeadSound.js",
+            "showtimeVersion": "5",
+            "version": "0.0.11",
+            "author": "kovalDN",
+            "title": "Red Head Sound",
+            "icon": "https://repo.movian.eu/RedHeadSound.png",
+            "synopsis": "Онлайн кинотеатр Red Head Sound для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру Red Head Sound через зеркала сайта, <a href=\"https://redheadsound.ru\">https://redheadsound.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/RedHeadSound.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "ColdFilm",
+            "file": "ColdFilm.js",
+            "showtimeVersion": "5",
+            "version": "0.0.8",
+            "author": "kovalDN",
+            "title": "ColdFilm",
+            "icon": "https://repo.movian.eu/ColdFilm.png",
+            "synopsis": "Онлайн кинотеатр ColdFilm для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру ColdFilm через зеркала сайта, <a href=\"https://coldfilms.ucoz.ru\">https://coldfilms.ucoz.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/ColdFilm.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Zombie-film",
+            "file": "Zombie-film.js",
+            "showtimeVersion": "5",
+            "version": "0.0.2",
+            "author": "kovalDN",
+            "title": "Zомби",
+            "icon": "https://repo.movian.eu/Zombie-film.png",
+            "synopsis": "Онлайн кинотеатр Zombie-film для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру Zombie-film через зеркала сайта, <a href=\"http://zombie-film.com\">http://zombie-film.com</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Zombie-film.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "VHSbox",
+            "file": "VHSbox.js",
+            "showtimeVersion": "5",
+            "version": "0.0.3",
+            "author": "kovalDN",
+            "title": "VHSbox",
+            "icon": "https://repo.movian.eu/VHSbox.png",
+            "synopsis": "Онлайн кинотеатр VHSbox для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру VHSbox через зеркала сайта, <a href=\"http://vhsbox.ru\">http://vhsbox.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/VHSbox.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "StudioHD",
+            "file": "StudioHD.js",
+            "showtimeVersion": "5",
+            "version": "0.0.5",
+            "author": "kovalDN",
+            "title": "StudioHD",
+            "icon": "https://repo.movian.eu/StudioHD.png",
+            "synopsis": "Онлайн кинотеатр StudioHD для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру StudioHD через зеркала сайта, <a href=\"http://studiohd.ru\">http://studiohd.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/StudioHD.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "KinoLaym",
+            "file": "KinoLaym.js",
+            "showtimeVersion": "5",
+            "version": "0.0.8",
+            "author": "kovalDN",
+            "title": "KinoLaym",
+            "icon": "https://repo.movian.eu/KinoLaym.png",
+            "synopsis": "Онлайн кинотеатр KinoLaym для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру KinoLaym через зеркала сайта, <a href=\"https://kinolaym.biz\">https://kinolaym.biz</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/KinoLaym.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "AllSerial",
+            "file": "AllSerial.js",
+            "showtimeVersion": "5",
+            "version": "0.0.4",
+            "author": "kovalDN",
+            "title": "AllSerial",
+            "icon": "https://repo.movian.eu/AllSerial.png",
+            "synopsis": "Онлайн кинотеатр AllSerial для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру AllSerial через зеркала сайта, <a href=\"https://allserial.org\">https://allserial.org</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/AllSerial.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Toloka",
+            "file": "Toloka.js",
+            "showtimeVersion": "5",
+            "version": "0.0.1",
+            "author": "kovalDN",
+            "title": "Толока",
+            "icon": "https://repo.movian.eu/Toloka.png",
+            "synopsis": "Онлайн торрент трекер Толока (Гуртом) для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру Толока (Гуртом) через зеркала сайта, <a href=\"https://toloka.to\">https://toloka.to</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Toloka.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "HDRezka.TV",
+            "file": "HDRezka.TV.js",
+            "showtimeVersion": "5",
+            "version": "2.6.8.6",
+            "author": "Buksa (fix by kovalDN)",
+            "title": "HDRezka.TV",
+            "icon": "https://repo.movian.eu/HDRezka.TV.png",
+            "synopsis": "Онлайн кинотеатр HDRezka для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру HDRezka через зеркала сайта, <a href=\"http://hdrezkayou.com\">http://hdrezkayou.com</a></p>",
+            "homepage": "https://github.com/Buksa/movian-plugin-HDRezka.tv",
+            "downloadURL": "https://repo.movian.eu/HDRezka.TV.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "KrasView.TV",
+            "file": "KrasView.TV.js",
+            "showtimeVersion": "5",
+            "version": "0.2.1b",
+            "author": "Buksa (fix by kovalDN)",
+            "title": "KrasView.TV",
+            "icon": "https://repo.movian.eu/KrasView.TV.png",
+            "synopsis": "Онлайн кинотеатр KrasView для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн кинотеатру KrasView через зеркала сайта, <a href=\"http://hlamer.ru\">http://hlamer.ru</a></p>",
+            "homepage": "https://github.com/Buksa/movian-plugin-zloekino",
+            "downloadURL": "https://repo.movian.eu/KrasView.TV.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "HDRezka.Tracker",
+            "file": "HDRezka.Tracker.js",
+            "showtimeVersion": "5",
+            "version": "0.2.0.6",
+            "author": "fotocllage (fix by kovalDN)",
+            "title": "HDRezka.Tracker",
+            "icon": "https://repo.movian.eu/HDRezka.Tracker.png",
+            "synopsis": "Онлайн торрент трекер кинотеатра HDRezka для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру кинотеатра HDRezka через зеркала сайта, <a href=\"http://rezka.tv\">http://rezka.tv</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/HDRezka.Tracker.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Filmix.Tracker",
+            "file": "Filmix.Tracker.js",
+            "showtimeVersion": "5",
+            "version": "1.0.1.8",
+            "author": "Skomeika (fix by kovalDN)",
+            "title": "Filmix.Tracker",
+            "icon": "https://repo.movian.eu/Filmix.Tracker.png",
+            "synopsis": "Онлайн торрент трекер кинотеатра Filmix для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру кинотеатра Filmix через зеркала сайта, <a href=\"https://filmix.ac\">https://filmix.ac</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Filmix.Tracker.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Zona.Tracker",
+            "file": "Zona.Tracker.js",
+            "showtimeVersion": "5",
+            "version": "0.0.6.4",
+            "author": "dashkodo (fix by kovalDN)",
+            "title": "Zona.Tracker",
+            "icon": "https://repo.movian.eu/Zona.Tracker.png",
+            "synopsis": "Онлайн торрент трекер кинотеатра Zona для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру кинотеатра Zona через зеркала сайта, <a href=\"http://zona.ru\">http://zona.ru</a></p>",
+            "homepage": "https://github.com/dashkodo/zona-movian-ukr",
+            "downloadURL": "https://repo.movian.eu/Zona.Tracker.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "NewStudio.TV",
+            "file": "NewStudio.TV.js",
+            "showtimeVersion": "5",
+            "version": "0.0.5.4",
+            "author": "Buksa & Michman (fix by kovalDN)",
+            "title": "NewStudio.TV",
+            "icon": "https://repo.movian.eu/NewStudio.TV.png",
+            "synopsis": "Онлайн торрент трекер кинотеатра NewStudio.TV для просмотра сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру кинотеатра NewStudio.TV через зеркала сайта, <a href=\"http://newstudio.tv\">http://newstudio.tv</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/NewStudio.TV.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 1,
+            "id": "LostFilm.TV",
+            "file": "LostFilm.TV.js",
+            "showtimeVersion": "5",
+            "version": "0.4.7.3",
+            "author": "MPertsov, mod by Mike1099 (fix by kovalDN)",
+            "title": "LostFilm.TV",
+            "icon": "https://repo.movian.eu/LostFilm.TV.png",
+            "synopsis": "Онлайн торрент трекер кинотеатра LostFilm.TV для просмотра сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру кинотеатра LostFilm.TV через зеркала сайта, <a href=\"https://www.lostfilm.tv\">https://www.lostfilm.tv</a></p>",
+            "homepage": "https://github.com/mpertsov/movian-lostfilm",
+            "downloadURL": "https://repo.movian.eu/LostFilm.TV.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "RuTracker.org",
+            "file": "RuTracker.org.js",
+            "showtimeVersion": "5",
+            "version": "0.7.5.12b",
+            "author": "Wain, mod by Denizzz_zp (fix by kovalDN)",
+            "title": "RuTracker.org",
+            "icon": "https://repo.movian.eu/RuTracker.org.png",
+            "synopsis": "Онлайн торрент трекер RuTracker.org для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру RuTracker.org через зеркала сайта, <a href=\"http://rutracker.org\">http://rutracker.org</a></p>",
+            "homepage": "https://github.com/Wain-PC/movian-rutracker",
+            "downloadURL": "https://repo.movian.eu/RuTracker.org.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "NNM-Club",
+            "file": "NNM-Club.js",
+            "showtimeVersion": "5",
+            "version": "0.0.2.5",
+            "author": "AISka (fix by kovalDN)",
+            "title": "NNM-Club",
+            "icon": "https://repo.movian.eu/NNM-Club.png",
+            "synopsis": "Онлайн торрент трекер NoNaMe Club для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру NoNaMe Club через зеркала сайта, <a href=\"https://nnm-club.me\">https://nnm-club.me</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/NNM-Club.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Generalfilm.org",
+            "file": "Generalfilm.org.js",
+            "showtimeVersion": "5",
+            "version": "0.0.1",
+            "author": "kovalDN",
+            "title": "Generalfilm.org",
+            "icon": "https://repo.movian.eu/Generalfilm.org.png",
+            "synopsis": "Онлайн торрент трекер Generalfilm.org для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру Generalfilm.org через зеркала сайта, <a href=\"http://generalfilm.org\">http://generalfilm.org</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Generalfilm.org.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "RuTor.org",
+            "file": "RuTor.org.js",
+            "showtimeVersion": "5",
+            "version": "0.3.5",
+            "author": "lprot (fix by kovalDN)",
+            "title": "RuTor.org",
+            "icon": "https://repo.movian.eu/RuTor.org.png",
+            "synopsis": "Онлайн торрент трекер RuTor.org для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру RuTor.org через зеркала сайта, <a href=\"http://rutor.org\">http://rutor.org</a></p>",
+            "homepage": "http://github.com/lprot/movian-plugin-rutor",
+            "downloadURL": "https://repo.movian.eu/RuTor.org.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "anilibria.tv",
+            "file": "index.js",
+            "showtimeVersion": "5",
+            "version": "0.0.2",
+            "author": "Buksa",
+            "title": "anilibria.tv",
+            "category": "video-ru",
+            "synopsis": "https://www.anilibria.tv",
+            "description": "<p>anilibria plugin - is the integration of the website https://www.anilibria.tv into Movian",
+            "downloadURL": "https://repo.movian.eu/anilibria.tv.zip",
+            "icon": "https://repo.movian.eu/anilibria.tv.png"
+        },
+        {
+            "description": "<p>Tivix : Watch free channels<p>For additional information, visit <a href=\"https://tivix.co\">https://tivix.co</a>",
+            "author": "czz78",
+            "homepage": "https://github.com/czz/movian-plugin-tivix",
+            "title": "Tivix",
+            "synopsis": "Tivix",
+            "version": "1.3.1",
+            "file": "tivix.js",
+            "showtimeVersion": "5.0.100",
+            "type": "ecmascript",
+            "id": "tivix",
+            "category": "video-ru",
+            "apiversion": 2,
+            "downloadURL": "https://repo.movian.eu/tivix.zip",
+            "icon": "https://repo.movian.eu/tivix.png"
+        },
+        {
+            "description": "<p>Online TV - is M3U/XML playlist loader and collection of online tv sources.<p>For more information visit corresponding websites.",
+            "author": "lprot",
+            "homepage": "https://github.com/lprot/movian-plugin-onlinetv",
+            "title": "Online TV",
+            "synopsis": "Online TV - collection of online tv sources",
+            "version": "1.0.28",
+            "file": "tv.js",
+            "showtimeVersion": "4.8",
+            "type": "ecmascript",
+            "id": "tv",
+            "category": "video-ru",
+            "apiversion": 2,
+            "downloadURL": "https://repo.movian.eu/tv.zip",
+            "icon": "https://repo.movian.eu/tv.png"
+        },
+        {
+            "id": "shoutcast",
+            "version": "0.3.1",
+            "type": "ecmascript",
+            "author": "lprot",
+            "showtimeVersion": "4.8",
+            "title": "SHOUTcast",
+            "synopsis": "SHOUTcast Radio - Listen to Free Online Radio Stations",
+            "description": "<p>SHOUTcast Radio - Listen to Free Online Radio Stations<p>For more information, visit <a href=\"http://www.shoutcast.com\">http://www.shoutcast.com</a>",
+            "homepage": "http://github.com/lprot/movian-plugin-shoutcast",
+            "category": "music",
+            "downloadURL": "https://repo.movian.eu/shoutcast.zip",
+            "icon": "https://repo.movian.eu/shoutcast.png",
+            "popularity": 2446
+        },
+        {
+            "id": "somafm",
+            "version": "0.4.2",
+            "type": "ecmascript",
+            "author": "Henrik Andersson, lprot",
+            "showtimeVersion": "4.8",
+            "title": "SomaFM",
+            "synopsis": "Over 30 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting to the world. All music hand-picked by SomaFM's award-winning DJs and music directors.",
+            "description": "<p>SomaFM<p>Over 30 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting to the world. All music hand-picked by SomaFM's award-winning DJs and music directors.</p><p>For more information, visit <a href=\"http://somafm.com\">http://somafm.com</a>",
+            "homepage": "http://github.com/lprot/movian-plugin-somafm",
+            "category": "music",
+            "downloadURL": "https://repo.movian.eu/somafm.zip",
+            "icon": "https://repo.movian.eu/somafm.png",
+            "popularity": 511
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "MegaPeer",
+            "file": "MegaPeer.js",
+            "showtimeVersion": "5",
+            "version": "0.0.4",
+            "author": "kovalDN",
+            "title": "MegaPeer",
+            "icon": "https://repo.movian.eu/MegaPeer.png",
+            "synopsis": "Онлайн торрент трекер MegaPeer для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру MegaPeer через зеркала сайта, <a href=\"http://megapeer.ru\">http://megapeer.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/MegaPeer.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Torrent.by",
+            "file": "Torrent.by.js",
+            "showtimeVersion": "5",
+            "version": "0.0.3",
+            "author": "kovalDN",
+            "title": "Torrent.by",
+            "icon": "https://repo.movian.eu/Torrent.by.png",
+            "synopsis": "Онлайн торрент трекер Torrent.by для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру Torrent.by через зеркала сайта, <a href=\"http://torrent.by\">http://torrent.by</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Torrent.by.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "UzTor.ru",
+            "file": "UzTor.ru.js",
+            "showtimeVersion": "5",
+            "version": "0.0.2",
+            "author": "kovalDN",
+            "title": "UzTor.ru",
+            "icon": "https://repo.movian.eu/UzTor.ru.png",
+            "synopsis": "Онлайн торрент трекер UzTor.ru для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн торрент трекеру UzTor.ru через зеркала сайта, <a href=\"http://uztor.ru\">http://uztor.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/UzTor.ru.zip"
+        },
+        {
+            "type": "ecmascript",
+            "apiversion": 2,
+            "id": "Rutube",
+            "file": "Rutube.js",
+            "showtimeVersion": "5",
+            "version": "0.0.4",
+            "author": "kovalDN",
+            "title": "Rutube",
+            "icon": "https://repo.movian.eu/Rutube.png",
+            "synopsis": "Онлайн видеопортал Rutube для просмотра фильмов, мультфильмов, сериалов и прочего контента",
+            "category": "video-ru",
+            "description": "<p>Плагин для Movian для доступа к онлайн видеопорталу Rutube через зеркала сайта, <a href=\"https://rutube.ru\">https://rutube.ru</a></p>",
+            "homepage": "https://bit.ly/mprepo",
+            "downloadURL": "https://repo.movian.eu/Rutube.zip"
+        },
+        {
+            "id": "enigma2",
+            "version": "0.2.1",
+            "type": "ecmascript",
+            "author": "lprot",
+            "showtimeVersion": "4.8",
+            "title": "Enigma2",
+            "synopsis": "Streaming from Enigma2 receivers to Movian Media Center",
+            "description": "<p>Enigma2 is a plugin that allows you to stream and watch channels from Enigma2 based satellite receivers to Movian Mediacenter<p>For additional info, visit <a href=\"https://movian.tv\">https://movian.tv</a>",
+            "homepage": "https://github.com/lprot/movian-plugin-enigma2",
+            "category": "tv",
+            "downloadURL": "https://repo.movian.eu/enigma2.zip",
+            "icon": "https://repo.movian.eu/enigma2.png",
+            "popularity": 3622
+        }
+    ],
+    "blacklist": [
+        {
+            "id": "4tube",
+            "version": "0.0.6"
+        },
+        {
+            "id": "4tube",
+            "version": "0.0.7"
+        },
+        {
+            "id": "4tube",
+            "version": "0.0.8"
+        },
+        {
+            "id": "4tube",
+            "version": "0.0.9"
+        },
+        {
+            "id": "4tube",
+            "version": "0.1.0"
+        },
+        {
+            "id": "4tube",
+            "version": "0.1.1"
+        },
+        {
+            "id": "cine.to",
+            "version": "0.1"
+        },
+        {
+            "id": "cine.to",
+            "version": "0.2"
+        },
+        {
+            "id": "cine.to",
+            "version": "0.3"
+        },
+        {
+            "id": "copydotcom",
+            "version": "0.2.2"
+        },
+        {
+            "id": "ex.ua",
+            "version": "0.8.6"
+        },
+        {
+            "id": "FreeArenaBG",
+            "version": "1.0.0"
+        },
+        {
+            "id": "FreeBGSubs",
+            "version": "1.0.0"
+        },
+        {
+            "id": "FreeFormula1",
+            "version": "1.0.1"
+        },
+        {
+            "id": "FreeZamunda",
+            "version": "1.0.0"
+        },
+        {
+            "id": "FreeZelka",
+            "version": "1.0.0"
+        },
+        {
+            "id": "ingfilm",
+            "version": "0.2.1"
+        },
+        {
+            "id": "ingfilm",
+            "version": "0.2.2"
+        },
+        {
+            "id": "ingfilm",
+            "version": "0.2.3"
+        },
+        {
+            "id": "kinox.to",
+            "version": "0.1a"
+        },
+        {
+            "id": "kinox.to",
+            "version": "0.2"
+        },
+        {
+            "id": "kinox.to",
+            "version": "0.2.1"
+        },
+        {
+            "id": "Movie4k",
+            "version": "0.9.7"
+        },
+        {
+            "id": "Movie4k",
+            "version": "0.9.8"
+        },
+        {
+            "id": "Movie4k",
+            "version": "0.9.9"
+        },
+        {
+            "id": "vimeo",
+            "version": "0.9"
+        },
+        {
+            "id": "iptvEPG",
+            "version": "1.1.1"
+        },
+        {
+            "id": "iptvEPG",
+            "version": "1.1.5"
+        },
+        {
+            "id": "iptvEPG",
+            "version": "1.1.6"
+        },
+        {
+            "id": "eztv",
+            "version": "1.0.5"
+        },
+        {
+            "id": "eztv",
+            "version": "1.1.0"
+        },
+        {
+            "id": "tgx",
+            "version": "1.0.6"
+        },
+        {
+            "id": "tgx",
+            "version": "1.1.0"
+        },
+        {
+            "id": "yts.re",
+            "version": "0.4.11"
+        },
+        {
+            "id": "yts.re",
+            "version": "0.4.14"
+        },
+        {
+            "id": "yts.re",
+            "version": "0.4.15"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.0.0"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.1.0"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.2.0"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.2.1"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.2.2"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.3.1"
+        },
+        {
+            "id": "subsBG",
+            "version": "2.9.9"
+        },
+        {
+            "id": "Zelka",
+            "version": "2.2.7"
+        },
+        {
+            "id": "Zelka",
+            "version": "2.3.0"
+        },
+        {
+            "id": "Zelka",
+            "version": "2.9.9"
+        },
+        {
+            "id": "Kolibka",
+            "version": "1.0.6"
+        },
+        {
+            "id": "Kolibka",
+            "version": "1.1.1"
+        },
+        {
+            "id": "Kolibka",
+            "version": "2.9.9"
+        },
+        {
+            "id": "Zamunda.Net",
+            "version": "2.6.4"
+        },
+        {
+            "id": "Zamunda.Net",
+            "version": "2.6.5"
+        },
+        {
+            "id": "Zamunda.Net",
+            "version": "2.7.0"
+        },
+        {
+            "id": "Zamunda.Net",
+            "version": "2.9.9"
+        },
+        {
+            "id": "ArenaBG",
+            "version": "2.4.0"
+        },
+        {
+            "id": "ArenaBG",
+            "version": "2.4.1"
+        },
+        {
+            "id": "ArenaBG",
+            "version": "2.5.0"
+        },
+        {
+            "id": "ArenaBG",
+            "version": "2.9.9"
+        }
+    ],
+    "cc": "US"
 }
