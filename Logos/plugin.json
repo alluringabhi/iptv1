@@ -1,0 +1,19 @@
+{
+	"description": "Plugin to watch Streams",
+	"author": "Superfan",
+	"homepage": "https://api.deanbg.com",
+	"title": "Superstreams",
+	"synopsis": "A collection of streams",
+	"version": "3.2",
+	"file": "jiobyid.js",
+	"showtimeVersion": "5.0.300",
+	"type": "ecmascript",
+	"apiversion": 2,
+	"id": "jiotvbyid",
+	"icon": "logo.png",
+  "downloadURL": "https://raw.githubusercontent.com/alluringabhi/iptv1/master/Logos/jtv.zip",
+	"category": "tv",
+	"control": {
+		"uriprefixes": ["jiotvbyid:"]
+	}
+}
