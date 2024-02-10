@@ -316,104 +316,7 @@
         "group": "Sony"
     },
   
-  {
-      "name": "Colors HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8",
-      "id": "144",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Colors_Cineplex HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Nick HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Sonic Nickelodeon",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "MTV Beats HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "MTV HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Colors Rishtey",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/Colors_Rishtey_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Colors Cineplex Bollywood",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/Colors_Cineplex_Bollywood_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Rishtey Cineplex Bollywood",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Rishtey Cineplex",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Sports18",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB.m3u8",
-      "id": "v-1301985",
-      "country": "IN",
-      "logo": "https://a.rstream.me/images/v/VvVvtIzUkc.png group="
-  },
-  {
-      "name": "Colors_Infinity HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/Colors_Infinity_HD_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "Comedy_Central HD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
-      "group": "VOOT"
-  },
-  {
-      "name": "MTV Beats SD",
-      "link": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/MTV_Beats_voot_MOB.m3u8",
-      "id": "",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
-      "group": "VOOT"
-  },
+ 
 
   {
       "name": "STAR MOVIES HD",
@@ -612,13 +515,7 @@
       "logo": "",
       "group-title": ""
   },
- {
-      "name": "ppv",
-      "link": "https://nayeem-parvez.pw/api/cooltv.m3u8?id=11123",
-      "id": "",
-      "logo": "",
-      "group-title": ""
-  },
+
 
 
   {
