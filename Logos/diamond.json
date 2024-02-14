@@ -32,7 +32,13 @@
         "name": " ASTRO CRICKET"
     },
 
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9",
+        "artwork_uri": "https://dishpromotions.com/wp-content/uploads/ACC-logo.png",
+        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd",
+        "name": "Fox Sports1"
+    },
 
 
 
