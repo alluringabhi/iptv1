@@ -17,6 +17,13 @@
         "name": " Willow HD"
     },
 	
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913",
+        "artwork_uri": "https://dishpromotions.com/wp-content/uploads/ACC-logo.png",
+        "uri": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd",
+        "name": "ACC"
+    },
  {
         "drm_scheme": "clearkey",
         "drm_license_uri": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
