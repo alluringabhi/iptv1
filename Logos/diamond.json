@@ -45,7 +45,13 @@
 
 
 
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc",
+        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Willow_HD.png",
+        "uri": "http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd",
+        "name": " Star Maa"
+    },
 
 
 
