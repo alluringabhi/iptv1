@@ -1,1 +1,100 @@
+[
+{
+        "name": "IN: Star Bharat FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/2b7f152.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Bharat FHD UK",
+        "link": "http://195.26.87.217/live.ts?channelId=305&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/4b1400a.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Gold 2 FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/770f5fd.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Gold FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/770f5fd.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Gold FHD UK",
+        "link": "http://195.26.87.217/live.ts?channelId=12358&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/770f5fd.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Gold Select FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/9ccc18c.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Movies FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/343394a.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Movies Select FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/58a7cb9.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Plus FHD",
+        "link": "http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/f6bcb3a.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Plus FHD.",
+        "link": "http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/4833657.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Plus FHD UK",
+        "link": "http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/534d0da.png",
+        "group-title": "INDIAN"
+    },
+    {
+        "name": "IN: Star Utsav",
+        "link": "http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+        "tvg-id": "",
+        "tvg-link": "",
+        "logo": "http://ujm.from-in.com/panel/imageicon/d6ddb63.png",
+        "group-title": "INDIAN"
+    }
 
+
+]
