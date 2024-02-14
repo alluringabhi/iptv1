@@ -12,7 +12,7 @@
     {
         "drm_scheme": "clearkey",
         "drm_license_uri": "6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc",
-        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Willow_HD.png",
+        "artwork_uri": "https://dishpromotions.com/wp-content/uploads/WLLOW-logo.png",
         "uri": "https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
         "name": " Willow HD"
     },
@@ -32,15 +32,6 @@
 
 
 
-	
-  
- {
-        "drm_scheme": "com.widevine.alpha",
-        "drm_license_uri": "https:\/\/udrmv3.kaltura.com\/cenc\/widevine\/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQc05lbEhrMTBIb0ZxcTVBcUVjeEVEaDRZWGtlUUQwZUhTTHJ4NzdGMjVMTjlScW9YYTBUem5LaVlzOTc1LTVtUWpTMUJONjk2aGNnTEloQlNTa3BtUmNUcy1aZEt0QWxyenZ2dDc4VktyREVJbU5ucmdKdWw3U0NtVTNHbzl0cHAzMUxBaWQyWEpLS2ZPN3NMQ2NZQkJ6M3VINEFwVEg5SVFZbGZldHJJX2s4bWUzNFFVQXJvVUZreU5ta29iYS1VTjJpbGgzRmNpeFBoSWUxS0p3bjlSXy01YXRKbW5rckN1b2FJam0telBQT3ExaTJRNGpPMVJPSnkzMHVIeWRvY0owOGlFQlprWDlvRENPX0J6Y1YxMVpMY3dvSGYzejE0bEpldHpTMkdsMUZmQWdGbVRXZmRNbU5lSzhIYW1ZLXE3cmM4U1Etd21kdGJ3MjRUMkVXaWMtOVNSU2EyTV9sZFZRcVZsbE9SVEsmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQc05lbEhrMTBIb0ZxcTVBcUVjeEVEaDRZWGtlUUQwZUhTTHJ4NzdGMjVMTjlScW9YYTBUem5LaVlzOTc1LTVtUWpTMUJONjk2aGNnTEloQlNTa3BtUmNUcy1aZEt0QWxyenZ2dDc4VktyREVJbU5ucmdKdWw3U0NtVTNHbzl0cHAzMUxBaWQyWEpLS2ZPN3NMQ2NZQkJ6M3VINEFwVEg5SVFZbGZldHJJX2s4bWUzNFFVQXJvVUZreU5ta29iYS1VTjJpbGgzRmNpeFBoSWUxS0p3bjlSXy01YXRKbW5rckN1b2FJam0telBQT3ExaTJRNGpPMVJPSnkzMHVIeWRvY0owOGlFQlprWDlvRENPX0J6Y1YxMVpMY3dvSGYzejE0bEpldHpTMkdsMUZmQWdGbVRXZmRNbU5lSzhIYW1ZLXE3cmM4U1Etd21kdGJ3MjRUMkVXaWMtOVNSU2EyTV9sZFZRcVZsbE9SVEsiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=J3tHGWtTr0bE25W8R3re2iSX%2fNU%3d",
-        "artwork_uri": "https:\/\/production.togglestatic.com\/shain\/v1\/dataservice\/ResizeImage\/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https:\/\/rest-as.ott.kaltura.com\/api_v3\/service\/assetFile\/action\/playManifest\/partnerId\/147\/assetId\/316288\/assetType\/media\/assetFileId\/5754116\/contextType\/PLAYBACK\/isAltUrl\/False\/a.mpd",
-        "name": "Channel 5"
-    },
 
 
 
@@ -48,7 +39,7 @@
 {
         "drm_scheme": "clearkey",
         "drm_license_uri": "6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc",
-        "artwork_uri": "https:\/\/linear-poster.astro.com.my\/prod\/logo\/Willow_HD.png",
+        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/8/80/Star_maa_logo_2023.png",
         "uri": "http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd",
         "name": " Star Maa"
     },
