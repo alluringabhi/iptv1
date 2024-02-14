@@ -315,7 +315,310 @@
         "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen5_HD_Logo_CLR.png",
         "group": "Sony"
     },
-  
+  {
+        "name": "Colors HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "144",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png"
+    },
+    {
+        "name": "Colors Cineplex HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "482",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png"
+    },
+    {
+        "name": "Rishtey Cineplex Superhit",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1450",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png"
+    },
+    {
+        "name": "Colors Cineplex Bollywood",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1763",
+        "title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
+    },
+    {
+        "name": "Rishtey",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1370",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png"
+    },
+    {
+        "name": "Comedy Central HD ",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1364",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq9w31ncX4kqwZXGSw8GT1_ZIf3PMqTg7_A&usqp=CAU"
+    },
+    {
+        "name": "Colors Infinity HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1158",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png"
+    },
+    {
+        "name": "MTV HD Plus",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1145",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png"
+    },
+    {
+        "name": "MTV Beats HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "753",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png"
+    },
+    {
+        "name": "MTV Beats",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1400",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png"
+    },
+    {
+        "name": "Clubbing TV",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1402",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SSnlSsbLLzYEM3jM51S40UBq-vQjykKa2g&usqp=CAU"
+    },
+    {
+        "name": "Nick HD+",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1226",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png"
+    },
+    {
+        "name": "Sonic",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "815",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHin3MwcfFFIz2yhOyqT_1IEBvjNHz3Z5s1g&usqp=CAU"
+    },
+    {
+        "name": "Colors Bengla HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "756",
+        "group-title": "Voot",
+        "tvg-language": "Bengali",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png"
+    },
+    {
+        "name": "Colors Kannada HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "757",
+        "group-title": "Voot",
+        "tvg-language": "Kannada",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png"
+    },
+    {
+        "name": "Colors Marathi HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "755",
+        "group-title": "Voot",
+        "tvg-language": "Marathi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png"
+    },
+    {
+        "name": "Colors Tamil HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "429",
+        "group-title": "Voot",
+        "tvg-language": "Tamil",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png"
+    },
+    {
+        "name": "Colors Gujarati",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "196",
+        "group-title": "Voot",
+        "tvg-language": "Gujarati",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png"
+    },
+    {
+        "name": "Colors Oriya",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "198",
+        "group-title": "Voot",
+        "tvg-language": "Odia",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png"
+    },
+    {
+        "name": "Colors Super",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "785",
+        "group-title": "Voot",
+        "tvg-language": "Kannada",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png"
+    },
+    {
+        "name": "Colors Kannada Cinema",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1632",
+        "group-title": "Voot",
+        "tvg-language": "Kannada",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png"
+    },
+    {
+        "name": "SPORTS 18 HD",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1226",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png"
+    },
+    {
+        "name": "SPORTS 18 Khel",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8",
+        "tvg-id": "1998",
+        "group-title": "Voot",
+        "tvg-language": "Hindi",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png"
+    },
+    {
+        "name": "SPORTS 1",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 2",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 3",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 4",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 5",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 6",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 7",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 8",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 9",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 10",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 11",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 12",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 13",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 14",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
+    {
+        "name": "SPORTS 15",
+        "link": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8",
+        "tvg-id": "",
+        "group-title": "Voot",
+        "tvg-language": "English",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHUQBCkHtmgR0SSukF_zpsMQV9HXPo0QdJw&usqp=CAU"
+    },
  
 
   {
@@ -566,7 +869,7 @@
   
   {
       "name": "ppv",
-      "link": "link",
+      "link": "http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A",
       "id": "",
       "logo": "",
       "group-title": ""
