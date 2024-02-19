@@ -22,7 +22,7 @@
         "drm_license_uri": "a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913",
         "artwork_uri": "https://dishpromotions.com/wp-content/uploads/ACC-logo.png",
         "uri": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd",
-        "name": "ACC"
+        "name": "ACC ESPN"
     },
  {
         "drm_scheme": "clearkey",
@@ -31,27 +31,6 @@
         "uri": "https:\/\/linearjitp02-playback.astro.com.my\/dash-wv\/linear\/2504\/default.mpd",
         "name": " ASTRO CRICKET"
     },
-
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9",
-        "artwork_uri": "https://dishpromotions.com/wp-content/uploads/ACC-logo.png",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd",
-        "name": "Fox Sports1"
-    },
-
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "019109c38852565088802d20c74aef89:6d49d4256a3f9ed49309f820a1b9d339",
-        "artwork_uri": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",
-        "uri": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd",
-        "name": "SET HD"
-    },
-
-
-
-
-
 
 
 
