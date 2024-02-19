@@ -40,7 +40,13 @@
         "name": "Fox Sports1"
     },
 
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://tg-iptv.site/content?id=88",
+        "artwork_uri": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png",
+        "uri": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd",
+        "name": "Movies Now HD"
+    },
 
 
 
