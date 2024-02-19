@@ -862,7 +862,13 @@
         "link": "http://121.91.60.67:8045/play/a01d/index.m3u8"
     },
     
-    
+    {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"vzv8gLUT1r0sHVmgop0sqw\",\"kid\":\"QeRlwa0DUge0WQ\/3UaAi1Q\"}],\"type\":\"temporary\"}",
+        "artwork_uri": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18305-jcqmvp7s-v1\/imageContent-18305-jcqmvp7s-m1.png",
+        "uri": "https:\/\/bpprod1catchup.akamaized.net\/bpk-tv\/irdeto_com_Channel_202\/output\/manifest.mpd",
+        "name": "Colors Infinity"
+    },
     
     
    
