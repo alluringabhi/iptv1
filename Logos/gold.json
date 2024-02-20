@@ -803,22 +803,6 @@
     "id": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"},
 
-	  
-
-  
-
-
-
-  
- {
-      
-       "name": "Star Plus HD -Rs 19",
-       "link": "http://121.91.60.67:8045/play/a004/index.m3u8",
-      "id": "",
-      "logo": "",
-      "group-title": ""
-  },
-
 
 
   {
@@ -829,41 +813,7 @@
       "group-title": ""
   },
 
-{
-        "name": "Disney HD ",
-        "link": "https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8",
-        "tvg-id": "STARPlus.in",
-        "logo": "",
-        "group-title": "t4k-INDIA | HINDI"
-    },
 
-{
-        "name": "StarGold SelHD-Rs8",
-        "link": "http://121.91.60.67:8045/play/a00g/index.m3u8"
-    },
-    
-    {
-        "name": "StarMovieSelHD-Rs19",
-        "link": "http://121.91.60.67:8045/play/a016/index.m3u8"
-    },
-    {
-        "name": "STAR MOVIES HD-Rs19",
-        "link": "http://121.91.60.67:8045/play/a015/index.m3u8"
-    },
-    
-    
-    {
-        "name": "Star Gold Thrills- Rs 2",
-        "link": "http://121.91.60.67:8045/play/a01c/index.m3u8"
-    },
-    
-     {
-        "name": "Star Gold Romance- Rs 2",
-        "link": "http://121.91.60.67:8045/play/a01d/index.m3u8"
-    },
-    
-   
-   
   
   {
       "name": "ppv",
