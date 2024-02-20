@@ -862,20 +862,12 @@
         "link": "http://121.91.60.67:8045/play/a01d/index.m3u8"
     },
     
-    {
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"vzv8gLUT1r0sHVmgop0sqw\",\"kid\":\"QeRlwa0DUge0WQ\/3UaAi1Q\"}],\"type\":\"temporary\"}",
-        "artwork_uri": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18305-jcqmvp7s-v1\/imageContent-18305-jcqmvp7s-m1.png",
-        "uri": "https:\/\/bpprod1catchup.akamaized.net\/bpk-tv\/irdeto_com_Channel_202\/output\/manifest.mpd",
-        "name": "Colors Infinity"
-    },
-    
-    
+   
    
   
   {
       "name": "ppv",
-      "link": "http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A",
+      "link": "http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=m3u8&play_token=GV8NUy0FxS",
       "id": "",
       "logo": "",
       "group-title": ""
