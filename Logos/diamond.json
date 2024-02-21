@@ -7,7 +7,13 @@
         "uri": "https:\/\/tglmp02.akamaized.net\/out\/v1\/b37a81eb3585471cb9c639c78edcdefa\/manifest.mpd",
         "name": "HBO SIGNATURE"
     },
-  
+  {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a",
+        "artwork_uri": "http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",
+        "uri": "https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd",
+        "name": "HBO (Sg)"
+    },
 
     {
         "drm_scheme": "clearkey",
