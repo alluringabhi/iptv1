@@ -37,7 +37,13 @@
         "uri": "https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
         "name": " Willow HD"
     },
-	
+	{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce",
+        "artwork_uri": "https:\/\/poster.starhubgo.com\/Linear_channels2\/511_1920x1080_HTV.png",
+        "uri": "https:\/\/linearjitp02-playback.astro.com.my\/dash-wv\/linear\/2303\/default.mpd",
+        "name": " AXN"
+    },
     {
         "drm_scheme": "clearkey",
         "drm_license_uri": "a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913",
