@@ -14,7 +14,22 @@
         "uri": "https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd",
         "name": "HBO (Sg)"
     },
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c",
+        "artwork_uri": "http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",
+        "uri": "https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd",
+        "name": "HBO Family (Sg)"
+    },
+	
+ {
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7",
+        "artwork_uri": "http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png",
+        "uri": "https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd",
+        "name": "Cinemax (Sg)"
+    },
+	
     {
         "drm_scheme": "clearkey",
         "drm_license_uri": "6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc",
