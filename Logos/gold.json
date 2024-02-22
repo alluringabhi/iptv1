@@ -630,8 +630,6 @@
     "id": "",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg"},
 
-
-
   {
       "name": "Travel XP open in moviandrm",
       "link": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
@@ -640,7 +638,887 @@
       "group-title": ""
   },
 
+{
+        "name": "& flix HD",
+        "link": "http://89.187.177.137:8081/&FLIX/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/3xPN5CVW/flix.jpg"
+    },
+    {
+        "name": "& prive HD",
+        "link": "http://89.187.177.137:8081/&PRIVE/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/nL4J5yhC/prive-HD.jpg"
+    },
+    {
+        "name": "Action Hollywood Movies",
+        "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Xvvk1YYh/Action-Hollywood-Movies.png"
+    },
+    {
+        "name": "AFV Family",
+        "link": "https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vm2VwySK/a3bJ6x5.png"
+    },
+    {
+        "name": "AFV Family",
+        "link": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vm2VwySK/a3bJ6x5.png"
+    },
+    {
+        "name": "Al Jazeera HD",
+        "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/TPkKrhy0/Al-Jazeera.png"
+    },
+    {
+        "name": "Al Jazeera HD",
+        "link": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/TPkKrhy0/Al-Jazeera.png"
+    },
+    {
+        "name": "AMC Movie Station [China]",
+        "link": "https://edge2.laotv.la/live/StarMovie/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/mZCjCmqm/AMC-Movie-Station.jpg"
+    },
+    {
+        "name": "AMG TV",
+        "link": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/XYbBnxq5/download-10.jpg"
+    },
+    {
+        "name": "ANC [Philippine]",
+        "link": "https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/G27yh25y/image.jpg"
+    },
+    {
+        "name": "Aspire TV Life",
+        "link": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Qt8Vn5dG/Aspire-TV-Life.png"
+    },
+    {
+        "name": "AWE",
+        "link": "https://awe-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/JhKf0VcX/300px-AWE-Logo-platinum.jpg"
+    },
+    {
+        "name": "AWE Encore",
+        "link": "https://aweencore-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/zXj60Y6c/mark.png"
+    },
+    {
+        "name": "AXN",
+        "link": "http://170.254.18.106/AXN/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Y0Bg7rtt/AXN-White-Bg-Logo.jpg"
+    },
+    {
+        "name": "Bang Bang TV",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/K859TZ62/bang-bang-512-X512-balck.png"
+    },
+    {
+        "name": "Baywatch",
+        "link": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1tbPwfG0/Baywatch.jpg"
+    },
+    {
+        "name": "Baywatch",
+        "link": "https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1tbPwfG0/Baywatch.jpg"
+    },
+    {
+        "name": "BBC America",
+        "link": "https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/cC7Dy5y5/image_7.png"
+    },
+    {
+        "name": "BBC World News",
+        "link": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/gjWGCPQQ/BBC-World-News.png"
+    },
+    {
+        "name": "Best Action TV",
+        "link": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/VLM6r4cs/Best-Action-TV.jpg"
+    },
+    {
+        "name": "Best Thriller TV",
+        "link": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/HWPmYMcY/Best-Thriller-TV.jpg"
+    },
+    {
+        "name": "Biggest Loser",
+        "link": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fbx4PD9Z/Biggest-Loser.jpg"
+    },
+    {
+        "name": "Black News Channel",
+        "link": "https://blacknewschannel-amazon.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Kv8yM58L/BNC-logo-2021.jpg"
+    },
+    {
+        "name": "Bloomberg TV [SamsungTVPlus]",
+        "link": "https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/sxJs6Htm/Bloomberg-TV.png"
+    },
+    {
+        "name": "Brat TV",
+        "link": "https://brat-rakuten.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fRdzvBYm/lhjj94a.png"
+    },
+    {
+        "name": "Brat TV",
+        "link": "https://brat-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fRdzvBYm/lhjj94a.png"
+    },
+    {
+        "name": "Buzzr Game Show TV",
+        "link": "https://buzzr-samsungus.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1zSwq4wR/1200px-Buzzr-logo-svg.png"
+    },
+    {
+        "name": "Buzzr Game Show TV",
+        "link": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1zSwq4wR/1200px-Buzzr-logo-svg.png"
+    },
+    {
+        "name": "Charge!",
+        "link": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/HxGzLWgN/Charge.png"
+    },
+    {
+        "name": "Charge!",
+        "link": "https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/HxGzLWgN/Charge.png"
+    },
+    {
+        "name": "Choppertown",
+        "link": "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/VNnSwnW3/Choppertown.jpg"
+    },
+    {
+        "name": "CineLife",
+        "link": "https://magnolia-cinelife.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/pVKPMB0M/Cine-Life-web.jpg"
+    },
+	{
+        "name": "Cinemax",
+        "link": "http://64.31.40.14:14031/",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/wvGJGXGR/479f73ecce553344b56c02a7c28047ca.png"
+    },
+    {
+        "name": "Circle Country",
+        "link": "https://circle-roku.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/FHySfcFM/Circle-Country-logo.jpg"
+    },
+    {
+        "name": "Circle Country",
+        "link": "https://circle-samsung.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/FHySfcFM/Circle-Country-logo.jpg"
+    },
+    {
+        "name": "CNN [SamsungTVPlus]",
+        "link": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/prHQDkbR/CNN.png"
+    },
+    {
+        "name": "CNN International",
+        "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/GtVqvDxq/CNN-International.jpg"
+    },
+	
 
+{
+        "name": "Comedy Dynamics",
+        "link": "https://comedydynamics-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/VvX7dvJD/image.jpg"
+    },
+    {
+        "name": "Cowboy Movie Channel",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/T2cTpGpV/cowboy-movie-channel-512-X512-balck.png"
+    },
+    {
+        "name": "Crackle",
+        "link": "https://crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Jn5D0W1j/Crackle.jpg"
+    },
+    {
+        "name": "Curiosity Channel",
+        "link": "https://curiosity-africa.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/667Vz85P/Curiosity.jpg"
+    },
+    {
+        "name": "Demand Africa",
+        "link": "https://demandafrica-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/RVZBjxy2/image.jpg"
+    },
+    {
+        "name": "Dove Channel",
+        "link": "https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MHfLCb2W/330px-Dove-Channel-streaming-service-logo.png"
+    },
+    {
+        "name": "Dove Channel",
+        "link": "https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MHfLCb2W/330px-Dove-Channel-streaming-service-logo.png"
+    },
+    {
+        "name": "Dubai One [UAE]",
+        "link": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/cLkQ4vgF/1173-1.png"
+    },
+    {
+        "name": "DW News [Jagobd]",
+        "link": "https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png"
+    },
+    {
+        "name": "EDGY TV",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-EDGY-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Z5tnkybK/EDGY-TV.jpg"
+    },
+    {
+        "name": "Electric Now",
+        "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/VLR7KTFJ/image_8.png"
+    },
+    {
+        "name": "Encore+",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/SRKG6v2R/encore.jpg"
+    },
+    {
+        "name": "FailArmy [SamsungTVPlus]",
+        "link": "https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Qx2bspdQ/FailArmy.png"
+    },
+    {
+        "name": "Fashion TV",
+        "link": "https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1zDHGz4M/yvNu4Rm.png"
+    },
+    {
+        "name": "Fashion TV [SamsungTVPlus]",
+        "link": "https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/1zDHGz4M/yvNu4Rm.png"
+    },
+    {
+        "name": "Film Stream",
+        "link": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/PfvWr2FC/Film-Stream.jpg"
+    },
+    {
+        "name": "Film Stream [SamsungTVPlus]",
+        "link": "https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/PfvWr2FC/Film-Stream.jpg"
+    },
+    {
+        "name": "Fox 29",
+        "link": "https://247b.mrgamingstreams.com/mrgamingfox.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/sX7GYGzr/Fox-29.jpg"
+    },
+
+{
+        "name": "Fox News US",
+        "link": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Y9vL97LY/download-7.jpg"
+    },
+    {
+        "name": "Fox News US",
+        "link": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Y9vL97LY/download-7.jpg"
+    },
+    {
+        "name": "France 24",
+        "link": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/chunks.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MZg3cVpG/1200px-FRANCE-24-logo-svg.png"
+    },
+    {
+        "name": "Hallmark Drama",
+        "link": "https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MGkHBXr6/XA3l9bN.png"
+    },
+
+{
+        "name": "HBO HD",
+        "link": "https://edge1.laotv.la/live/HBO/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/KcP7XFXw/HBO-HD.jpg"
+    },
+	{
+        "name": "Heritage Tourism TV",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-HERITAGE-TOURISM-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Ls3kgnfk/heritage-tourism-512-X512-balck.png"
+    },
+    {
+        "name": "Highway Thru Hell Channel",
+        "link": "https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/6qmtX574/Mtgr927.png"
+    },
+    {
+        "name": "Hollywire [SamsungTVPlus]",
+        "link": "https://22b41c7f9b3942198977234db2092cd5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_Hollywire/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/NF4pYwt2/Hollywire.png"
+    },
+    {
+        "name": "Horror TV",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Lhd9XRpZ/horrortv-512-X512-balck.png"
+    },
+    {
+        "name": "ION Mystery",
+        "link": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/FRrbkF2G/og-image.png"
+    },
+    {
+        "name": "Kung Fu+",
+        "link": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/h4dXdzxF/kungfuplus.jpg"
+    },
+    {
+        "name": "Kung Fu+",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/h4dXdzxF/kungfuplus.jpg"
+    },
+    {
+        "name": "Local Now Adrenaline Rush",
+        "link": "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/43cQPm35/download-2.png"
+    },
+    {
+        "name": "Local Now Comedy",
+        "link": "https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/52SxCmBq/download-1.png"
+    },
+    {
+        "name": "Local Now Drama",
+        "link": "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/bwLNDT8c/Local-Now-Drama-Google-Search.png"
+    },
+    {
+        "name": "Local Now Family Flix",
+        "link": "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/kgyF2kBJ/download-3.png"
+    },
+    {
+        "name": "Local Now Fear This!",
+        "link": "https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Y2142Q4k/images.jpg"
+    },
+    {
+        "name": "Local Now Romatique",
+        "link": "https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MG8Nwkgz/download-4.png"
+    },
+    {
+        "name": "Local Now That's Funny",
+        "link": "https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/MKCr0261/download-5.png"
+    },
+    {
+        "name": "Local Now Zen",
+        "link": "https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Bvkg32jH/Local-Now-Zen-Google-Search.png"
+    },
+    {
+        "name": "LoL TV",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/HkxxB2mg/2920-294x165-FFFFFF.png"
+    },
+    {
+        "name": "Lone Star",
+        "link": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/d0nHb8wp/2d47fc-32a9c728993d45cc856ef018fa39a014-mv2.png"
+    },
+    {
+        "name": "Lone Star",
+        "link": "https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/d0nHb8wp/2d47fc-32a9c728993d45cc856ef018fa39a014-mv2.png"
+    },
+    {
+        "name": "Love 2 Hate",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-LOVE-2-HATE-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/cJJVF0KM/Love-2-Hate.png"
+    },
+    {
+        "name": "MERCURY+",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-MERCURY-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/cJDk3gMy/mercury-512-X512-balck.png"
+    },
+    {
+        "name": "Millennium TV 24 [Jagobd]",
+        "link": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/HxV3F82G/logo-new-24-02.png"
+    },
+    {
+        "name": "MIX Hollywood [Egypt]",
+        "link": "http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/VsBHVzbN/download-2.jpg"
+    },
+	
+{
+        "name": "MovieSphere UK",
+        "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hs68KMT7/download-3.jpg"
+    },
+    {
+        "name": "MovieSphere US",
+        "link": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hs68KMT7/download-3.jpg"
+    },
+    {
+        "name": "MovieSphere US",
+        "link": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hs68KMT7/download-3.jpg"
+    },
+    {
+        "name": "MovieSphere US",
+        "link": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hs68KMT7/download-3.jpg"
+    },
+    {
+        "name": "Mystery Science Theater 3000",
+        "link": "https://mst3k-localnow.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/QCxG2Vj9/Mystery-Science-Theater-3000.jpg"
+    },
+    {
+        "name": "MyTime Movie Network BR",
+        "link": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fTmvPPjc/site-logo_2.png"
+    },
+    {
+        "name": "MyTime Movie Network UK",
+        "link": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fTmvPPjc/site-logo_2.png"
+    },
+    {
+        "name": "MyTime Movie Network USA",
+        "link": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fTmvPPjc/site-logo_2.png"
+    },
+    {
+        "name": "News 12 New York",
+        "link": "https://lnc-news12.tubi.video/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/m2RWB3Tb/hqdefault-live.jpg"
+    },
+    {
+        "name": "Newsmax TV",
+        "link": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/43GPsWqV/fnxMNd7.png"
+    },
+    {
+        "name": "OAN TV",
+        "link": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/c1m8d2PN/download-12.png"
+    },
+    {
+        "name": "OAN Plus",
+        "link": "https://oan-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/tCj2C86k/OAN-Plus-brand.jpg"
+    },
+    {
+        "name": "OAN Plus",
+        "link": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/tCj2C86k/OAN-Plus-brand.jpg"
+    },
+    {
+        "name": "PBS America",
+        "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-pbshistory-samsunguk/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/V6hZbPhc/pbs-america.jpg"
+    },
+    {
+        "name": "People Are Awesome",
+        "link": "https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/wjYX1w6j/People-Are-Awesome.png"
+    },
+    {
+        "name": "People Are Awesome [SamsungTVPlus]",
+        "link": "https://caeee1dd0eea4dde9429074e7f8e96bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_PeopleAreAwesome/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/wjYX1w6j/People-Are-Awesome.png"
+    },
+    {
+        "name": "PixL TV",
+        "link": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/xT1bzH7G/ee32FsS.png"
+    },
+    {
+        "name": "Rakuten Action Movies",
+        "link": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/6psJJXWS/Rakuten-Action-Movies.jpg"
+    },
+    {
+        "name": "Rakuten Action Movies",
+        "link": "https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/6psJJXWS/Rakuten-Action-Movies.jpg"
+    },
+    {
+        "name": "Rakuten Comedy Movies",
+        "link": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/CLqX4QG4/Rakuten-Comedy-Movies.jpg"
+    },
+    {
+        "name": "Rakuten Family",
+        "link": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/fWgchkMR/Rakuten-Family.jpg"
+    },
+    {
+        "name": "Rakuten Shows",
+        "link": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hnhm78Cs/Rakuten-TV-Shows.jpg"
+    },
+    {
+        "name": "Rakuten Spotlight",
+        "link": "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/hGgkv171/Rakuten-Spotlight.jpg"
+    },
+    {
+        "name": "Rakuten Top Free",
+        "link": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/k5mm8dL8/Rakuten-Top-Free.jpg"
+    },
+    {
+        "name": "Rakuten Shows",
+        "link": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Hnhm78Cs/Rakuten-TV-Shows.jpg"
+    },
+    {
+        "name": "Redbox Comedy",
+        "link": "https://comedy-redbox.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vBBXLXcg/512x512bb.jpg"
+    },
+    {
+        "name": "Redbox Rush TV",
+        "link": "https://rush-redbox.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vBBXLXcg/512x512bb.jpg"
+    },
+    {
+        "name": "Redbox Spotlight TV",
+        "link": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vBBXLXcg/512x512bb.jpg"
+    },
+    {
+        "name": "Redbox War and Westerns TV",
+        "link": "https://redbox-warandwesterns-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/vBBXLXcg/512x512bb.jpg"
+    },
+    {
+        "name": "Republic TV English",
+        "link": "https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/7LmGc3WM/Republic-TV-logo.jpg"
+    },
+    {
+        "name": "Rewind TV",
+        "link": "https://redbox-rewind-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/qRNRsw5q/rewind-tv.jpg"
+    },
+    {
+        "name": "ROCK Action [Indonesia]",
+        "link": "http://210.210.155.35:80/dr9445/h/h15/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/d0j2gpSs/Rock-Action.png"
+    },
+    {
+        "name": "ROCK Entertainment [Indonesia]",
+        "link": "http://210.210.155.35:80/dr9445/h/h16/index.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/tRwSj1zY/Rock-Entertainment.png"
+    },
+	{
+        "name": "Scientology TV",
+        "link": "https://stream6.scientology.org/stream/hls_1280x720_4500k.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/hvpLp0tg/Scientology-Symbol.jpg"
+    },
+    {
+        "name": "SCIFI World",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/PqsXbxgj/SCIFI-WORLD.png"
+    },
+    {
+        "name": "Shout Factory TV",
+        "link": "https://shoutfactory-localnow.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/gJXMmHYC/Shout-Factory-TV.jpg"
+    },
+    {
+        "name": "Sky News",
+        "link": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/q7RZWy60/Sky-News.jpg"
+    },
+	{
+        "name": "The First TV",
+        "link": "https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/BZpCmcNp/The-First-TV-logo.jpg"
+    },
+    {
+        "name": "The Walking Dead Universe",
+        "link": "https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/Z514qCyt/walking-dead-tv-universe-logo.png"
+    },
+    {
+        "name": "TYT Network",
+        "link": "https://tyt-comcast-us.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/15n1Pt8k/image.jpg"
+    },
+    {
+        "name": "Voice of America [Jagobd]",
+        "link": "https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/live-orgin/voa.stream/chunks.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/mZ1HLV9q/voa-300x200.jpg"
+    },
+    {
+        "name": "wedo movies",
+        "link": "https://movies4free-lg.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/jjB3t2K3/wedo-movies.jpg"
+    },
+    {
+        "name": "Yahoo Finance",
+        "link": "https://yahoofinance-localnow.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/TwMBRqWF/Yahoo-Finance-logo.png"
+    },
+    {
+        "name": "Young Hollywood",
+        "link": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
+        "group-title": "English",
+        "logo": "https://i.postimg.cc/NMF2jmq8/young-hollywood.jpg"
+    },
+	{
+        "name": "BabyFirst",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/gcLPfkts/babyfirst.jpg"
+    },
+    {
+        "name": "Beani Kids",
+        "link": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/e3221fcc-3db5-4759-ba9e-ef1478c8329c_0_HLS/manifest.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/g2hvLR05/Beani-Kids.png"
+    },
+    {
+        "name": "Beani Kids",
+        "link": "https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/g2hvLR05/Beani-Kids.png"
+    },
+    {
+        "name": "Cartoon Classics",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/k53G5p2D/Cartoon-Classics.jpg"
+    },
+    {
+        "name": "Cartoon Network [SamsungTVPlus]",
+        "link": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/6q6Xd8Wc/Cartoon-Network.jpg"
+    },
+    {
+        "name": "Cartoon Network",
+        "link": "http://89.254.128.5:22280/cartoon_network/index.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/6q6Xd8Wc/Cartoon-Network.jpg"
+    },
+	{
+        "name": "Chumbak TV",
+        "link": "https://bdtubelive.xyz/shemaroo.m3u8?id=chumbak-tv",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/Y2W166cK/Chumbak-TV.png"
+    },
+    {
+        "name": "Discovery Kids Hindi",
+        "link": "https://dplus.gammacdn.workers.dev/videos/113.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/JhzhstL2/swM1L4e.png"
+    },
+	{
+        "name": "Kiddo+",
+        "link": "https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/N09VvLpb/kiddo.png"
+    },
+    {
+        "name": "Kids Creation TV",
+        "link": "https://vods1.aynaott.com/kidscreation_test/index.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/nhG4bjw1/Kids-Creation-Logo-1.png"
+    },
+	 {
+        "name": "pocket.watch Kids TV",
+        "link": "https://pocketwatch-redbox.amagi.tv/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/yYCSXqXZ/image.png"
+    },
+    {
+        "name": "Pogo [SamsungTVPlus]",
+        "link": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/jj7WLkPz/download-10.jpg"
+    },
+    {
+        "name": "Pop Max",
+        "link": "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/L81Jccf0/POP-Max.jpg"
+    },
+    {
+        "name": "Rongeen TV",
+        "link": "https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/G2PHj8Mt/duronto-tv.jpg"
+    },
+    {
+        "name": "Ryan and Friends",
+        "link": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png"
+    },
+	{
+        "name": "Spacetoon",
+        "link": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/DZ2xBYvJ/Spacetoon-logo.jpg"
+    },
+    {
+        "name": "Tiny Pop",
+        "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/Bb46ZQ3q/Tiny-Pop.jpg"
+    },
+    {
+        "name": "WOW Kidz",
+        "link": "https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi",
+        "group-title": "Kids",
+        "logo": "https://i.postimg.cc/RFYmJhWz/image_82.jpg"
+    },
+
+
+
+
+
+
+
+
+
+
+
+	
   
   {
       "name": "ppv",
