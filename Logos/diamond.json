@@ -78,6 +78,14 @@
     "artwork_uri":"https://upload.wikimedia.org/wikipedia/en/f/f4/Widevine_logo.png",
     "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
     "name": "Widevine DASH"
+  },
+  
+  {    
+    "drm_scheme": "widevine",
+    "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth",
+    "artwork_uri":"https://upload.wikimedia.org/wikipedia/en/f/f4/Widevine_logo.png",
+    "uri": "https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+    "name": "Widevine Bitmovin"
   }
 
 
