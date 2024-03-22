@@ -1,5 +1,15 @@
 [
 
+ {
+        "name": "IPL English 4K (Play in moviandrm if tv dont support 4K)",
+        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1220324/master.m3u8",
+        "id": "ipl1",
+        "logo": "https://en.wikipedia.org/wiki/2024_Indian_Premier_League#/media/File:TATA_IPL_2024_Logo.png",
+        "group": "IPL"
+    },
+
+
+	
     {
         "name": "SET HD",
         "link": "https:\/\/dai.google.com\/linear\/hls\/event\/dBdwOiGaQvy0TA1zOsjV6w\/master.m3u8",
