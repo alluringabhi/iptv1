@@ -2,75 +2,33 @@
 
 			{
         "name": "IPL English 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1220324/master.m3u8",
+        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m2230324/master.m3u8",
         "id": "ipl1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
         "group": "IPL"
 		},
 		{
         "name": "IPL Hindi 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1220324/index.m3u8",
+        "link": "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m2230324/index.m3u8",
         "id": "ipl1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
         "group": "IPL"
 		},
 		{
         "name": "IPL English Adfree",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1220324/master.m3u8",
+        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m2230324/master.m3u8",
         "id": "ipl1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
         "group": "IPL"
 		},
 		{
         "name": "IPL Hindi Adfree",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1220324/master.m3u8",
+        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m2230324/master.m3u8",
         "id": "ipl1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
         "group": "IPL"
 		},
-				
-		{
-        "name": "IPL Bengali Adfree",
-        "link": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
-		{
-        "name": "IPL Malayalam Adfree",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2109706/hd_akamai_iosmob_avc_mal_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
-		{
-        "name": "IPL Odiya Adfree",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2109700/hd_akamai_iosmob_avc_odia_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
-		{
-        "name": "IPL  Gujarati 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2109749/uhd_akamai_atv_avc_guj_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
-	{
-        "name": "IPL Tamil 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
-	{
-        "name": "IPL Telugu 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1220324/master.m3u8",
-        "id": "ipl1",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
-        "group": "IPL"
-		},
+	
 	
 
 
