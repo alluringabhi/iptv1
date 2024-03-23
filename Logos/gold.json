@@ -9,7 +9,7 @@
 		},
 		{
         "name": "IPL Hindi 4K (Play in moviandrm if tv dont support 4K)",
-        "link": "https://prod-ent-live-gm.jiocinema.com//hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m2230324/index.m3u8",
+        "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m2230324/index.m3u8",
         "id": "ipl1",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png",
         "group": "IPL"
