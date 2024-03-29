@@ -1415,7 +1415,7 @@
   
   {
       "name": "ppv",
-      "link": "http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=m3u8&play_token=GV8NUy0FxS",
+      "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1290324/master.m3u8",
       "id": "",
       "logo": "",
       "group-title": ""
