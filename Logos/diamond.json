@@ -1,4 +1,14 @@
 [
+
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://denver1769.in/TP/key.php?id=829",
+        "artwork_uri": "https://media.info/i/lf/0/1507600280/1134.png",
+        "uri": "https://test.ddnetwork.workers.dev/index.mpd?kid=0009df430980c91904926a291cf321fb&ch=https://linear027-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd",
+        "name": "Sky Sports"
+    },
+
+
 	
     {
         "drm_scheme": "clearkey",
