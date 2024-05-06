@@ -1,12 +1,6 @@
 [
 
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "000543c0dc49b43c0e816c2a404249de:836c311dd132a49dbed1049d92800304",
-        "artwork_uri": "https://media.info/i/lf/0/1507600280/1134.png",
-        "uri": "https://test.ddnetwork.workers.dev/index.mpd?kid=0009df430980c91904926a291cf321fb&ch=https://linear027-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd",
-        "name": "Sky Sports"
-    },
+
 
 
 	
@@ -79,61 +73,7 @@
         "name": " Star Maa"
     },
 
-	
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd",
-        "name": " Bein Sports1"
-    },
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd",
-        "name": " Bein Sports2"
-    },
-	
 
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd",
-        "name": " Bein Sports3"
-    },
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd",
-        "name": " Bein Sports4"
-    },
-{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd",
-        "name": " Bein Sports5"
-    },
-
-	{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd",
-        "name": " Bein Sports6"
-    },
-
-		{
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb",
-        "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
-        "uri": "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd",
-        "name": " Bein Sports7"
-    },
- 
   {    
     "drm_scheme": "widevine",
     "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test",
