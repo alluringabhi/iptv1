@@ -163,7 +163,117 @@
         "group": "Sony"
     },
   
-
+{
+        "name": "t.me\/allinonereborn",
+        "link": "https:\/\/embed-cloudfront.wistia.com\/deliveries\/f9c6180d9602d3bd40a42f14434d55d77242f945.m3u8",
+        "id": "",
+        "group": "\ud83e\udd16@allinonereborn",
+        "logo": "https:\/\/i.ibb.co\/RYsYthb\/Screenshot-2024-01-08-172016.png"
+    },
+    {
+        "name": "SET HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/set-hd.m3u8",
+        "id": "1000009246",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SET-LOGO-HD.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony SAB HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sab-hd.m3u8",
+        "id": "1000009248",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY%20SAB%20HD_WHITE.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony PAL",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-pal.m3u8",
+        "id": "1000009273",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY%20PAL.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony YAY",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-yay.m3u8",
+        "id": "1000001971",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY%20YAY.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony AATH",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-aath.m3u8",
+        "id": "1000009255",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY%20AATH.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony Marathi",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-marathi.m3u8",
+        "id": "1000009259",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/Sony_MARATHI.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony Kal",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-kal.m3u8",
+        "logo": "https:\/\/c.evidon.com\/pub_logos\/2796-2021122219404475.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony BBC Earth HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-bbc-earth.m3u8",
+        "id": "1000009252",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SBBCE_LOGO_NEW_PNG.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony PIX HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-pix.m3u8",
+        "id": "1000009258",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/PIX%20HD_WHITE.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony WAH",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-wah.m3u8",
+        "id": "1000009253",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/Sony_WAH.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony MAX HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-max.m3u8",
+        "id": "1000009247",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/Sony_MAX-HD_WHITE.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony MAX2",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-max2.m3u8",
+        "id": "1000044878",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/Sony_MAX2.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony TEN 1 HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-ten1.m3u8",
+        "id": "1000009276",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen1_HD_Logo_CLR.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony TEN 2 HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-ten2.m3u8",
+        "id": "1000009277",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen2_HD_Logo_CLR.png",
+        "group": "SONYLIV"
+    },
+    {
+        "name": "Sony TEN 3 HD",
+        "link": "https:\/\/allinonereborn.tech\/sliv\/sony-ten3.m3u8",
+        "id": "1000009278",
+        "logo": "https:\/\/sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen3_HD_Logo_CLR.png",
+        "group": "SONYLIV"
+    },
 
 
 {
