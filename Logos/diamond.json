@@ -2,13 +2,19 @@
 
 {
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8cd51f3177d64e4798eaea5336c2a721:6a11e488804a219beedb93607ed21b10:8cd51f3177d64e4798eaea5336c2a721",
+        "drm_license_uri": "8cd51f3177d64e4798eaea5336c2a721:6a11e488804a219beedb93607ed21b10",
         "artwork_uri": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
         "uri": "https://liveauth.fancode.com/primary/119039_english_dash_99862drmadfreeta-di_h264/index.mpd",
         "name": "FANCODEE"
     },
 
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "656b70bd6d5274b067af4f96198750e8:d8625d20ac81cbc38b8453d77e2598d8",
+        "artwork_uri": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vpe5dvsdjc/out/v1/a42808efde4a47df880f9e59b7df1d64/cenc.mpd",
+        "name": "Asia Cup"
+    },
 
   {    
     "drm_scheme": "widevine",
