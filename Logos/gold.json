@@ -16,6 +16,14 @@
         "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/6e\/Sony_Kal_Logo.jpeg",
         "group": "Sony"
     },
+    
+    {
+        "name": "Asia cup-1",
+        "link": "https://dai.google.com/ssai/event/HSsEsTjqQhqetGkg5lTNjw/master.m3u8",
+        "id": "sony",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/6e\/Sony_Kal_Logo.jpeg",
+        "group": "Sony"
+    },
     {
         "name": "SET HD",
         "link": "https:\/\/dai.google.com\/linear\/hls\/event\/HgaB-u6rSpGx3mo4Xu3sLw\/master.m3u8",
