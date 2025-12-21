@@ -2,9 +2,9 @@
 
 {
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8cd51f3177d64e4798eaea5336c2a721:6a11e488804a219beedb93607ed21b10",
+        "drm_license_uri": "https://keys.vodep39240327.workers.dev/?key=174",
         "artwork_uri": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
-        "uri": "https://liveauth.fancode.com/primary/119039_english_dash_99862drmadfreeta-di_h264/index.mpd",
+        "uri": "https://keys.vodep39240327.workers.dev/?id=174.mpd",
         "name": "FANCODEE"
     },
 
