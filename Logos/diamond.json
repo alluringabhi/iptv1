@@ -1,6 +1,12 @@
 [
 
-
+{
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "f87b89f3549e5bdb969cb35ea57827b7:022f3fcd6c3035ed2843b0b45bff4304",
+        "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
+        "uri": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1766884816~exp=1766971216~acl=/*~hmac=27d804b9e82b62ebd7627ed84ff0ba49b8149ecd86cb970a8b79f2fd6d14a716&xxx=%7Ccookie=__hdnea__=st=1766884816~exp=1766971216~acl=/*~hmac=27d804b9e82b62ebd7627ed84ff0ba49b8149ecd86cb970a8b79f2fd6d14a716",
+        "name": "Sony"
+    },
 
 {
         "drm_scheme": "clearkey",
