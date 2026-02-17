@@ -4,7 +4,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9",
         "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=",
         "name": "T20"
     },
 
