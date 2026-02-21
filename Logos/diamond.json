@@ -2,9 +2,9 @@
 
 {
         "drm_scheme": "clearkey",
-        "drm_license_uri": "ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f",
+        "drm_license_uri": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f",
         "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/urvst7sxzy/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd",
+        "uri": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
         "name": "T20"
     },
 
