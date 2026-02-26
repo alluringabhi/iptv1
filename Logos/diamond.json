@@ -2,14 +2,14 @@
 
 {
         "drm_scheme": "clearkey",
-        "drm_license_uri": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f",
+        "drm_license_uri":"c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069",
         "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
-        "uri": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
+        "uri": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd",
         "name": "T20"
-    },
+    }, 
 
 {
-        "drm_scheme": "clearkey",
+        "drm_scheme": "clearkey", it will not be making any
         "drm_license_uri": "40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
         "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
         "uri": "https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd",
