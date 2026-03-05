@@ -2,10 +2,10 @@
 
 {
         "drm_scheme": "clearkey",
-        "drm_license_uri":"c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069",
+        "drm_license_uri":"ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b",
         "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
-        "uri": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd",
-        "name": "T20"
+        "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
+        "name": "zee"
     }, 
 
 {
