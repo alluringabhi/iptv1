@@ -1,10 +1,10 @@
 [
 {
   "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jtad.whf.bz/Z/key.php?keyid=523acf1f55485476817958a62a3f2ed9&key=52b3cea435ed25d445f9eae4883c7001",
+    "drm_license_uri": "https://jtad.whf.bz/Z/key.php?keyid=9d2bfb4c9aa45ac488bd92ec0e351217&key=c980b395f0be528c4233417ef6305274",
     "artwork_uri": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
-    "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?__hdnea__=st=1774372400~exp=1789924400~acl=/*~hmac=",
-    "name": "CNBC Tv18 Prime HD"
+    "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1774372400~exp=1789924400~acl=/*~hmac=",
+    "name": "sony max"
     },
 
 
