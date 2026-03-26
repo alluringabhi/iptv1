@@ -1,5 +1,13 @@
 [
 
+  "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jtad.whf.bz/Z/key.php?keyid=810f0869e10c537891203cc70315dd6d&key=b8f7d22abf86cf12444a848ed5dbec13",
+    "artwork_uri": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
+    "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd?__hdnea__=st=1774372400~exp=1789924400~acl=/*~hmac=",
+    "name": "CNBC Tv18 Prime HD"
+    },
+
+
 {
         "drm_scheme": "clearkey",
         "drm_license_uri":"ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b",
