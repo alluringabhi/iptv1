@@ -1,7 +1,7 @@
 [
 {
   "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jtad.whf.bz/Z/key.php?keyid=9d2bfb4c9aa45ac488bd92ec0e351217&key=c980b395f0be528c4233417ef6305274",
+    "drm_license_uri": "http://jtad.whf.bz/Z/key.php?keyid=9d2bfb4c9aa45ac488bd92ec0e351217&key=c980b395f0be528c4233417ef6305274",
     "artwork_uri": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
     "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1774372400~exp=1789924400~acl=/*~hmac=",
     "name": "sony max"
@@ -11,7 +11,7 @@
 {
         "drm_scheme": "clearkey",
         "drm_license_uri":"https://jtad.whf.bz/Z/key.php?keyid=ed068cf84f0640ccbc7c0e395c0a272e&key=bb722190f2bb446391020411a7d0828b",
-        "artwork_uri": "https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
+        "artwork_uri": "http://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",
         "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
         "name": "zee"
     }, 
