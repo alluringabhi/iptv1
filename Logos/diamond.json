@@ -1,10 +1,10 @@
 [
 {
-  "drm_scheme": "clearkey",
-    "drm_license_uri": "http://jtad.whf.bz/Z/key.php?keyid=9d2bfb4c9aa45ac488bd92ec0e351217&key=c980b395f0be528c4233417ef6305274",
+  "drm_scheme": "widevine",
+    "drm_license_uri": "https://tv.media.jio.com/catchupproxy?provider=reliance",
     "artwork_uri": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
     "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1774372400~exp=1789924400~acl=/*~hmac=",
-    "name": "sony max"
+    "name": "test"
     },
 
 
