@@ -3,8 +3,7 @@
   "drm_scheme": "widevine",
     "drm_license_uri": "https://tv.media.jio.com/catchupproxy?provider=reliance",
     "artwork_uri": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
-    "uri": "https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdnea__=st=1784633426~exp=1784655026~acl=/*~hmac=da032ee4617e8e940ebdfc9d3b1e1dbb7a66df9664868559eb94c3600bbc3652",
-    "name": "test"
+    "uri": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1784646805~exp=1784668405~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=94b2a72a6e7433c7f4b5661ed011fbdfb7329f0cea3a87aaed9484873548d022",
     },
 
 
